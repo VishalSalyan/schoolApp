@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "496240528734",
+    "firebase_url": "https://schoolgoa-75974.firebaseio.com",
+    "project_id": "schoolgoa-75974",
+    "storage_bucket": "schoolgoa-75974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496240528734:android:8e4f0a65b90c4b912193cf",
+        "android_client_info": {
+          "package_name": "com.webfills.schoolgoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496240528734-0nigonmsc3gcfvn7l4177m85egg6hu7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxpZadI-d8B5OAzrSXIP8Dfiq_0-4W2ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496240528734-0nigonmsc3gcfvn7l4177m85egg6hu7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

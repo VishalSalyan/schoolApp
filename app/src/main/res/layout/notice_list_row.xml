@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/margin_normal"
+    android:orientation="horizontal">
+
+    <com.webfills.schoolapp.customViews.CircularTextview
+        android:id="@+id/ctvNoticeDate"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:padding="@dimen/padding_normal"
+        android:text="29 Jan"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/textsize_smallx" />
+
+    <LinearLayout
+        android:id="@+id/ll_main_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/ctvNoticeDate"
+        android:layout_toRightOf="@+id/ctvNoticeDate"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvNoticeTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_normal"
+            android:text="Alumni Luncheon"
+            android:textSize="@dimen/textsize_smallxx"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvNoticeSubtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/padding_normal"
+            android:singleLine="true"
+            android:text="School is cordially inviting you alumni luncheon organised for the alumni batch"
+            android:textSize="@dimen/textsize_smallx" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:padding="5dp"
+        android:src="@drawable/ic_delete_black"
+        android:visibility="gone" />
+</RelativeLayout>

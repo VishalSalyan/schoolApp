@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="TxtLableSmall">
+        <item name="android:textSize">@dimen/textsize_smallxx</item>
+
+    </style>
+    <style name="TxtLableWhiteSmall">
+        <item name="android:textSize">@dimen/textsize_smallxx</item>
+        <item name="android:textColor">@color/colorWhite</item>
+
+    </style>
+    <style name="TxtLableNormal">
+        <item name="android:textSize">@dimen/textsize_normal</item>
+
+    </style>
+    <style name="TxtLableNormalx">
+        <item name="android:textSize">@dimen/textsize_normalx</item>
+
+    </style>
+    <style name="TxtLableNormalxx">
+        <item name="android:textSize">@dimen/textsize_normalxx</item>
+
+    </style>
+    <style name="TxtLableWhiteNormal">
+        <item name="android:textSize">@dimen/textsize_normal</item>
+
+    </style>
+</resources>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.brouding:android-simple-dialog:0.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2d6f76cd476f3ea155b0a527c0e777be/jetified-android-simple-dialog-0.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2d6f76cd476f3ea155b0a527c0e777be/jetified-android-simple-dialog-0.3.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.brouding/android-simple-dialog/0.3.0/fe78d6a9e063fe22ac5a6a9b8b1c56cc722b639a/android-simple-dialog-0.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.brouding/android-simple-dialog/0.3.0/99956baf5ab36398d8be39713072c65a15d38803/android-simple-dialog-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
