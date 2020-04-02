@@ -5,6 +5,7 @@ import android.os.Bundle;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.se.omapi.Session;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -20,10 +21,6 @@ import com.webfills.schoolapp.utils.SessionData;
 
 import static com.webfills.schoolapp.utils.Utils.utils;
 
-/**
- * Created by shreyansh on 26-10-2017.
- */
-
 public class LoginActivity extends AppCompatActivity {
     private Button bLogin;
     private TextView createUser;
@@ -34,6 +31,14 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+        //Initialize shared preference
+        SessionData.I().initSharedPref(LoginActivity.this);
+
+        if (SessionData.I().isLogin()) {
+            utils.goTo(LoginActivity.this, MainActivity.class);
+            finish();
+        }
+
         initViews();
         initViewsWithData();
     }
@@ -60,11 +65,9 @@ public class LoginActivity extends AppCompatActivity {
         bLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
                 if (!isValidate()) {
                     return;
                 }
-
                 String user = etUser.getText().toString().trim();
                 String pass = etPassword.getText().toString().trim();
 
@@ -72,15 +75,10 @@ public class LoginActivity extends AppCompatActivity {
                     FireBaseRepo.getInstance.login(user, pass, Constants.ADMIN, new ServerResponse<String>() {
                         @Override
                         public void onSuccess(String body) {
-//                            if (body.equalsIgnoreCase(Constants.ADMIN)) {
                             SessionData.I().isEditable = true;
-//                            } else if (body.equalsIgnoreCase(Constants.TEACHER)) {
-//                                SessionData.I().isEditable = true;
-//                            } else if (body.equalsIgnoreCase(Constants.STUDENT)) {
-//                                SessionData.I().isEditable = false;
-//                            }
+                            SessionData.I().saveLogin(true);
                             utils.goTo(LoginActivity.this, MainActivity.class);
-
+                            finish();
                         }
 
                         @Override
@@ -92,15 +90,10 @@ public class LoginActivity extends AppCompatActivity {
                     FireBaseRepo.getInstance.login(user, pass, Constants.TEACHER, new ServerResponse<String>() {
                         @Override
                         public void onSuccess(String body) {
-//                            if (body.equalsIgnoreCase(Constants.ADMIN)) {
-//                                SessionData.I().isEditable = true;
-//                            } else if (body.equalsIgnoreCase(Constants.TEACHER)) {
                             SessionData.I().isEditable = true;
-//                            } else if (body.equalsIgnoreCase(Constants.STUDENT)) {
-//                                SessionData.I().isEditable = false;
-//                            }
+                            SessionData.I().saveLogin(true);
                             utils.goTo(LoginActivity.this, MainActivity.class);
-
+                            finish();
                         }
 
                         @Override
@@ -112,15 +105,10 @@ public class LoginActivity extends AppCompatActivity {
                     FireBaseRepo.getInstance.login(user, pass, Constants.STUDENT, new ServerResponse<String>() {
                         @Override
                         public void onSuccess(String body) {
-//                            if (body.equalsIgnoreCase(Constants.ADMIN)) {
-//                                SessionData.I().isEditable = true;
-//                            } else if (body.equalsIgnoreCase(Constants.TEACHER)) {
-//                                SessionData.I().isEditable = true;
-//                            } else if (body.equalsIgnoreCase(Constants.STUDENT)) {
                             SessionData.I().isEditable = false;
-//                            }
+                            SessionData.I().saveLogin(true);
                             utils.goTo(LoginActivity.this, MainActivity.class);
-
+                            finish();
                         }
 
                         @Override
@@ -129,8 +117,6 @@ public class LoginActivity extends AppCompatActivity {
                         }
                     });
                 }
-
-
             }
         });
     }

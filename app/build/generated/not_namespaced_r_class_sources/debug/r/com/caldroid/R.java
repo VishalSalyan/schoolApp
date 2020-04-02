@@ -53,11 +53,11 @@ public final class R {
         public static final int cell_bg_dark = 0x7f070070;
         public static final int disable_cell = 0x7f07008a;
         public static final int disabled_cell_dark = 0x7f07008b;
-        public static final int left_arrow = 0x7f0700af;
-        public static final int red_border = 0x7f0700c9;
-        public static final int red_border_dark = 0x7f0700ca;
-        public static final int red_border_gray_bg = 0x7f0700cb;
-        public static final int right_arrow = 0x7f0700cd;
+        public static final int left_arrow = 0x7f0700b0;
+        public static final int red_border = 0x7f0700ca;
+        public static final int red_border_dark = 0x7f0700cb;
+        public static final int red_border_gray_bg = 0x7f0700cc;
+        public static final int right_arrow = 0x7f0700ce;
     }
     public static final class id {
         private id() {}
@@ -68,17 +68,17 @@ public final class R {
         public static final int calendar_right_arrow = 0x7f080058;
         public static final int calendar_title_view = 0x7f080059;
         public static final int calendar_tv = 0x7f08005a;
-        public static final int months_infinite_pager = 0x7f0800f7;
-        public static final int weekday_gridview = 0x7f0801cb;
+        public static final int months_infinite_pager = 0x7f0800f9;
+        public static final int weekday_gridview = 0x7f0801cd;
     }
     public static final class layout {
         private layout() {}
 
-        public static final int calendar_view = 0x7f0b0035;
-        public static final int date_grid_fragment = 0x7f0b0038;
-        public static final int normal_date_cell = 0x7f0b006e;
-        public static final int square_date_cell = 0x7f0b0086;
-        public static final int weekday_textview = 0x7f0b0094;
+        public static final int calendar_view = 0x7f0b0036;
+        public static final int date_grid_fragment = 0x7f0b0039;
+        public static final int normal_date_cell = 0x7f0b006f;
+        public static final int square_date_cell = 0x7f0b0087;
+        public static final int weekday_textview = 0x7f0b0095;
     }
     public static final class string {
         private string() {}

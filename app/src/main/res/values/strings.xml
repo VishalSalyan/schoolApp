@@ -44,4 +44,5 @@
     <string name="subject_name_second">Subject second (optional)</string>
     <string name="create">Create</string>
     <string name="create_teacher">Create Teacher</string>
+    <string name="log_out">Log Out</string>
 </resources>

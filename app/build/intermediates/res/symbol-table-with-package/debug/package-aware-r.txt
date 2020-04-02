@@ -1516,6 +1516,7 @@ drawable ic_file_download_black_24dp
 drawable ic_keyboard_arrow_left_black_24dp
 drawable ic_keyboard_arrow_right_black_24dp
 drawable ic_lock_outline_black_24dp
+drawable ic_log_out
 drawable ic_menu_arrow_down_black_24dp
 drawable ic_menu_arrow_up_black_24dp
 drawable ic_menu_camera
@@ -1770,6 +1771,7 @@ id italic
 id item_touch_helper_previous_elevation
 id iv_delete
 id iv_download_assignment_list_row
+id iv_image
 id iv_media
 id iv_profile_image
 id iv_student_profile
@@ -1809,6 +1811,7 @@ id ll_syllabus
 id lv_student_list
 id masked
 id media_actions
+id menu_log_out
 id message
 id middle
 id mini
@@ -2106,6 +2109,7 @@ layout activity_event
 layout activity_exam_routine
 layout activity_holidays
 layout activity_homework
+layout activity_image
 layout activity_login
 layout activity_main
 layout activity_media
@@ -2326,6 +2330,7 @@ string imagepicker_photo_count_single
 string imagepicker_text_gif
 string imagepicker_title_folder
 string imagepicker_title_image
+string log_out
 string login
 string media
 string mtrl_badge_numberless_content_description

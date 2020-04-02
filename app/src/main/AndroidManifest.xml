@@ -14,14 +14,15 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name="com.webfills.schoolapp.activity.CreateNoticeActivity" />
-        <activity android:name="com.webfills.schoolapp.activity.CreateUserActivity" />
+        <activity android:name=".activity.ImageActivity"></activity>
+        <activity android:name=".activity.CreateNoticeActivity" />
+        <activity android:name=".activity.CreateUserActivity" />
         <activity
-            android:name="com.webfills.schoolapp.activity.MainActivity"
+            android:name=".activity.MainActivity"
             android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.webfills.schoolapp.activity.LoginActivity"
+            android:name=".activity.LoginActivity"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
@@ -31,40 +32,40 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.webfills.schoolapp.activity.AttendanceActivity"
+            android:name=".activity.AttendanceActivity"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.webfills.schoolapp.activity.NoticeActivity"
+            android:name=".activity.NoticeActivity"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.webfills.schoolapp.activity.StudentListActivity"
+            android:name=".activity.StudentListActivity"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.webfills.schoolapp.activity.AssignmentActivity"
+            android:name=".activity.AssignmentActivity"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.webfills.schoolapp.activity.MediaActivity"
+            android:name=".activity.MediaActivity"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.webfills.schoolapp.activity.SchoolActivity"
+            android:name=".activity.SchoolActivity"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.webfills.schoolapp.activity.EventsActivity"
+            android:name=".activity.EventsActivity"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.webfills.schoolapp.activity.SyllabusActivity"
+            android:name=".activity.SyllabusActivity"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.webfills.schoolapp.activity.HomeworkActivity"
+            android:name=".activity.HomeworkActivity"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.webfills.schoolapp.activity.ResultActivity"
+            android:name=".activity.ResultActivity"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.webfills.schoolapp.activity.ExamRoutineActivity"
+            android:name=".activity.ExamRoutineActivity"
             android:windowSoftInputMode="adjustResize" />
-        <activity android:name="com.webfills.schoolapp.activity.HolidaysActivity" />
-        <activity android:name="com.webfills.schoolapp.activity.StudentDetailsActivity" />
+        <activity android:name=".activity.HolidaysActivity" />
+        <activity android:name=".activity.StudentDetailsActivity" />
     </application>
 
 </manifest>

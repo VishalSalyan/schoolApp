@@ -4,8 +4,13 @@ import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.FragmentManager;
+
+import android.util.Log;
+import android.view.Menu;
 import android.view.View;
+
 import com.google.android.material.navigation.NavigationView;
+
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.ActionBarDrawerToggle;
@@ -17,50 +22,53 @@ import android.widget.LinearLayout;
 
 import com.webfills.schoolapp.R;
 import com.webfills.schoolapp.fragments.DashboardFragment;
+import com.webfills.schoolapp.utils.Constants;
+import com.webfills.schoolapp.utils.SessionData;
+
+import static com.webfills.schoolapp.utils.Utils.utils;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, View.OnClickListener {
 
-    static DashboardFragment sdashboardFragment;
-    FragmentManager fragmentManager;
-    LinearLayout llAttendance,llNotice,llStudent,llAssignment,llMedia,llSchool,llEvents,llHolidays,llSyllabus,llHomework,llResult,llExamRoutine;
-    DrawerLayout drawer;
+    //    private DashboardFragment dashboardFragment;
+    private FragmentManager fragmentManager;
+    private LinearLayout llAttendance, llNotice, llStudent, llAssignment, llMedia, llSchool, llEvents, llHolidays, llSyllabus, llHomework, llResult, llExamRoutine;
+    private DrawerLayout drawer;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initialiseVariables();
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
 
-         drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        drawer = findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawer.setDrawerListener(toggle);
         toggle.syncState();
 
-        NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
+        NavigationView navigationView =  findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
-//        selectFragment(0);
     }
 
     private void initialiseVariables() {
-        sdashboardFragment=new DashboardFragment();
-        fragmentManager=getSupportFragmentManager();
-        llAttendance=(LinearLayout)findViewById(R.id.ll_attendance);
-        llNotice=(LinearLayout)findViewById(R.id.ll_notice);
-        llStudent=(LinearLayout)findViewById(R.id.ll_student);
-        llAssignment=(LinearLayout)findViewById(R.id.ll_assignment);
-        llMedia=(LinearLayout)findViewById(R.id.ll_media);
-        llSchool=(LinearLayout)findViewById(R.id.llSchool);
-        llEvents=(LinearLayout)findViewById(R.id.ll_events);
-        llHolidays=(LinearLayout)findViewById(R.id.ll_holidays);
-        llSyllabus=(LinearLayout)findViewById(R.id.ll_syllabus);
-        llHomework=(LinearLayout)findViewById(R.id.ll_homework);
-        llResult=(LinearLayout)findViewById(R.id.ll_result);
-        llExamRoutine=(LinearLayout)findViewById(R.id.ll_exam_routine);
+//        dashboardFragment =new DashboardFragment();
+        fragmentManager = getSupportFragmentManager();
+        llAttendance = findViewById(R.id.ll_attendance);
+        llNotice = findViewById(R.id.ll_notice);
+        llStudent = findViewById(R.id.ll_student);
+        llAssignment = findViewById(R.id.ll_assignment);
+        llMedia = findViewById(R.id.ll_media);
+        llSchool = findViewById(R.id.llSchool);
+        llEvents = findViewById(R.id.ll_events);
+        llHolidays = findViewById(R.id.ll_holidays);
+        llSyllabus = findViewById(R.id.ll_syllabus);
+        llHomework = findViewById(R.id.ll_homework);
+        llResult = findViewById(R.id.ll_result);
+        llExamRoutine = findViewById(R.id.ll_exam_routine);
         llSyllabus.setOnClickListener(this);
         llHomework.setOnClickListener(this);
         llResult.setOnClickListener(this);
@@ -75,23 +83,9 @@ public class MainActivity extends AppCompatActivity
         llAttendance.setOnClickListener(this);
     }
 
-//    private void selectFragment(int i) {
-//        if(i==0){
-//            fragmentManager.beginTransaction()
-//                    .replace(R.id.cl_container, sdashboardFragment,"TAG_FRAGMENT")
-//                    .addToBackStack(null)
-//                    .commit();
-//        }else if(i==1){
-////            fragmentManager.beginTransaction()
-////                    .replace(R.id.rlContainer, fragmentDashboard,"TAG_FRAGMENT")
-////                    .addToBackStack(null)
-////                    .commit();
-//        }
-//    }
-
     @Override
     public void onBackPressed() {
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        DrawerLayout drawer = findViewById(R.id.drawer_layout);
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
         } else {
@@ -100,20 +94,29 @@ public class MainActivity extends AppCompatActivity
     }
 
 
-//    @Override
-//    public boolean onOptionsItemSelected(MenuItem item) {
-//        // Handle action bar item clicks here. The action bar will
-//        // automatically handle clicks on the Home/Up button, so long
-//        // as you specify a parent activity in AndroidManifest.xml.
-//        int id = item.getItemId();
-//
-//        //noinspection SimplifiableIfStatement
-//        if (id == R.id.action_settings) {
-//            return true;
-//        }
-//
-//        return super.onOptionsItemSelected(item);
-//    }
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.main, menu);
+        MenuItem itemAdd = menu.findItem(R.id.add);
+        MenuItem itemDelete = menu.findItem(R.id.delete);
+        MenuItem itemLogOut = menu.findItem(R.id.menu_log_out);
+
+        itemAdd.setVisible(false);
+        itemDelete.setVisible(false);
+        itemLogOut.setVisible(true);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() == R.id.menu_log_out) {
+            SessionData.I().saveLogin(false);
+            utils.goTo(MainActivity.this, LoginActivity.class);
+            return (true);
+        }
+        return (super.onOptionsItemSelected(item));
+    }
 
     @SuppressWarnings("StatementWithEmptyBody")
     @Override
@@ -135,58 +138,58 @@ public class MainActivity extends AppCompatActivity
 
         }
 
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        DrawerLayout drawer = findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
 
     @Override
     public void onClick(View view) {
-        if(view.equals(llAttendance)){
+        if (view.equals(llAttendance)) {
             Intent i = new Intent(MainActivity.this, AttendanceActivity.class);
             startActivity(i);
             drawer.closeDrawer(GravityCompat.START);
-        }else if(view.equals(llNotice)){
+        } else if (view.equals(llNotice)) {
             Intent i = new Intent(MainActivity.this, NoticeActivity.class);
             startActivity(i);
             drawer.closeDrawer(GravityCompat.START);
-        }else if(view.equals(llStudent)){
+        } else if (view.equals(llStudent)) {
             Intent i = new Intent(MainActivity.this, StudentListActivity.class);
             startActivity(i);
             drawer.closeDrawer(GravityCompat.START);
-        }else if(view.equals(llAssignment)){
+        } else if (view.equals(llAssignment)) {
             Intent i = new Intent(MainActivity.this, AssignmentActivity.class);
             startActivity(i);
             drawer.closeDrawer(GravityCompat.START);
-        }else if(view.equals(llMedia)){
+        } else if (view.equals(llMedia)) {
             Intent i = new Intent(MainActivity.this, MediaActivity.class);
             startActivity(i);
             drawer.closeDrawer(GravityCompat.START);
-        }else if(view.equals(llSchool)){
+        } else if (view.equals(llSchool)) {
             Intent i = new Intent(MainActivity.this, SchoolActivity.class);
             startActivity(i);
             drawer.closeDrawer(GravityCompat.START);
-        }else if(view.equals(llEvents)){
+        } else if (view.equals(llEvents)) {
             Intent i = new Intent(MainActivity.this, EventsActivity.class);
             startActivity(i);
             drawer.closeDrawer(GravityCompat.START);
-        }else if(view.equals(llHolidays)){
+        } else if (view.equals(llHolidays)) {
             Intent i = new Intent(MainActivity.this, HolidaysActivity.class);
             startActivity(i);
             drawer.closeDrawer(GravityCompat.START);
-        }else if(view.equals(llSyllabus)){
+        } else if (view.equals(llSyllabus)) {
             Intent i = new Intent(MainActivity.this, SyllabusActivity.class);
             startActivity(i);
             drawer.closeDrawer(GravityCompat.START);
-        }else if(view.equals(llHomework)){
+        } else if (view.equals(llHomework)) {
             Intent i = new Intent(MainActivity.this, HomeworkActivity.class);
             startActivity(i);
             drawer.closeDrawer(GravityCompat.START);
-        }else if(view.equals(llResult)){
+        } else if (view.equals(llResult)) {
             Intent i = new Intent(MainActivity.this, ResultActivity.class);
             startActivity(i);
             drawer.closeDrawer(GravityCompat.START);
-        }else if(view.equals(llExamRoutine)){
+        } else if (view.equals(llExamRoutine)) {
             Intent i = new Intent(MainActivity.this, ExamRoutineActivity.class);
             startActivity(i);
             drawer.closeDrawer(GravityCompat.START);

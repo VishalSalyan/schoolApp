@@ -12,18 +12,17 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.squareup.picasso.Picasso;
 import com.webfills.schoolapp.R;
+import com.webfills.schoolapp.activity.ImageActivity;
 import com.webfills.schoolapp.data.MediaData;
 
 import java.util.ArrayList;
 
+import static com.webfills.schoolapp.utils.Utils.utils;
 
-/**
- * Created by shreyansh on 08-05-2017.
- */
 public class MediaAdapter extends RecyclerView.Adapter<MediaAdapter.MyViewHolder> {
 
     private ArrayList<MediaData> mediaList;
-    Context context;
+    private Context context;
 
     public MediaAdapter(ArrayList<MediaData> mediaList, Context context) {
         this.mediaList = mediaList;
@@ -48,25 +47,10 @@ public class MediaAdapter extends RecyclerView.Adapter<MediaAdapter.MyViewHolder
         holder.imageView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                utils.goTo(context, ImageActivity.class, mediaData.getFileUrl());
             }
         });
     }
-
-//    private void showAssignmentDetails(String title, String description, String date) {
-//        new SimpleDialog.Builder(context)
-//                .setStudentName(title)
-//                .setContent(date + " : " + description)
-//                .setBtnConfirmText("Ok")
-//                .setCancelable(true)
-//                .onConfirm(new SimpleDialog.BtnCallback() {
-//                    @Override
-//                    public void onClick(@NonNull SimpleDialog dialog, @NonNull SimpleDialog.BtnAction which) {
-//                        dialog.dismiss();
-//                    }
-//                })
-//                .show();
-//    }
 
     @Override
     public int getItemCount() {
@@ -76,7 +60,7 @@ public class MediaAdapter extends RecyclerView.Adapter<MediaAdapter.MyViewHolder
     class MyViewHolder extends RecyclerView.ViewHolder {
         private ImageView imageView;
 
-        public MyViewHolder(View view) {
+        MyViewHolder(View view) {
             super(view);
             imageView = view.findViewById(R.id.iv_media);
         }

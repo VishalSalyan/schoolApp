@@ -14,5 +14,12 @@
         android:title="@string/delete"
         android2:studentName="Delete"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_log_out"
+        android:icon="@drawable/ic_log_out"
+        android:title="@string/log_out"
+        android:visible="false"
+        android2:studentName="Delete"
+        app:showAsAction="always" />
 
 </menu>
