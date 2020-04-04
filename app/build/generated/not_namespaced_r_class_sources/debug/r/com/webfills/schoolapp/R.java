@@ -8817,39 +8817,39 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.webfills.schoolgoa:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.webfills.schoolgoa:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.webfills.schoolgoa:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.webfills.schoolgoa:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.webfills.schoolgoa:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #ActionBar_background com.webfills.schoolapp:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.webfills.schoolapp:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.webfills.schoolapp:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.webfills.schoolapp:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.webfills.schoolapp:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.webfills.schoolgoa:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.webfills.schoolgoa:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.webfills.schoolgoa:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.webfills.schoolgoa:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.webfills.schoolapp:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.webfills.schoolapp:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.webfills.schoolapp:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.webfills.schoolapp:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.webfills.schoolgoa:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.webfills.schoolgoa:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.webfills.schoolgoa:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.webfills.schoolgoa:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.webfills.schoolgoa:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.webfills.schoolgoa:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.webfills.schoolgoa:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.webfills.schoolgoa:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.webfills.schoolgoa:icon}</code></td><td>Icon drawable to display at the start of this view.</td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.webfills.schoolgoa:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.webfills.schoolgoa:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.webfills.schoolapp:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.webfills.schoolapp:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.webfills.schoolapp:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.webfills.schoolapp:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.webfills.schoolapp:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.webfills.schoolapp:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.webfills.schoolapp:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.webfills.schoolapp:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.webfills.schoolapp:icon}</code></td><td>Icon drawable to display at the start of this view.</td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.webfills.schoolapp:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.webfills.schoolapp:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
      * system-provided items in the bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.webfills.schoolgoa:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.webfills.schoolgoa:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.webfills.schoolgoa:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #ActionBar_logo com.webfills.schoolapp:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.webfills.schoolapp:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.webfills.schoolapp:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.webfills.schoolgoa:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.webfills.schoolgoa:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.webfills.schoolgoa:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.webfills.schoolgoa:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.webfills.schoolgoa:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.webfills.schoolgoa:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.webfills.schoolapp:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.webfills.schoolapp:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.webfills.schoolapp:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.webfills.schoolapp:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.webfills.schoolapp:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.webfills.schoolapp:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -8901,7 +8901,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:background
+     * @attr name com.webfills.schoolapp:background
      */
     public static final int ActionBar_background=0;
     /**
@@ -8917,7 +8917,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:backgroundSplit
+     * @attr name com.webfills.schoolapp:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
@@ -8933,7 +8933,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:backgroundStacked
+     * @attr name com.webfills.schoolapp:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
@@ -8948,7 +8948,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentInsetEnd
+     * @attr name com.webfills.schoolapp:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
@@ -8963,7 +8963,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentInsetEndWithActions
+     * @attr name com.webfills.schoolapp:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
@@ -8978,7 +8978,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentInsetLeft
+     * @attr name com.webfills.schoolapp:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
@@ -8993,7 +8993,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentInsetRight
+     * @attr name com.webfills.schoolapp:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
@@ -9008,7 +9008,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentInsetStart
+     * @attr name com.webfills.schoolapp:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
@@ -9023,7 +9023,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentInsetStartWithNavigation
+     * @attr name com.webfills.schoolapp:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
@@ -9036,7 +9036,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:customNavigationLayout
+     * @attr name com.webfills.schoolapp:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
@@ -9059,7 +9059,7 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:displayOptions
+     * @attr name com.webfills.schoolapp:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
@@ -9072,7 +9072,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:divider
+     * @attr name com.webfills.schoolapp:divider
      */
     public static final int ActionBar_divider=11;
     /**
@@ -9086,7 +9086,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:elevation
+     * @attr name com.webfills.schoolapp:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
@@ -9100,7 +9100,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:height
+     * @attr name com.webfills.schoolapp:height
      */
     public static final int ActionBar_height=13;
     /**
@@ -9111,7 +9111,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:hideOnContentScroll
+     * @attr name com.webfills.schoolapp:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
@@ -9124,7 +9124,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:homeAsUpIndicator
+     * @attr name com.webfills.schoolapp:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
@@ -9137,7 +9137,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:homeLayout
+     * @attr name com.webfills.schoolapp:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
@@ -9150,7 +9150,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:icon
+     * @attr name com.webfills.schoolapp:icon
      */
     public static final int ActionBar_icon=17;
     /**
@@ -9163,7 +9163,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:indeterminateProgressStyle
+     * @attr name com.webfills.schoolapp:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
@@ -9178,7 +9178,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:itemPadding
+     * @attr name com.webfills.schoolapp:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
@@ -9191,7 +9191,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:logo
+     * @attr name com.webfills.schoolapp:logo
      */
     public static final int ActionBar_logo=20;
     /**
@@ -9210,7 +9210,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:navigationMode
+     * @attr name com.webfills.schoolapp:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
@@ -9224,7 +9224,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:popupTheme
+     * @attr name com.webfills.schoolapp:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
@@ -9238,7 +9238,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:progressBarPadding
+     * @attr name com.webfills.schoolapp:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
@@ -9251,7 +9251,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:progressBarStyle
+     * @attr name com.webfills.schoolapp:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
@@ -9262,7 +9262,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:subtitle
+     * @attr name com.webfills.schoolapp:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
@@ -9275,7 +9275,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:subtitleTextStyle
+     * @attr name com.webfills.schoolapp:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
@@ -9286,7 +9286,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:title
+     * @attr name com.webfills.schoolapp:title
      */
     public static final int ActionBar_title=27;
     /**
@@ -9299,7 +9299,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:titleTextStyle
+     * @attr name com.webfills.schoolapp:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -9381,12 +9381,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.webfills.schoolgoa:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.webfills.schoolgoa:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.webfills.schoolgoa:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.webfills.schoolgoa:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.webfills.schoolgoa:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.webfills.schoolgoa:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.webfills.schoolapp:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.webfills.schoolapp:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.webfills.schoolapp:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.webfills.schoolapp:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.webfills.schoolapp:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.webfills.schoolapp:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -9409,7 +9409,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:background
+     * @attr name com.webfills.schoolapp:background
      */
     public static final int ActionMode_background=0;
     /**
@@ -9425,7 +9425,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:backgroundSplit
+     * @attr name com.webfills.schoolapp:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
@@ -9438,7 +9438,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:closeItemLayout
+     * @attr name com.webfills.schoolapp:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
@@ -9452,7 +9452,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:height
+     * @attr name com.webfills.schoolapp:height
      */
     public static final int ActionMode_height=3;
     /**
@@ -9465,7 +9465,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:subtitleTextStyle
+     * @attr name com.webfills.schoolapp:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
@@ -9478,7 +9478,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:titleTextStyle
+     * @attr name com.webfills.schoolapp:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -9488,8 +9488,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.webfills.schoolgoa:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.webfills.schoolgoa:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.webfills.schoolapp:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.webfills.schoolapp:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -9511,7 +9511,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:expandActivityOverflowButtonDrawable
+     * @attr name com.webfills.schoolapp:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
@@ -9522,7 +9522,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:initialActivityCount
+     * @attr name com.webfills.schoolapp:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -9533,13 +9533,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.webfills.schoolgoa:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.webfills.schoolgoa:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.webfills.schoolgoa:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.webfills.schoolgoa:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.webfills.schoolgoa:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.webfills.schoolgoa:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.webfills.schoolgoa:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.webfills.schoolapp:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.webfills.schoolapp:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.webfills.schoolapp:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.webfills.schoolapp:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.webfills.schoolapp:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.webfills.schoolapp:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.webfills.schoolapp:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -9567,7 +9567,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9576,11 +9576,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:buttonIconDimen
+     * @attr name com.webfills.schoolapp:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9588,11 +9588,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:buttonPanelSideLayout
+     * @attr name com.webfills.schoolapp:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9600,11 +9600,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:listItemLayout
+     * @attr name com.webfills.schoolapp:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9612,11 +9612,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:listLayout
+     * @attr name com.webfills.schoolapp:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9624,21 +9624,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:multiChoiceItemLayout
+     * @attr name com.webfills.schoolapp:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:showTitle
+     * @attr name com.webfills.schoolapp:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9646,7 +9646,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:singleChoiceItemLayout
+     * @attr name com.webfills.schoolapp:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -9872,12 +9872,12 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation com.webfills.schoolgoa:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded com.webfills.schoolgoa:expanded}</code></td><td>The initial expanded state for the AppBarLayout.</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.webfills.schoolgoa:liftOnScroll}</code></td><td>Whether the {@link AppBarLayout} should lift on scroll.</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScrollTargetViewId com.webfills.schoolgoa:liftOnScrollTargetViewId}</code></td><td>The id of the view that the {@link AppBarLayout} should use to determine whether
+     * <tr><td><code>{@link #AppBarLayout_elevation com.webfills.schoolapp:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.webfills.schoolapp:expanded}</code></td><td>The initial expanded state for the AppBarLayout.</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.webfills.schoolapp:liftOnScroll}</code></td><td>Whether the {@link AppBarLayout} should lift on scroll.</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScrollTargetViewId com.webfills.schoolapp:liftOnScrollTargetViewId}</code></td><td>The id of the view that the {@link AppBarLayout} should use to determine whether
      * it should be lifted (i.e., only if {@link R.attr#liftOnScroll} is set to true).</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_statusBarForeground com.webfills.schoolgoa:statusBarForeground}</code></td><td>The drawable to display in front of the layout's content, but behind the status bar.</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_statusBarForeground com.webfills.schoolapp:statusBarForeground}</code></td><td>The drawable to display in front of the layout's content, but behind the status bar.</td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -9938,7 +9938,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:elevation
+     * @attr name com.webfills.schoolapp:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
@@ -9950,7 +9950,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:expanded
+     * @attr name com.webfills.schoolapp:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
@@ -9966,7 +9966,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:liftOnScroll
+     * @attr name com.webfills.schoolapp:liftOnScroll
      */
     public static final int AppBarLayout_liftOnScroll=5;
     /**
@@ -9982,7 +9982,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:liftOnScrollTargetViewId
+     * @attr name com.webfills.schoolapp:liftOnScrollTargetViewId
      */
     public static final int AppBarLayout_liftOnScrollTargetViewId=6;
     /**
@@ -9995,7 +9995,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:statusBarForeground
+     * @attr name com.webfills.schoolapp:statusBarForeground
      */
     public static final int AppBarLayout_statusBarForeground=7;
     /**
@@ -10005,11 +10005,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.webfills.schoolgoa:state_collapsed}</code></td><td>@deprecated in favor of {@link R.attr#state_lifted}.</td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.webfills.schoolgoa:state_collapsible}</code></td><td>@deprecated in favor of {@link R.attr#state_liftable}.</td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.webfills.schoolgoa:state_liftable}</code></td><td>State value for {@link com.google.android.material.appbar.AppBarLayout} set when the view
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.webfills.schoolapp:state_collapsed}</code></td><td>@deprecated in favor of {@link R.attr#state_lifted}.</td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.webfills.schoolapp:state_collapsible}</code></td><td>@deprecated in favor of {@link R.attr#state_liftable}.</td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.webfills.schoolapp:state_liftable}</code></td><td>State value for {@link com.google.android.material.appbar.AppBarLayout} set when the view
      * is liftable (e.g., elevates on collapse or scroll).</td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.webfills.schoolgoa:state_lifted}</code></td><td>State value for {@link com.google.android.material.appbar.AppBarLayout} set when the view
+     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.webfills.schoolapp:state_lifted}</code></td><td>State value for {@link com.google.android.material.appbar.AppBarLayout} set when the view
      * is lifted (elevated).</td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
@@ -10029,7 +10029,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:state_collapsed
+     * @attr name com.webfills.schoolapp:state_collapsed
      */
     @Deprecated
     public static final int AppBarLayoutStates_state_collapsed=0;
@@ -10041,7 +10041,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:state_collapsible
+     * @attr name com.webfills.schoolapp:state_collapsible
      */
     @Deprecated
     public static final int AppBarLayoutStates_state_collapsible=1;
@@ -10054,7 +10054,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:state_liftable
+     * @attr name com.webfills.schoolapp:state_liftable
      */
     public static final int AppBarLayoutStates_state_liftable=2;
     /**
@@ -10066,7 +10066,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:state_lifted
+     * @attr name com.webfills.schoolapp:state_lifted
      */
     public static final int AppBarLayoutStates_state_lifted=3;
     /**
@@ -10076,8 +10076,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.webfills.schoolgoa:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.webfills.schoolgoa:layout_scrollInterpolator}</code></td><td>An interpolator to use when scrolling this View.</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.webfills.schoolapp:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.webfills.schoolapp:layout_scrollInterpolator}</code></td><td>An interpolator to use when scrolling this View.</td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -10086,7 +10086,7 @@ public final class R {
       0x7f0301b1, 0x7f0301b2
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10115,7 +10115,7 @@ public final class R {
      * top and bottom margins, as opposed to the edges of the view itself.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_scrollFlags
+     * @attr name com.webfills.schoolapp:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
@@ -10129,7 +10129,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_scrollInterpolator
+     * @attr name com.webfills.schoolapp:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -10140,9 +10140,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.webfills.schoolgoa:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.webfills.schoolgoa:tint}</code></td><td>Tint to apply to the image source.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.webfills.schoolgoa:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.webfills.schoolapp:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.webfills.schoolapp:tint}</code></td><td>Tint to apply to the image source.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.webfills.schoolapp:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -10178,7 +10178,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:srcCompat
+     * @attr name com.webfills.schoolapp:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -10190,7 +10190,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:tint
+     * @attr name com.webfills.schoolapp:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
@@ -10217,7 +10217,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:tintMode
+     * @attr name com.webfills.schoolapp:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -10228,9 +10228,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.webfills.schoolgoa:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.webfills.schoolgoa:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.webfills.schoolgoa:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.webfills.schoolapp:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.webfills.schoolapp:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.webfills.schoolapp:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -10262,7 +10262,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:tickMark
+     * @attr name com.webfills.schoolapp:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
@@ -10274,7 +10274,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:tickMarkTint
+     * @attr name com.webfills.schoolapp:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
@@ -10301,7 +10301,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:tickMarkTintMode
+     * @attr name com.webfills.schoolapp:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -10441,29 +10441,29 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.webfills.schoolgoa:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.webfills.schoolgoa:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.webfills.schoolgoa:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.webfills.schoolapp:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.webfills.schoolapp:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.webfills.schoolapp:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
      * <code>autoSizeTextType</code> set to <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.webfills.schoolgoa:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.webfills.schoolapp:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
      * <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.webfills.schoolgoa:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableBottomCompat com.webfills.schoolgoa:drawableBottomCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableEndCompat com.webfills.schoolgoa:drawableEndCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableLeftCompat com.webfills.schoolgoa:drawableLeftCompat}</code></td><td>Compound drawables allowing the use of vector drawable when running on older versions
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.webfills.schoolapp:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableBottomCompat com.webfills.schoolapp:drawableBottomCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableEndCompat com.webfills.schoolapp:drawableEndCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableLeftCompat com.webfills.schoolapp:drawableLeftCompat}</code></td><td>Compound drawables allowing the use of vector drawable when running on older versions
      * of the platform.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableRightCompat com.webfills.schoolgoa:drawableRightCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableStartCompat com.webfills.schoolgoa:drawableStartCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTint com.webfills.schoolgoa:drawableTint}</code></td><td>Tint to apply to the compound (left, top, etc.) drawables.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTintMode com.webfills.schoolgoa:drawableTintMode}</code></td><td>Blending mode used to apply the compound (left, top, etc.) drawables tint.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTopCompat com.webfills.schoolgoa:drawableTopCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.webfills.schoolgoa:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.webfills.schoolgoa:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontVariationSettings com.webfills.schoolgoa:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.webfills.schoolgoa:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.webfills.schoolgoa:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.webfills.schoolgoa:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textLocale com.webfills.schoolgoa:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
+     * <tr><td><code>{@link #AppCompatTextView_drawableRightCompat com.webfills.schoolapp:drawableRightCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableStartCompat com.webfills.schoolapp:drawableStartCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTint com.webfills.schoolapp:drawableTint}</code></td><td>Tint to apply to the compound (left, top, etc.) drawables.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTintMode com.webfills.schoolapp:drawableTintMode}</code></td><td>Blending mode used to apply the compound (left, top, etc.) drawables tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTopCompat com.webfills.schoolapp:drawableTopCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.webfills.schoolapp:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.webfills.schoolapp:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontVariationSettings com.webfills.schoolapp:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.webfills.schoolapp:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.webfills.schoolapp:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.webfills.schoolapp:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textLocale com.webfills.schoolapp:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
      * for example "ja-JP,zh-CN".</td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
@@ -10519,7 +10519,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:autoSizeMaxTextSize
+     * @attr name com.webfills.schoolapp:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
@@ -10533,7 +10533,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:autoSizeMinTextSize
+     * @attr name com.webfills.schoolapp:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
@@ -10548,7 +10548,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:autoSizePresetSizes
+     * @attr name com.webfills.schoolapp:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
@@ -10564,7 +10564,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:autoSizeStepGranularity
+     * @attr name com.webfills.schoolapp:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
@@ -10584,11 +10584,11 @@ public final class R {
      * container.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:autoSizeTextType
+     * @attr name com.webfills.schoolapp:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#drawableBottomCompat}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#drawableBottomCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10596,11 +10596,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:drawableBottomCompat
+     * @attr name com.webfills.schoolapp:drawableBottomCompat
      */
     public static final int AppCompatTextView_drawableBottomCompat=6;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#drawableEndCompat}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#drawableEndCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10608,7 +10608,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:drawableEndCompat
+     * @attr name com.webfills.schoolapp:drawableEndCompat
      */
     public static final int AppCompatTextView_drawableEndCompat=7;
     /**
@@ -10622,11 +10622,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:drawableLeftCompat
+     * @attr name com.webfills.schoolapp:drawableLeftCompat
      */
     public static final int AppCompatTextView_drawableLeftCompat=8;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#drawableRightCompat}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#drawableRightCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10634,11 +10634,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:drawableRightCompat
+     * @attr name com.webfills.schoolapp:drawableRightCompat
      */
     public static final int AppCompatTextView_drawableRightCompat=9;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#drawableStartCompat}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#drawableStartCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10646,7 +10646,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:drawableStartCompat
+     * @attr name com.webfills.schoolapp:drawableStartCompat
      */
     public static final int AppCompatTextView_drawableStartCompat=10;
     /**
@@ -10658,7 +10658,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:drawableTint
+     * @attr name com.webfills.schoolapp:drawableTint
      */
     public static final int AppCompatTextView_drawableTint=11;
     /**
@@ -10685,11 +10685,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:drawableTintMode
+     * @attr name com.webfills.schoolapp:drawableTintMode
      */
     public static final int AppCompatTextView_drawableTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#drawableTopCompat}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#drawableTopCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10697,7 +10697,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:drawableTopCompat
+     * @attr name com.webfills.schoolapp:drawableTopCompat
      */
     public static final int AppCompatTextView_drawableTopCompat=13;
     /**
@@ -10712,7 +10712,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:firstBaselineToTopHeight
+     * @attr name com.webfills.schoolapp:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=14;
     /**
@@ -10723,7 +10723,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:fontFamily
+     * @attr name com.webfills.schoolapp:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=15;
     /**
@@ -10734,7 +10734,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:fontVariationSettings
+     * @attr name com.webfills.schoolapp:fontVariationSettings
      */
     public static final int AppCompatTextView_fontVariationSettings=16;
     /**
@@ -10749,7 +10749,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:lastBaselineToBottomHeight
+     * @attr name com.webfills.schoolapp:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=17;
     /**
@@ -10764,7 +10764,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:lineHeight
+     * @attr name com.webfills.schoolapp:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=18;
     /**
@@ -10779,7 +10779,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:textAllCaps
+     * @attr name com.webfills.schoolapp:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=19;
     /**
@@ -10794,7 +10794,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:textLocale
+     * @attr name com.webfills.schoolapp:textLocale
      */
     public static final int AppCompatTextView_textLocale=20;
     /**
@@ -10806,146 +10806,146 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.webfills.schoolgoa:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.webfills.schoolgoa:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.webfills.schoolgoa:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.webfills.schoolapp:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.webfills.schoolapp:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.webfills.schoolapp:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.webfills.schoolgoa:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.webfills.schoolapp:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
      * bar used to present Action Modes.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.webfills.schoolgoa:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.webfills.schoolgoa:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.webfills.schoolgoa:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.webfills.schoolgoa:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.webfills.schoolgoa:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.webfills.schoolgoa:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.webfills.schoolapp:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.webfills.schoolapp:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.webfills.schoolapp:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.webfills.schoolapp:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.webfills.schoolapp:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.webfills.schoolapp:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
      * action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.webfills.schoolgoa:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.webfills.schoolapp:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
      * and layouts destined for the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.webfills.schoolgoa:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.webfills.schoolgoa:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.webfills.schoolgoa:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.webfills.schoolapp:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.webfills.schoolapp:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.webfills.schoolapp:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
      * appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.webfills.schoolgoa:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.webfills.schoolgoa:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.webfills.schoolgoa:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.webfills.schoolgoa:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.webfills.schoolgoa:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.webfills.schoolgoa:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.webfills.schoolgoa:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.webfills.schoolgoa:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.webfills.schoolgoa:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.webfills.schoolgoa:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.webfills.schoolgoa:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.webfills.schoolgoa:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.webfills.schoolgoa:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.webfills.schoolgoa:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.webfills.schoolgoa:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.webfills.schoolgoa:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.webfills.schoolgoa:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.webfills.schoolgoa:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.webfills.schoolgoa:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.webfills.schoolgoa:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.webfills.schoolgoa:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.webfills.schoolgoa:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.webfills.schoolgoa:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.webfills.schoolgoa:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.webfills.schoolgoa:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.webfills.schoolgoa:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.webfills.schoolgoa:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.webfills.schoolgoa:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.webfills.schoolgoa:buttonStyle}</code></td><td>Normal Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.webfills.schoolgoa:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.webfills.schoolgoa:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.webfills.schoolgoa:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.webfills.schoolgoa:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.webfills.schoolgoa:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.webfills.schoolgoa:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.webfills.schoolgoa:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.webfills.schoolgoa:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.webfills.schoolgoa:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.webfills.schoolgoa:colorError}</code></td><td>Color used for error states and things that need to be drawn to
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.webfills.schoolapp:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.webfills.schoolapp:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.webfills.schoolapp:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.webfills.schoolapp:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.webfills.schoolapp:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.webfills.schoolapp:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.webfills.schoolapp:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.webfills.schoolapp:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.webfills.schoolapp:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.webfills.schoolapp:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.webfills.schoolapp:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.webfills.schoolapp:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.webfills.schoolapp:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.webfills.schoolapp:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.webfills.schoolapp:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.webfills.schoolapp:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.webfills.schoolapp:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.webfills.schoolapp:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.webfills.schoolapp:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.webfills.schoolapp:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.webfills.schoolapp:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.webfills.schoolapp:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.webfills.schoolapp:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.webfills.schoolapp:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.webfills.schoolapp:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.webfills.schoolapp:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.webfills.schoolapp:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.webfills.schoolapp:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.webfills.schoolapp:buttonStyle}</code></td><td>Normal Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.webfills.schoolapp:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.webfills.schoolapp:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.webfills.schoolapp:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.webfills.schoolapp:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.webfills.schoolapp:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.webfills.schoolapp:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.webfills.schoolapp:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.webfills.schoolapp:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.webfills.schoolapp:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.webfills.schoolapp:colorError}</code></td><td>Color used for error states and things that need to be drawn to
      * the user's attention.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.webfills.schoolgoa:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.webfills.schoolgoa:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.webfills.schoolgoa:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.webfills.schoolgoa:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.webfills.schoolgoa:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.webfills.schoolgoa:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.webfills.schoolgoa:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.webfills.schoolgoa:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.webfills.schoolgoa:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.webfills.schoolgoa:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.webfills.schoolgoa:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.webfills.schoolgoa:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.webfills.schoolgoa:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.webfills.schoolgoa:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.webfills.schoolgoa:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.webfills.schoolgoa:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.webfills.schoolgoa:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorMultipleAnimated com.webfills.schoolgoa:listChoiceIndicatorMultipleAnimated}</code></td><td>Animated Drawable to use for single choice indicators.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorSingleAnimated com.webfills.schoolgoa:listChoiceIndicatorSingleAnimated}</code></td><td>Animated Drawable to use for multiple choice indicators.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.webfills.schoolgoa:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.webfills.schoolgoa:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.webfills.schoolgoa:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.webfills.schoolgoa:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.webfills.schoolgoa:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.webfills.schoolgoa:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingEnd com.webfills.schoolgoa:listPreferredItemPaddingEnd}</code></td><td>The preferred padding along the end edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.webfills.schoolgoa:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.webfills.schoolgoa:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingStart com.webfills.schoolgoa:listPreferredItemPaddingStart}</code></td><td>The preferred padding along the start edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.webfills.schoolgoa:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.webfills.schoolgoa:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.webfills.schoolgoa:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.webfills.schoolgoa:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.webfills.schoolgoa:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.webfills.schoolgoa:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.webfills.schoolgoa:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.webfills.schoolgoa:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.webfills.schoolgoa:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.webfills.schoolgoa:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.webfills.schoolgoa:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.webfills.schoolgoa:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.webfills.schoolapp:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.webfills.schoolapp:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.webfills.schoolapp:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.webfills.schoolapp:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.webfills.schoolapp:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.webfills.schoolapp:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.webfills.schoolapp:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.webfills.schoolapp:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.webfills.schoolapp:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.webfills.schoolapp:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.webfills.schoolapp:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.webfills.schoolapp:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.webfills.schoolapp:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.webfills.schoolapp:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.webfills.schoolapp:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.webfills.schoolapp:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.webfills.schoolapp:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorMultipleAnimated com.webfills.schoolapp:listChoiceIndicatorMultipleAnimated}</code></td><td>Animated Drawable to use for single choice indicators.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorSingleAnimated com.webfills.schoolapp:listChoiceIndicatorSingleAnimated}</code></td><td>Animated Drawable to use for multiple choice indicators.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.webfills.schoolapp:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.webfills.schoolapp:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.webfills.schoolapp:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.webfills.schoolapp:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.webfills.schoolapp:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.webfills.schoolapp:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingEnd com.webfills.schoolapp:listPreferredItemPaddingEnd}</code></td><td>The preferred padding along the end edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.webfills.schoolapp:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.webfills.schoolapp:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingStart com.webfills.schoolapp:listPreferredItemPaddingStart}</code></td><td>The preferred padding along the start edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.webfills.schoolapp:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.webfills.schoolapp:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.webfills.schoolapp:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.webfills.schoolapp:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.webfills.schoolapp:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.webfills.schoolapp:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.webfills.schoolapp:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.webfills.schoolapp:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.webfills.schoolapp:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.webfills.schoolapp:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.webfills.schoolapp:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.webfills.schoolapp:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
      * that should react to pressed and focus states, but that do not
      * have a clear visual border along the edges.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.webfills.schoolgoa:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.webfills.schoolgoa:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.webfills.schoolgoa:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.webfills.schoolgoa:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.webfills.schoolgoa:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.webfills.schoolgoa:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.webfills.schoolgoa:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.webfills.schoolgoa:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.webfills.schoolgoa:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.webfills.schoolgoa:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.webfills.schoolgoa:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.webfills.schoolgoa:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.webfills.schoolgoa:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.webfills.schoolgoa:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.webfills.schoolgoa:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.webfills.schoolgoa:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.webfills.schoolgoa:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.webfills.schoolgoa:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.webfills.schoolgoa:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.webfills.schoolgoa:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.webfills.schoolapp:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.webfills.schoolapp:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.webfills.schoolapp:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.webfills.schoolapp:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.webfills.schoolapp:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.webfills.schoolapp:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.webfills.schoolapp:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.webfills.schoolapp:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.webfills.schoolapp:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.webfills.schoolapp:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.webfills.schoolapp:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.webfills.schoolapp:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.webfills.schoolapp:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.webfills.schoolapp:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.webfills.schoolapp:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.webfills.schoolapp:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.webfills.schoolapp:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.webfills.schoolapp:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.webfills.schoolapp:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.webfills.schoolapp:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
      * in place of the usual title bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.webfills.schoolgoa:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.webfills.schoolapp:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
      * application content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.webfills.schoolgoa:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.webfills.schoolapp:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
      * when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.webfills.schoolgoa:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.webfills.schoolapp:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.webfills.schoolgoa:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.webfills.schoolapp:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.webfills.schoolgoa:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.webfills.schoolapp:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.webfills.schoolgoa:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.webfills.schoolapp:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.webfills.schoolgoa:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.webfills.schoolapp:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.webfills.schoolgoa:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.webfills.schoolapp:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.webfills.schoolgoa:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.webfills.schoolapp:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -11139,7 +11139,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionBarDivider
+     * @attr name com.webfills.schoolapp:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
@@ -11152,7 +11152,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionBarItemBackground
+     * @attr name com.webfills.schoolapp:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
@@ -11166,7 +11166,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionBarPopupTheme
+     * @attr name com.webfills.schoolapp:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
@@ -11189,7 +11189,7 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:actionBarSize
+     * @attr name com.webfills.schoolapp:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
@@ -11205,7 +11205,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionBarSplitStyle
+     * @attr name com.webfills.schoolapp:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
@@ -11218,11 +11218,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionBarStyle
+     * @attr name com.webfills.schoolapp:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11230,7 +11230,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionBarTabBarStyle
+     * @attr name com.webfills.schoolapp:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
@@ -11243,11 +11243,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionBarTabStyle
+     * @attr name com.webfills.schoolapp:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11255,7 +11255,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionBarTabTextStyle
+     * @attr name com.webfills.schoolapp:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
@@ -11270,7 +11270,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionBarTheme
+     * @attr name com.webfills.schoolapp:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
@@ -11289,7 +11289,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionBarWidgetTheme
+     * @attr name com.webfills.schoolapp:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
@@ -11302,7 +11302,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionButtonStyle
+     * @attr name com.webfills.schoolapp:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
@@ -11315,7 +11315,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionDropDownStyle
+     * @attr name com.webfills.schoolapp:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
@@ -11329,7 +11329,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionMenuTextAppearance
+     * @attr name com.webfills.schoolapp:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
@@ -11345,7 +11345,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionMenuTextColor
+     * @attr name com.webfills.schoolapp:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
@@ -11358,11 +11358,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionModeBackground
+     * @attr name com.webfills.schoolapp:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11370,7 +11370,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionModeCloseButtonStyle
+     * @attr name com.webfills.schoolapp:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
@@ -11383,7 +11383,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionModeCloseDrawable
+     * @attr name com.webfills.schoolapp:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
@@ -11396,7 +11396,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionModeCopyDrawable
+     * @attr name com.webfills.schoolapp:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
@@ -11409,7 +11409,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionModeCutDrawable
+     * @attr name com.webfills.schoolapp:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
@@ -11422,7 +11422,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionModeFindDrawable
+     * @attr name com.webfills.schoolapp:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
@@ -11435,7 +11435,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionModePasteDrawable
+     * @attr name com.webfills.schoolapp:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
@@ -11448,7 +11448,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionModePopupWindowStyle
+     * @attr name com.webfills.schoolapp:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
@@ -11461,7 +11461,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionModeSelectAllDrawable
+     * @attr name com.webfills.schoolapp:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
@@ -11474,7 +11474,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionModeShareDrawable
+     * @attr name com.webfills.schoolapp:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
@@ -11487,11 +11487,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionModeSplitBackground
+     * @attr name com.webfills.schoolapp:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11499,7 +11499,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionModeStyle
+     * @attr name com.webfills.schoolapp:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
@@ -11512,11 +11512,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionModeWebSearchDrawable
+     * @attr name com.webfills.schoolapp:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11524,11 +11524,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionOverflowButtonStyle
+     * @attr name com.webfills.schoolapp:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11536,7 +11536,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionOverflowMenuStyle
+     * @attr name com.webfills.schoolapp:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
@@ -11549,11 +11549,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:activityChooserViewStyle
+     * @attr name com.webfills.schoolapp:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11561,21 +11561,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:alertDialogButtonGroupStyle
+     * @attr name com.webfills.schoolapp:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:alertDialogCenterButtons
+     * @attr name com.webfills.schoolapp:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11583,7 +11583,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:alertDialogStyle
+     * @attr name com.webfills.schoolapp:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
@@ -11596,7 +11596,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:alertDialogTheme
+     * @attr name com.webfills.schoolapp:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -11609,7 +11609,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:autoCompleteTextViewStyle
+     * @attr name com.webfills.schoolapp:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
@@ -11622,7 +11622,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:borderlessButtonStyle
+     * @attr name com.webfills.schoolapp:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
@@ -11635,7 +11635,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:buttonBarButtonStyle
+     * @attr name com.webfills.schoolapp:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
@@ -11648,7 +11648,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:buttonBarNegativeButtonStyle
+     * @attr name com.webfills.schoolapp:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
@@ -11661,7 +11661,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:buttonBarNeutralButtonStyle
+     * @attr name com.webfills.schoolapp:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
@@ -11674,7 +11674,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:buttonBarPositiveButtonStyle
+     * @attr name com.webfills.schoolapp:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
@@ -11687,7 +11687,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:buttonBarStyle
+     * @attr name com.webfills.schoolapp:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
@@ -11700,7 +11700,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:buttonStyle
+     * @attr name com.webfills.schoolapp:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
@@ -11713,7 +11713,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:buttonStyleSmall
+     * @attr name com.webfills.schoolapp:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
@@ -11726,7 +11726,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:checkboxStyle
+     * @attr name com.webfills.schoolapp:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
@@ -11739,7 +11739,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:checkedTextViewStyle
+     * @attr name com.webfills.schoolapp:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
@@ -11752,7 +11752,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:colorAccent
+     * @attr name com.webfills.schoolapp:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
@@ -11764,7 +11764,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:colorBackgroundFloating
+     * @attr name com.webfills.schoolapp:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
@@ -11776,7 +11776,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:colorButtonNormal
+     * @attr name com.webfills.schoolapp:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
@@ -11788,7 +11788,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:colorControlActivated
+     * @attr name com.webfills.schoolapp:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
@@ -11800,7 +11800,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:colorControlHighlight
+     * @attr name com.webfills.schoolapp:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
@@ -11812,7 +11812,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:colorControlNormal
+     * @attr name com.webfills.schoolapp:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
@@ -11829,7 +11829,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:colorError
+     * @attr name com.webfills.schoolapp:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
@@ -11842,7 +11842,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:colorPrimary
+     * @attr name com.webfills.schoolapp:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
@@ -11855,7 +11855,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:colorPrimaryDark
+     * @attr name com.webfills.schoolapp:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
@@ -11867,7 +11867,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:colorSwitchThumbNormal
+     * @attr name com.webfills.schoolapp:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
@@ -11880,7 +11880,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:controlBackground
+     * @attr name com.webfills.schoolapp:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
@@ -11894,7 +11894,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:dialogCornerRadius
+     * @attr name com.webfills.schoolapp:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
@@ -11908,7 +11908,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:dialogPreferredPadding
+     * @attr name com.webfills.schoolapp:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
@@ -11921,7 +11921,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:dialogTheme
+     * @attr name com.webfills.schoolapp:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
@@ -11934,7 +11934,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:dividerHorizontal
+     * @attr name com.webfills.schoolapp:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
@@ -11947,7 +11947,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:dividerVertical
+     * @attr name com.webfills.schoolapp:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
@@ -11960,7 +11960,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:dropDownListViewStyle
+     * @attr name com.webfills.schoolapp:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
@@ -11974,7 +11974,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:dropdownListPreferredItemHeight
+     * @attr name com.webfills.schoolapp:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
@@ -11987,7 +11987,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:editTextBackground
+     * @attr name com.webfills.schoolapp:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
@@ -12003,7 +12003,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:editTextColor
+     * @attr name com.webfills.schoolapp:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
@@ -12016,7 +12016,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:editTextStyle
+     * @attr name com.webfills.schoolapp:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
@@ -12029,7 +12029,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:homeAsUpIndicator
+     * @attr name com.webfills.schoolapp:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
@@ -12042,7 +12042,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:imageButtonStyle
+     * @attr name com.webfills.schoolapp:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
@@ -12055,7 +12055,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:listChoiceBackgroundIndicator
+     * @attr name com.webfills.schoolapp:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
@@ -12068,7 +12068,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:listChoiceIndicatorMultipleAnimated
+     * @attr name com.webfills.schoolapp:listChoiceIndicatorMultipleAnimated
      */
     public static final int AppCompatTheme_listChoiceIndicatorMultipleAnimated=72;
     /**
@@ -12081,7 +12081,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:listChoiceIndicatorSingleAnimated
+     * @attr name com.webfills.schoolapp:listChoiceIndicatorSingleAnimated
      */
     public static final int AppCompatTheme_listChoiceIndicatorSingleAnimated=73;
     /**
@@ -12094,7 +12094,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:listDividerAlertDialog
+     * @attr name com.webfills.schoolapp:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=74;
     /**
@@ -12107,11 +12107,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:listMenuViewStyle
+     * @attr name com.webfills.schoolapp:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=75;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12119,7 +12119,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:listPopupWindowStyle
+     * @attr name com.webfills.schoolapp:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=76;
     /**
@@ -12133,7 +12133,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:listPreferredItemHeight
+     * @attr name com.webfills.schoolapp:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=77;
     /**
@@ -12147,7 +12147,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:listPreferredItemHeightLarge
+     * @attr name com.webfills.schoolapp:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=78;
     /**
@@ -12161,7 +12161,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:listPreferredItemHeightSmall
+     * @attr name com.webfills.schoolapp:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=79;
     /**
@@ -12175,7 +12175,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:listPreferredItemPaddingEnd
+     * @attr name com.webfills.schoolapp:listPreferredItemPaddingEnd
      */
     public static final int AppCompatTheme_listPreferredItemPaddingEnd=80;
     /**
@@ -12189,7 +12189,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:listPreferredItemPaddingLeft
+     * @attr name com.webfills.schoolapp:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=81;
     /**
@@ -12203,7 +12203,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:listPreferredItemPaddingRight
+     * @attr name com.webfills.schoolapp:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=82;
     /**
@@ -12217,7 +12217,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:listPreferredItemPaddingStart
+     * @attr name com.webfills.schoolapp:listPreferredItemPaddingStart
      */
     public static final int AppCompatTheme_listPreferredItemPaddingStart=83;
     /**
@@ -12230,7 +12230,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:panelBackground
+     * @attr name com.webfills.schoolapp:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=84;
     /**
@@ -12243,7 +12243,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:panelMenuListTheme
+     * @attr name com.webfills.schoolapp:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=85;
     /**
@@ -12257,7 +12257,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:panelMenuListWidth
+     * @attr name com.webfills.schoolapp:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=86;
     /**
@@ -12270,7 +12270,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:popupMenuStyle
+     * @attr name com.webfills.schoolapp:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=87;
     /**
@@ -12283,7 +12283,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:popupWindowStyle
+     * @attr name com.webfills.schoolapp:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=88;
     /**
@@ -12296,7 +12296,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:radioButtonStyle
+     * @attr name com.webfills.schoolapp:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=89;
     /**
@@ -12309,7 +12309,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:ratingBarStyle
+     * @attr name com.webfills.schoolapp:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=90;
     /**
@@ -12322,7 +12322,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:ratingBarStyleIndicator
+     * @attr name com.webfills.schoolapp:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=91;
     /**
@@ -12335,7 +12335,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:ratingBarStyleSmall
+     * @attr name com.webfills.schoolapp:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=92;
     /**
@@ -12348,7 +12348,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:searchViewStyle
+     * @attr name com.webfills.schoolapp:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=93;
     /**
@@ -12361,7 +12361,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:seekBarStyle
+     * @attr name com.webfills.schoolapp:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=94;
     /**
@@ -12376,7 +12376,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:selectableItemBackground
+     * @attr name com.webfills.schoolapp:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=95;
     /**
@@ -12389,7 +12389,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:selectableItemBackgroundBorderless
+     * @attr name com.webfills.schoolapp:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=96;
     /**
@@ -12402,7 +12402,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:spinnerDropDownItemStyle
+     * @attr name com.webfills.schoolapp:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=97;
     /**
@@ -12415,7 +12415,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:spinnerStyle
+     * @attr name com.webfills.schoolapp:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=98;
     /**
@@ -12428,7 +12428,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:switchStyle
+     * @attr name com.webfills.schoolapp:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=99;
     /**
@@ -12441,7 +12441,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:textAppearanceLargePopupMenu
+     * @attr name com.webfills.schoolapp:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=100;
     /**
@@ -12454,7 +12454,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:textAppearanceListItem
+     * @attr name com.webfills.schoolapp:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=101;
     /**
@@ -12467,7 +12467,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:textAppearanceListItemSecondary
+     * @attr name com.webfills.schoolapp:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=102;
     /**
@@ -12480,7 +12480,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:textAppearanceListItemSmall
+     * @attr name com.webfills.schoolapp:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=103;
     /**
@@ -12493,7 +12493,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:textAppearancePopupMenuHeader
+     * @attr name com.webfills.schoolapp:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=104;
     /**
@@ -12506,7 +12506,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:textAppearanceSearchResultSubtitle
+     * @attr name com.webfills.schoolapp:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=105;
     /**
@@ -12519,7 +12519,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:textAppearanceSearchResultTitle
+     * @attr name com.webfills.schoolapp:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=106;
     /**
@@ -12532,7 +12532,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:textAppearanceSmallPopupMenu
+     * @attr name com.webfills.schoolapp:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=107;
     /**
@@ -12548,7 +12548,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:textColorAlertDialogListItem
+     * @attr name com.webfills.schoolapp:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=108;
     /**
@@ -12564,7 +12564,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:textColorSearchUrl
+     * @attr name com.webfills.schoolapp:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=109;
     /**
@@ -12577,7 +12577,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:toolbarNavigationButtonStyle
+     * @attr name com.webfills.schoolapp:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=110;
     /**
@@ -12590,7 +12590,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:toolbarStyle
+     * @attr name com.webfills.schoolapp:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=111;
     /**
@@ -12606,7 +12606,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:tooltipForegroundColor
+     * @attr name com.webfills.schoolapp:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=112;
     /**
@@ -12619,17 +12619,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:tooltipFrameBackground
+     * @attr name com.webfills.schoolapp:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=113;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:viewInflaterClass
+     * @attr name com.webfills.schoolapp:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=114;
     /**
@@ -12641,7 +12641,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:windowActionBar
+     * @attr name com.webfills.schoolapp:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=115;
     /**
@@ -12654,7 +12654,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:windowActionBarOverlay
+     * @attr name com.webfills.schoolapp:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=116;
     /**
@@ -12666,7 +12666,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:windowActionModeOverlay
+     * @attr name com.webfills.schoolapp:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=117;
     /**
@@ -12686,7 +12686,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.webfills.schoolgoa:windowFixedHeightMajor
+     * @attr name com.webfills.schoolapp:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=118;
     /**
@@ -12706,7 +12706,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.webfills.schoolgoa:windowFixedHeightMinor
+     * @attr name com.webfills.schoolapp:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=119;
     /**
@@ -12726,7 +12726,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.webfills.schoolgoa:windowFixedWidthMajor
+     * @attr name com.webfills.schoolapp:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=120;
     /**
@@ -12746,7 +12746,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.webfills.schoolgoa:windowFixedWidthMinor
+     * @attr name com.webfills.schoolapp:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=121;
     /**
@@ -12767,7 +12767,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.webfills.schoolgoa:windowMinWidthMajor
+     * @attr name com.webfills.schoolapp:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=122;
     /**
@@ -12788,7 +12788,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.webfills.schoolgoa:windowMinWidthMinor
+     * @attr name com.webfills.schoolapp:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=123;
     /**
@@ -12799,7 +12799,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:windowNoTitle
+     * @attr name com.webfills.schoolapp:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=124;
     /**
@@ -12809,9 +12809,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ArcMotion_maximumAngle com.webfills.schoolgoa:maximumAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ArcMotion_minimumHorizontalAngle com.webfills.schoolgoa:minimumHorizontalAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ArcMotion_minimumVerticalAngle com.webfills.schoolgoa:minimumVerticalAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ArcMotion_maximumAngle com.webfills.schoolapp:maximumAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ArcMotion_minimumHorizontalAngle com.webfills.schoolapp:minimumHorizontalAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ArcMotion_minimumVerticalAngle com.webfills.schoolapp:minimumVerticalAngle}</code></td><td></td></tr>
      * </table>
      * @see #ArcMotion_maximumAngle
      * @see #ArcMotion_minimumHorizontalAngle
@@ -12821,30 +12821,30 @@ public final class R {
       0x7f0301eb, 0x7f0301ef, 0x7f0301f0
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#maximumAngle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#maximumAngle}
      * attribute's value can be found in the {@link #ArcMotion} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:maximumAngle
+     * @attr name com.webfills.schoolapp:maximumAngle
      */
     public static final int ArcMotion_maximumAngle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#minimumHorizontalAngle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#minimumHorizontalAngle}
      * attribute's value can be found in the {@link #ArcMotion} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:minimumHorizontalAngle
+     * @attr name com.webfills.schoolapp:minimumHorizontalAngle
      */
     public static final int ArcMotion_minimumHorizontalAngle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#minimumVerticalAngle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#minimumVerticalAngle}
      * attribute's value can be found in the {@link #ArcMotion} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:minimumVerticalAngle
+     * @attr name com.webfills.schoolapp:minimumVerticalAngle
      */
     public static final int ArcMotion_minimumVerticalAngle=2;
     /**
@@ -12854,11 +12854,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Badge_backgroundColor com.webfills.schoolgoa:backgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Badge_badgeGravity com.webfills.schoolgoa:badgeGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Badge_badgeTextColor com.webfills.schoolgoa:badgeTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Badge_maxCharacterCount com.webfills.schoolgoa:maxCharacterCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Badge_number com.webfills.schoolgoa:number}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_backgroundColor com.webfills.schoolapp:backgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_badgeGravity com.webfills.schoolapp:badgeGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_badgeTextColor com.webfills.schoolapp:badgeTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_maxCharacterCount com.webfills.schoolapp:maxCharacterCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_number com.webfills.schoolapp:number}</code></td><td></td></tr>
      * </table>
      * @see #Badge_backgroundColor
      * @see #Badge_badgeGravity
@@ -12871,18 +12871,18 @@ public final class R {
       0x7f0301f6
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#backgroundColor}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#backgroundColor}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:backgroundColor
+     * @attr name com.webfills.schoolapp:backgroundColor
      */
     public static final int Badge_backgroundColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#badgeGravity}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#badgeGravity}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12897,36 +12897,36 @@ public final class R {
      * <tr><td>TOP_START</td><td>800033</td><td>Gravity.TOP | Gravity.START</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:badgeGravity
+     * @attr name com.webfills.schoolapp:badgeGravity
      */
     public static final int Badge_badgeGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#badgeTextColor}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#badgeTextColor}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:badgeTextColor
+     * @attr name com.webfills.schoolapp:badgeTextColor
      */
     public static final int Badge_badgeTextColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#maxCharacterCount}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#maxCharacterCount}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:maxCharacterCount
+     * @attr name com.webfills.schoolapp:maxCharacterCount
      */
     public static final int Badge_maxCharacterCount=3;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#number}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#number}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:number
+     * @attr name com.webfills.schoolapp:number
      */
     public static final int Badge_number=4;
     /**
@@ -12936,14 +12936,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.webfills.schoolgoa:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_elevation com.webfills.schoolgoa:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.webfills.schoolgoa:fabAlignmentMode}</code></td><td>The alignment of the fab relative to the BottomAppBar.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAnimationMode com.webfills.schoolgoa:fabAnimationMode}</code></td><td>The animation mode that should be used when the fab animates between alignment modes.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.webfills.schoolgoa:fabCradleMargin}</code></td><td>The margin between the semi-circular cradle for the fab and the fab.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.webfills.schoolgoa:fabCradleRoundedCornerRadius}</code></td><td>The radius of the rounded corners on each side of the cradle.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.webfills.schoolgoa:fabCradleVerticalOffset}</code></td><td>The vertical offset between the fab from the cradle.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.webfills.schoolgoa:hideOnScroll}</code></td><td>Whether the BottomAppBar should hide when a NestedScrollView is scrolled.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.webfills.schoolapp:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_elevation com.webfills.schoolapp:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.webfills.schoolapp:fabAlignmentMode}</code></td><td>The alignment of the fab relative to the BottomAppBar.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAnimationMode com.webfills.schoolapp:fabAnimationMode}</code></td><td>The animation mode that should be used when the fab animates between alignment modes.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.webfills.schoolapp:fabCradleMargin}</code></td><td>The margin between the semi-circular cradle for the fab and the fab.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.webfills.schoolapp:fabCradleRoundedCornerRadius}</code></td><td>The radius of the rounded corners on each side of the cradle.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.webfills.schoolapp:fabCradleVerticalOffset}</code></td><td>The vertical offset between the fab from the cradle.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.webfills.schoolapp:hideOnScroll}</code></td><td>Whether the BottomAppBar should hide when a NestedScrollView is scrolled.</td></tr>
      * </table>
      * @see #BottomAppBar_backgroundTint
      * @see #BottomAppBar_elevation
@@ -12967,7 +12967,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:backgroundTint
+     * @attr name com.webfills.schoolapp:backgroundTint
      */
     public static final int BottomAppBar_backgroundTint=0;
     /**
@@ -12981,7 +12981,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:elevation
+     * @attr name com.webfills.schoolapp:elevation
      */
     public static final int BottomAppBar_elevation=1;
     /**
@@ -12999,7 +12999,7 @@ public final class R {
      * <tr><td>end</td><td>1</td><td>Mode that aligns the fab to the end.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:fabAlignmentMode
+     * @attr name com.webfills.schoolapp:fabAlignmentMode
      */
     public static final int BottomAppBar_fabAlignmentMode=2;
     /**
@@ -13017,7 +13017,7 @@ public final class R {
      * <tr><td>slide</td><td>1</td><td>Mode that slides the fab from one alignment mode to the next.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:fabAnimationMode
+     * @attr name com.webfills.schoolapp:fabAnimationMode
      */
     public static final int BottomAppBar_fabAnimationMode=3;
     /**
@@ -13031,7 +13031,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:fabCradleMargin
+     * @attr name com.webfills.schoolapp:fabCradleMargin
      */
     public static final int BottomAppBar_fabCradleMargin=4;
     /**
@@ -13045,7 +13045,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:fabCradleRoundedCornerRadius
+     * @attr name com.webfills.schoolapp:fabCradleRoundedCornerRadius
      */
     public static final int BottomAppBar_fabCradleRoundedCornerRadius=5;
     /**
@@ -13059,7 +13059,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:fabCradleVerticalOffset
+     * @attr name com.webfills.schoolapp:fabCradleVerticalOffset
      */
     public static final int BottomAppBar_fabCradleVerticalOffset=6;
     /**
@@ -13070,7 +13070,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:hideOnScroll
+     * @attr name com.webfills.schoolapp:hideOnScroll
      */
     public static final int BottomAppBar_hideOnScroll=7;
     /**
@@ -13080,19 +13080,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_backgroundTint com.webfills.schoolgoa:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation com.webfills.schoolgoa:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.webfills.schoolgoa:itemBackground}</code></td><td>A background drawable to use for navigation items.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.webfills.schoolgoa:itemHorizontalTranslationEnabled}</code></td><td>Whether the items translate horizontally when in "selected" label visibility mode.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.webfills.schoolgoa:itemIconSize}</code></td><td>The size of the icon navigation items that display an icon</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.webfills.schoolgoa:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemRippleColor com.webfills.schoolgoa:itemRippleColor}</code></td><td>The ColorStateList to use for a ripple background.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.webfills.schoolgoa:itemTextAppearanceActive}</code></td><td>The text appearance to apply to the active navigation item label.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.webfills.schoolgoa:itemTextAppearanceInactive}</code></td><td>The text appearance to apply to the inactive navigation item labels.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.webfills.schoolgoa:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.webfills.schoolgoa:labelVisibilityMode}</code></td><td>Whether navigation items display with a label, without a label, or with a label during
+     * <tr><td><code>{@link #BottomNavigationView_backgroundTint com.webfills.schoolapp:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.webfills.schoolapp:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.webfills.schoolapp:itemBackground}</code></td><td>A background drawable to use for navigation items.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.webfills.schoolapp:itemHorizontalTranslationEnabled}</code></td><td>Whether the items translate horizontally when in "selected" label visibility mode.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.webfills.schoolapp:itemIconSize}</code></td><td>The size of the icon navigation items that display an icon</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.webfills.schoolapp:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemRippleColor com.webfills.schoolapp:itemRippleColor}</code></td><td>The ColorStateList to use for a ripple background.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.webfills.schoolapp:itemTextAppearanceActive}</code></td><td>The text appearance to apply to the active navigation item label.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.webfills.schoolapp:itemTextAppearanceInactive}</code></td><td>The text appearance to apply to the inactive navigation item labels.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.webfills.schoolapp:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.webfills.schoolapp:labelVisibilityMode}</code></td><td>Whether navigation items display with a label, without a label, or with a label during
      * selected state.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu com.webfills.schoolgoa:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.webfills.schoolapp:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
      * </table>
      * @see #BottomNavigationView_backgroundTint
      * @see #BottomNavigationView_elevation
@@ -13121,7 +13121,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:backgroundTint
+     * @attr name com.webfills.schoolapp:backgroundTint
      */
     public static final int BottomNavigationView_backgroundTint=0;
     /**
@@ -13135,7 +13135,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:elevation
+     * @attr name com.webfills.schoolapp:elevation
      */
     public static final int BottomNavigationView_elevation=1;
     /**
@@ -13149,7 +13149,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemBackground
+     * @attr name com.webfills.schoolapp:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=2;
     /**
@@ -13160,7 +13160,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:itemHorizontalTranslationEnabled
+     * @attr name com.webfills.schoolapp:itemHorizontalTranslationEnabled
      */
     public static final int BottomNavigationView_itemHorizontalTranslationEnabled=3;
     /**
@@ -13174,7 +13174,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:itemIconSize
+     * @attr name com.webfills.schoolapp:itemIconSize
      */
     public static final int BottomNavigationView_itemIconSize=4;
     /**
@@ -13187,7 +13187,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemIconTint
+     * @attr name com.webfills.schoolapp:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=5;
     /**
@@ -13201,7 +13201,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemRippleColor
+     * @attr name com.webfills.schoolapp:itemRippleColor
      */
     public static final int BottomNavigationView_itemRippleColor=6;
     /**
@@ -13216,7 +13216,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemTextAppearanceActive
+     * @attr name com.webfills.schoolapp:itemTextAppearanceActive
      */
     public static final int BottomNavigationView_itemTextAppearanceActive=7;
     /**
@@ -13232,7 +13232,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemTextAppearanceInactive
+     * @attr name com.webfills.schoolapp:itemTextAppearanceInactive
      */
     public static final int BottomNavigationView_itemTextAppearanceInactive=8;
     /**
@@ -13246,7 +13246,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemTextColor
+     * @attr name com.webfills.schoolapp:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=9;
     /**
@@ -13269,7 +13269,7 @@ public final class R {
      * <tr><td>unlabeled</td><td>2</td><td>Label is not shown on any navigation items.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:labelVisibilityMode
+     * @attr name com.webfills.schoolapp:labelVisibilityMode
      */
     public static final int BottomNavigationView_labelVisibilityMode=10;
     /**
@@ -13283,7 +13283,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:menu
+     * @attr name com.webfills.schoolapp:menu
      */
     public static final int BottomNavigationView_menu=11;
     /**
@@ -13294,17 +13294,17 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #BottomSheetBehavior_Layout_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_backgroundTint com.webfills.schoolgoa:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_expandedOffset com.webfills.schoolgoa:behavior_expandedOffset}</code></td><td>The top offset of the BottomSheet in the expanded-state when fitsToContent is false.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.webfills.schoolgoa:behavior_fitToContents}</code></td><td>Whether height of expanded sheet wraps content or not</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_halfExpandedRatio com.webfills.schoolgoa:behavior_halfExpandedRatio}</code></td><td>The ratio to be used to set the height of half-expanded state in proportion to parent, when
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_backgroundTint com.webfills.schoolapp:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_expandedOffset com.webfills.schoolapp:behavior_expandedOffset}</code></td><td>The top offset of the BottomSheet in the expanded-state when fitsToContent is false.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.webfills.schoolapp:behavior_fitToContents}</code></td><td>Whether height of expanded sheet wraps content or not</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_halfExpandedRatio com.webfills.schoolapp:behavior_halfExpandedRatio}</code></td><td>The ratio to be used to set the height of half-expanded state in proportion to parent, when
      * fitToContents is false.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.webfills.schoolgoa:behavior_hideable}</code></td><td>Whether this bottom sheet can be hidden by dragging it further downwards</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.webfills.schoolgoa:behavior_peekHeight}</code></td><td>The height of the bottom sheet when it is collapsed.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_saveFlags com.webfills.schoolgoa:behavior_saveFlags}</code></td><td>Behavior properties will be saved and restored by evaluating each flag.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.webfills.schoolgoa:behavior_skipCollapsed}</code></td><td>Skip the collapsed state once expanded; no effect unless it is hideable</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_shapeAppearance com.webfills.schoolgoa:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_shapeAppearanceOverlay com.webfills.schoolgoa:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.webfills.schoolapp:behavior_hideable}</code></td><td>Whether this bottom sheet can be hidden by dragging it further downwards</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.webfills.schoolapp:behavior_peekHeight}</code></td><td>The height of the bottom sheet when it is collapsed.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_saveFlags com.webfills.schoolapp:behavior_saveFlags}</code></td><td>Behavior properties will be saved and restored by evaluating each flag.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.webfills.schoolapp:behavior_skipCollapsed}</code></td><td>Skip the collapsed state once expanded; no effect unless it is hideable</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_shapeAppearance com.webfills.schoolapp:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_shapeAppearanceOverlay com.webfills.schoolapp:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_android_elevation
      * @see #BottomSheetBehavior_Layout_backgroundTint
@@ -13347,7 +13347,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:backgroundTint
+     * @attr name com.webfills.schoolapp:backgroundTint
      */
     public static final int BottomSheetBehavior_Layout_backgroundTint=1;
     /**
@@ -13362,7 +13362,7 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:behavior_expandedOffset
+     * @attr name com.webfills.schoolapp:behavior_expandedOffset
      */
     public static final int BottomSheetBehavior_Layout_behavior_expandedOffset=2;
     /**
@@ -13373,7 +13373,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:behavior_fitToContents
+     * @attr name com.webfills.schoolapp:behavior_fitToContents
      */
     public static final int BottomSheetBehavior_Layout_behavior_fitToContents=3;
     /**
@@ -13390,7 +13390,7 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:behavior_halfExpandedRatio
+     * @attr name com.webfills.schoolapp:behavior_halfExpandedRatio
      */
     public static final int BottomSheetBehavior_Layout_behavior_halfExpandedRatio=4;
     /**
@@ -13401,7 +13401,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:behavior_hideable
+     * @attr name com.webfills.schoolapp:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=5;
     /**
@@ -13423,7 +13423,7 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td>Peek at the 16:9 ratio keyline of its parent</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:behavior_peekHeight
+     * @attr name com.webfills.schoolapp:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=6;
     /**
@@ -13448,7 +13448,7 @@ public final class R {
      * <tr><td>skipCollapsed</td><td>8</td><td>This flag will preserve the skipCollapsed boolean value on configuration change.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:behavior_saveFlags
+     * @attr name com.webfills.schoolapp:behavior_saveFlags
      */
     public static final int BottomSheetBehavior_Layout_behavior_saveFlags=7;
     /**
@@ -13459,7 +13459,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:behavior_skipCollapsed
+     * @attr name com.webfills.schoolapp:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=8;
     /**
@@ -13473,7 +13473,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearance
+     * @attr name com.webfills.schoolapp:shapeAppearance
      */
     public static final int BottomSheetBehavior_Layout_shapeAppearance=9;
     /**
@@ -13487,7 +13487,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearanceOverlay
+     * @attr name com.webfills.schoolapp:shapeAppearanceOverlay
      */
     public static final int BottomSheetBehavior_Layout_shapeAppearanceOverlay=10;
     /**
@@ -13497,7 +13497,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.webfills.schoolgoa:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.webfills.schoolapp:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.</td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
@@ -13514,7 +13514,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:allowStacking
+     * @attr name com.webfills.schoolapp:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -13526,17 +13526,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor com.webfills.schoolgoa:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius com.webfills.schoolgoa:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation com.webfills.schoolgoa:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation com.webfills.schoolgoa:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.webfills.schoolgoa:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.webfills.schoolgoa:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding com.webfills.schoolgoa:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom com.webfills.schoolgoa:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft com.webfills.schoolgoa:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight com.webfills.schoolgoa:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop com.webfills.schoolgoa:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor com.webfills.schoolapp:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius com.webfills.schoolapp:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation com.webfills.schoolapp:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation com.webfills.schoolapp:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.webfills.schoolapp:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.webfills.schoolapp:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding com.webfills.schoolapp:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom com.webfills.schoolapp:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft com.webfills.schoolapp:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight com.webfills.schoolapp:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop com.webfills.schoolapp:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -13595,7 +13595,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:cardBackgroundColor
+     * @attr name com.webfills.schoolapp:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
@@ -13609,7 +13609,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:cardCornerRadius
+     * @attr name com.webfills.schoolapp:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
@@ -13623,7 +13623,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:cardElevation
+     * @attr name com.webfills.schoolapp:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
@@ -13637,7 +13637,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:cardMaxElevation
+     * @attr name com.webfills.schoolapp:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
@@ -13648,7 +13648,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:cardPreventCornerOverlap
+     * @attr name com.webfills.schoolapp:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
@@ -13659,7 +13659,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:cardUseCompatPadding
+     * @attr name com.webfills.schoolapp:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
@@ -13673,7 +13673,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentPadding
+     * @attr name com.webfills.schoolapp:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
@@ -13687,7 +13687,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentPaddingBottom
+     * @attr name com.webfills.schoolapp:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
@@ -13701,7 +13701,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentPaddingLeft
+     * @attr name com.webfills.schoolapp:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
@@ -13715,7 +13715,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentPaddingRight
+     * @attr name com.webfills.schoolapp:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
@@ -13729,7 +13729,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentPaddingTop
+     * @attr name com.webfills.schoolapp:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -13785,7 +13785,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChangeBounds_resizeClip com.webfills.schoolgoa:resizeClip}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChangeBounds_resizeClip com.webfills.schoolapp:resizeClip}</code></td><td></td></tr>
      * </table>
      * @see #ChangeBounds_resizeClip
      */
@@ -13793,13 +13793,13 @@ public final class R {
       0x7f030218
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#resizeClip}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#resizeClip}
      * attribute's value can be found in the {@link #ChangeBounds} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:resizeClip
+     * @attr name com.webfills.schoolapp:resizeClip
      */
     public static final int ChangeBounds_resizeClip=0;
     /**
@@ -13809,8 +13809,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChangeTransform_reparent com.webfills.schoolgoa:reparent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChangeTransform_reparentWithOverlay com.webfills.schoolgoa:reparentWithOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChangeTransform_reparent com.webfills.schoolapp:reparent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChangeTransform_reparentWithOverlay com.webfills.schoolapp:reparentWithOverlay}</code></td><td></td></tr>
      * </table>
      * @see #ChangeTransform_reparent
      * @see #ChangeTransform_reparentWithOverlay
@@ -13819,23 +13819,23 @@ public final class R {
       0x7f030216, 0x7f030217
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#reparent}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#reparent}
      * attribute's value can be found in the {@link #ChangeTransform} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:reparent
+     * @attr name com.webfills.schoolapp:reparent
      */
     public static final int ChangeTransform_reparent=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#reparentWithOverlay}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#reparentWithOverlay}
      * attribute's value can be found in the {@link #ChangeTransform} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:reparentWithOverlay
+     * @attr name com.webfills.schoolapp:reparentWithOverlay
      */
     public static final int ChangeTransform_reparentWithOverlay=1;
     /**
@@ -13851,40 +13851,40 @@ public final class R {
      * <tr><td><code>{@link #Chip_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_text android:text}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIcon com.webfills.schoolgoa:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconEnabled com.webfills.schoolgoa:checkedIconEnabled}</code></td><td>Deprecated.</td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconVisible com.webfills.schoolgoa:checkedIconVisible}</code></td><td>Whether to show the checked icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipBackgroundColor com.webfills.schoolgoa:chipBackgroundColor}</code></td><td>Background color to apply to the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_chipCornerRadius com.webfills.schoolgoa:chipCornerRadius}</code></td><td>Corner radius to apply to the chip's shape.</td></tr>
-     * <tr><td><code>{@link #Chip_chipEndPadding com.webfills.schoolgoa:chipEndPadding}</code></td><td>Padding at the end of the chip, after the close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIcon com.webfills.schoolgoa:chipIcon}</code></td><td>Icon drawable to display at the start of the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIconEnabled com.webfills.schoolgoa:chipIconEnabled}</code></td><td>Deprecated.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIconSize com.webfills.schoolgoa:chipIconSize}</code></td><td>Size of the chip's icon and checked icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIconTint com.webfills.schoolgoa:chipIconTint}</code></td><td>Tint to apply to the chip icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIconVisible com.webfills.schoolgoa:chipIconVisible}</code></td><td>Whether to show the chip icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipMinHeight com.webfills.schoolgoa:chipMinHeight}</code></td><td>Min height to apply to the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_chipMinTouchTargetSize com.webfills.schoolgoa:chipMinTouchTargetSize}</code></td><td>Minimum size of chip's touch target, by default, Android recommended 48dp.</td></tr>
-     * <tr><td><code>{@link #Chip_chipStartPadding com.webfills.schoolgoa:chipStartPadding}</code></td><td>Padding at the start of the chip, before the icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeColor com.webfills.schoolgoa:chipStrokeColor}</code></td><td>Stroke color to apply to the chip's outline.</td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeWidth com.webfills.schoolgoa:chipStrokeWidth}</code></td><td>Stroke width to apply to the chip's outline.</td></tr>
-     * <tr><td><code>{@link #Chip_chipSurfaceColor com.webfills.schoolgoa:chipSurfaceColor}</code></td><td>Surface layer color to apply to the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIcon com.webfills.schoolgoa:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEnabled com.webfills.schoolgoa:closeIconEnabled}</code></td><td>Deprecated.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEndPadding com.webfills.schoolgoa:closeIconEndPadding}</code></td><td>Padding at the end of the close icon, before the end of the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconSize com.webfills.schoolgoa:closeIconSize}</code></td><td>Size of the chip's close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconStartPadding com.webfills.schoolgoa:closeIconStartPadding}</code></td><td>Padding at the start of the close icon, after the text.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconTint com.webfills.schoolgoa:closeIconTint}</code></td><td>Tint to apply to the chip's close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconVisible com.webfills.schoolgoa:closeIconVisible}</code></td><td>Whether to show the close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_ensureMinTouchTargetSize com.webfills.schoolgoa:ensureMinTouchTargetSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_hideMotionSpec com.webfills.schoolgoa:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconEndPadding com.webfills.schoolgoa:iconEndPadding}</code></td><td>Padding at the end of the icon, before the text.</td></tr>
-     * <tr><td><code>{@link #Chip_iconStartPadding com.webfills.schoolgoa:iconStartPadding}</code></td><td>Padding at the start of the icon, after the start of the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_rippleColor com.webfills.schoolgoa:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_shapeAppearance com.webfills.schoolgoa:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #Chip_shapeAppearanceOverlay com.webfills.schoolgoa:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #Chip_showMotionSpec com.webfills.schoolgoa:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textEndPadding com.webfills.schoolgoa:textEndPadding}</code></td><td>Padding at the end of the text, before the close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_textStartPadding com.webfills.schoolgoa:textStartPadding}</code></td><td>Padding at the start of the text, after the icon.</td></tr>
+     * <tr><td><code>{@link #Chip_checkedIcon com.webfills.schoolapp:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconEnabled com.webfills.schoolapp:checkedIconEnabled}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconVisible com.webfills.schoolapp:checkedIconVisible}</code></td><td>Whether to show the checked icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipBackgroundColor com.webfills.schoolapp:chipBackgroundColor}</code></td><td>Background color to apply to the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_chipCornerRadius com.webfills.schoolapp:chipCornerRadius}</code></td><td>Corner radius to apply to the chip's shape.</td></tr>
+     * <tr><td><code>{@link #Chip_chipEndPadding com.webfills.schoolapp:chipEndPadding}</code></td><td>Padding at the end of the chip, after the close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIcon com.webfills.schoolapp:chipIcon}</code></td><td>Icon drawable to display at the start of the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIconEnabled com.webfills.schoolapp:chipIconEnabled}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIconSize com.webfills.schoolapp:chipIconSize}</code></td><td>Size of the chip's icon and checked icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIconTint com.webfills.schoolapp:chipIconTint}</code></td><td>Tint to apply to the chip icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIconVisible com.webfills.schoolapp:chipIconVisible}</code></td><td>Whether to show the chip icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipMinHeight com.webfills.schoolapp:chipMinHeight}</code></td><td>Min height to apply to the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_chipMinTouchTargetSize com.webfills.schoolapp:chipMinTouchTargetSize}</code></td><td>Minimum size of chip's touch target, by default, Android recommended 48dp.</td></tr>
+     * <tr><td><code>{@link #Chip_chipStartPadding com.webfills.schoolapp:chipStartPadding}</code></td><td>Padding at the start of the chip, before the icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeColor com.webfills.schoolapp:chipStrokeColor}</code></td><td>Stroke color to apply to the chip's outline.</td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeWidth com.webfills.schoolapp:chipStrokeWidth}</code></td><td>Stroke width to apply to the chip's outline.</td></tr>
+     * <tr><td><code>{@link #Chip_chipSurfaceColor com.webfills.schoolapp:chipSurfaceColor}</code></td><td>Surface layer color to apply to the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIcon com.webfills.schoolapp:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEnabled com.webfills.schoolapp:closeIconEnabled}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEndPadding com.webfills.schoolapp:closeIconEndPadding}</code></td><td>Padding at the end of the close icon, before the end of the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconSize com.webfills.schoolapp:closeIconSize}</code></td><td>Size of the chip's close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconStartPadding com.webfills.schoolapp:closeIconStartPadding}</code></td><td>Padding at the start of the close icon, after the text.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconTint com.webfills.schoolapp:closeIconTint}</code></td><td>Tint to apply to the chip's close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconVisible com.webfills.schoolapp:closeIconVisible}</code></td><td>Whether to show the close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_ensureMinTouchTargetSize com.webfills.schoolapp:ensureMinTouchTargetSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_hideMotionSpec com.webfills.schoolapp:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconEndPadding com.webfills.schoolapp:iconEndPadding}</code></td><td>Padding at the end of the icon, before the text.</td></tr>
+     * <tr><td><code>{@link #Chip_iconStartPadding com.webfills.schoolapp:iconStartPadding}</code></td><td>Padding at the start of the icon, after the start of the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_rippleColor com.webfills.schoolapp:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_shapeAppearance com.webfills.schoolapp:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #Chip_shapeAppearanceOverlay com.webfills.schoolapp:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #Chip_showMotionSpec com.webfills.schoolapp:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textEndPadding com.webfills.schoolapp:textEndPadding}</code></td><td>Padding at the end of the text, before the close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_textStartPadding com.webfills.schoolapp:textStartPadding}</code></td><td>Padding at the start of the text, after the icon.</td></tr>
      * </table>
      * @see #Chip_android_textAppearance
      * @see #Chip_android_textColor
@@ -14036,7 +14036,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:checkedIcon
+     * @attr name com.webfills.schoolapp:checkedIcon
      */
     public static final int Chip_checkedIcon=6;
     /**
@@ -14047,7 +14047,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:checkedIconEnabled
+     * @attr name com.webfills.schoolapp:checkedIconEnabled
      */
     public static final int Chip_checkedIconEnabled=7;
     /**
@@ -14058,7 +14058,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:checkedIconVisible
+     * @attr name com.webfills.schoolapp:checkedIconVisible
      */
     public static final int Chip_checkedIconVisible=8;
     /**
@@ -14070,7 +14070,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:chipBackgroundColor
+     * @attr name com.webfills.schoolapp:chipBackgroundColor
      */
     public static final int Chip_chipBackgroundColor=9;
     /**
@@ -14084,7 +14084,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:chipCornerRadius
+     * @attr name com.webfills.schoolapp:chipCornerRadius
      */
     public static final int Chip_chipCornerRadius=10;
     /**
@@ -14098,7 +14098,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:chipEndPadding
+     * @attr name com.webfills.schoolapp:chipEndPadding
      */
     public static final int Chip_chipEndPadding=11;
     /**
@@ -14111,7 +14111,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:chipIcon
+     * @attr name com.webfills.schoolapp:chipIcon
      */
     public static final int Chip_chipIcon=12;
     /**
@@ -14122,7 +14122,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:chipIconEnabled
+     * @attr name com.webfills.schoolapp:chipIconEnabled
      */
     public static final int Chip_chipIconEnabled=13;
     /**
@@ -14136,7 +14136,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:chipIconSize
+     * @attr name com.webfills.schoolapp:chipIconSize
      */
     public static final int Chip_chipIconSize=14;
     /**
@@ -14148,7 +14148,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:chipIconTint
+     * @attr name com.webfills.schoolapp:chipIconTint
      */
     public static final int Chip_chipIconTint=15;
     /**
@@ -14159,7 +14159,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:chipIconVisible
+     * @attr name com.webfills.schoolapp:chipIconVisible
      */
     public static final int Chip_chipIconVisible=16;
     /**
@@ -14173,7 +14173,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:chipMinHeight
+     * @attr name com.webfills.schoolapp:chipMinHeight
      */
     public static final int Chip_chipMinHeight=17;
     /**
@@ -14187,7 +14187,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:chipMinTouchTargetSize
+     * @attr name com.webfills.schoolapp:chipMinTouchTargetSize
      */
     public static final int Chip_chipMinTouchTargetSize=18;
     /**
@@ -14201,7 +14201,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:chipStartPadding
+     * @attr name com.webfills.schoolapp:chipStartPadding
      */
     public static final int Chip_chipStartPadding=19;
     /**
@@ -14213,7 +14213,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:chipStrokeColor
+     * @attr name com.webfills.schoolapp:chipStrokeColor
      */
     public static final int Chip_chipStrokeColor=20;
     /**
@@ -14227,7 +14227,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:chipStrokeWidth
+     * @attr name com.webfills.schoolapp:chipStrokeWidth
      */
     public static final int Chip_chipStrokeWidth=21;
     /**
@@ -14239,7 +14239,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:chipSurfaceColor
+     * @attr name com.webfills.schoolapp:chipSurfaceColor
      */
     public static final int Chip_chipSurfaceColor=22;
     /**
@@ -14252,7 +14252,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:closeIcon
+     * @attr name com.webfills.schoolapp:closeIcon
      */
     public static final int Chip_closeIcon=23;
     /**
@@ -14263,7 +14263,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:closeIconEnabled
+     * @attr name com.webfills.schoolapp:closeIconEnabled
      */
     public static final int Chip_closeIconEnabled=24;
     /**
@@ -14277,7 +14277,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:closeIconEndPadding
+     * @attr name com.webfills.schoolapp:closeIconEndPadding
      */
     public static final int Chip_closeIconEndPadding=25;
     /**
@@ -14291,7 +14291,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:closeIconSize
+     * @attr name com.webfills.schoolapp:closeIconSize
      */
     public static final int Chip_closeIconSize=26;
     /**
@@ -14305,7 +14305,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:closeIconStartPadding
+     * @attr name com.webfills.schoolapp:closeIconStartPadding
      */
     public static final int Chip_closeIconStartPadding=27;
     /**
@@ -14317,7 +14317,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:closeIconTint
+     * @attr name com.webfills.schoolapp:closeIconTint
      */
     public static final int Chip_closeIconTint=28;
     /**
@@ -14328,7 +14328,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:closeIconVisible
+     * @attr name com.webfills.schoolapp:closeIconVisible
      */
     public static final int Chip_closeIconVisible=29;
     /**
@@ -14339,7 +14339,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:ensureMinTouchTargetSize
+     * @attr name com.webfills.schoolapp:ensureMinTouchTargetSize
      */
     public static final int Chip_ensureMinTouchTargetSize=30;
     /**
@@ -14352,7 +14352,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:hideMotionSpec
+     * @attr name com.webfills.schoolapp:hideMotionSpec
      */
     public static final int Chip_hideMotionSpec=31;
     /**
@@ -14366,7 +14366,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:iconEndPadding
+     * @attr name com.webfills.schoolapp:iconEndPadding
      */
     public static final int Chip_iconEndPadding=32;
     /**
@@ -14380,7 +14380,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:iconStartPadding
+     * @attr name com.webfills.schoolapp:iconStartPadding
      */
     public static final int Chip_iconStartPadding=33;
     /**
@@ -14392,7 +14392,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:rippleColor
+     * @attr name com.webfills.schoolapp:rippleColor
      */
     public static final int Chip_rippleColor=34;
     /**
@@ -14406,7 +14406,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearance
+     * @attr name com.webfills.schoolapp:shapeAppearance
      */
     public static final int Chip_shapeAppearance=35;
     /**
@@ -14420,7 +14420,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearanceOverlay
+     * @attr name com.webfills.schoolapp:shapeAppearanceOverlay
      */
     public static final int Chip_shapeAppearanceOverlay=36;
     /**
@@ -14433,7 +14433,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:showMotionSpec
+     * @attr name com.webfills.schoolapp:showMotionSpec
      */
     public static final int Chip_showMotionSpec=37;
     /**
@@ -14447,7 +14447,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:textEndPadding
+     * @attr name com.webfills.schoolapp:textEndPadding
      */
     public static final int Chip_textEndPadding=38;
     /**
@@ -14461,7 +14461,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:textStartPadding
+     * @attr name com.webfills.schoolapp:textStartPadding
      */
     public static final int Chip_textStartPadding=39;
     /**
@@ -14471,12 +14471,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChipGroup_checkedChip com.webfills.schoolgoa:checkedChip}</code></td><td>The id of the child chip that should be checked by default within this chip group.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacing com.webfills.schoolgoa:chipSpacing}</code></td><td>Horizontal and vertical spacing between chips in this group.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.webfills.schoolgoa:chipSpacingHorizontal}</code></td><td>Horizontal spacing between chips in this group.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.webfills.schoolgoa:chipSpacingVertical}</code></td><td>Vertical spacing between chips in this group.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleLine com.webfills.schoolgoa:singleLine}</code></td><td>Constrains the chips in this group to a single horizontal line.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleSelection com.webfills.schoolgoa:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_checkedChip com.webfills.schoolapp:checkedChip}</code></td><td>The id of the child chip that should be checked by default within this chip group.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacing com.webfills.schoolapp:chipSpacing}</code></td><td>Horizontal and vertical spacing between chips in this group.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.webfills.schoolapp:chipSpacingHorizontal}</code></td><td>Horizontal spacing between chips in this group.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.webfills.schoolapp:chipSpacingVertical}</code></td><td>Vertical spacing between chips in this group.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleLine com.webfills.schoolapp:singleLine}</code></td><td>Constrains the chips in this group to a single horizontal line.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleSelection com.webfills.schoolapp:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #ChipGroup_checkedChip
      * @see #ChipGroup_chipSpacing
@@ -14499,7 +14499,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:checkedChip
+     * @attr name com.webfills.schoolapp:checkedChip
      */
     public static final int ChipGroup_checkedChip=0;
     /**
@@ -14513,7 +14513,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:chipSpacing
+     * @attr name com.webfills.schoolapp:chipSpacing
      */
     public static final int ChipGroup_chipSpacing=1;
     /**
@@ -14527,7 +14527,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:chipSpacingHorizontal
+     * @attr name com.webfills.schoolapp:chipSpacingHorizontal
      */
     public static final int ChipGroup_chipSpacingHorizontal=2;
     /**
@@ -14541,7 +14541,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:chipSpacingVertical
+     * @attr name com.webfills.schoolapp:chipSpacingVertical
      */
     public static final int ChipGroup_chipSpacingVertical=3;
     /**
@@ -14555,7 +14555,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:singleLine
+     * @attr name com.webfills.schoolapp:singleLine
      */
     public static final int ChipGroup_singleLine=4;
     /**
@@ -14567,7 +14567,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:singleSelection
+     * @attr name com.webfills.schoolapp:singleSelection
      */
     public static final int ChipGroup_singleSelection=5;
     /**
@@ -14577,28 +14577,28 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.webfills.schoolgoa:collapsedTitleGravity}</code></td><td>Specifies how the title should be positioned when collapsed.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.webfills.schoolgoa:collapsedTitleTextAppearance}</code></td><td>The text appearance of the CollapsingToolbarLayouts title when it is fully
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.webfills.schoolapp:collapsedTitleGravity}</code></td><td>Specifies how the title should be positioned when collapsed.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.webfills.schoolapp:collapsedTitleTextAppearance}</code></td><td>The text appearance of the CollapsingToolbarLayouts title when it is fully
      * 'collapsed'</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.webfills.schoolgoa:contentScrim}</code></td><td>The drawable to use as a scrim on top of the CollapsingToolbarLayouts content when
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.webfills.schoolapp:contentScrim}</code></td><td>The drawable to use as a scrim on top of the CollapsingToolbarLayouts content when
      * it has been scrolled sufficiently off screen.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.webfills.schoolgoa:expandedTitleGravity}</code></td><td>Specifies how the title should be positioned when expanded.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.webfills.schoolgoa:expandedTitleMargin}</code></td><td>Specifies extra space on the start, top, end and bottom
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.webfills.schoolapp:expandedTitleGravity}</code></td><td>Specifies how the title should be positioned when expanded.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.webfills.schoolapp:expandedTitleMargin}</code></td><td>Specifies extra space on the start, top, end and bottom
      * sides of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.webfills.schoolgoa:expandedTitleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.webfills.schoolgoa:expandedTitleMarginEnd}</code></td><td>Specifies extra space on the end side of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.webfills.schoolgoa:expandedTitleMarginStart}</code></td><td>Specifies extra space on the start side of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.webfills.schoolgoa:expandedTitleMarginTop}</code></td><td>Specifies extra space on the top side of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.webfills.schoolgoa:expandedTitleTextAppearance}</code></td><td>The text appearance of the CollapsingToolbarLayout's title when it is fully
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.webfills.schoolapp:expandedTitleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the the expanded title text.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.webfills.schoolapp:expandedTitleMarginEnd}</code></td><td>Specifies extra space on the end side of the the expanded title text.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.webfills.schoolapp:expandedTitleMarginStart}</code></td><td>Specifies extra space on the start side of the the expanded title text.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.webfills.schoolapp:expandedTitleMarginTop}</code></td><td>Specifies extra space on the top side of the the expanded title text.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.webfills.schoolapp:expandedTitleTextAppearance}</code></td><td>The text appearance of the CollapsingToolbarLayout's title when it is fully
      * 'expanded'</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.webfills.schoolgoa:scrimAnimationDuration}</code></td><td>Specifies the duration used for scrim visibility animations.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.webfills.schoolgoa:scrimVisibleHeightTrigger}</code></td><td>Specifies the amount of visible height in pixels used to define when to trigger a
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.webfills.schoolapp:scrimAnimationDuration}</code></td><td>Specifies the duration used for scrim visibility animations.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.webfills.schoolapp:scrimVisibleHeightTrigger}</code></td><td>Specifies the amount of visible height in pixels used to define when to trigger a
      * scrim visibility change.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.webfills.schoolgoa:statusBarScrim}</code></td><td>The drawable to use as a scrim for the status bar content when the
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.webfills.schoolapp:statusBarScrim}</code></td><td>The drawable to use as a scrim for the status bar content when the
      * CollapsingToolbarLayout has been scrolled sufficiently off screen.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.webfills.schoolgoa:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.webfills.schoolgoa:titleEnabled}</code></td><td>Whether the CollapsingToolbarLayout should draw its own shrinking/growing title.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.webfills.schoolgoa:toolbarId}</code></td><td>The id of the primary Toolbar child that you wish to use for the purpose of collapsing.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.webfills.schoolapp:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.webfills.schoolapp:titleEnabled}</code></td><td>Whether the CollapsingToolbarLayout should draw its own shrinking/growing title.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.webfills.schoolapp:toolbarId}</code></td><td>The id of the primary Toolbar child that you wish to use for the purpose of collapsing.</td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -14646,7 +14646,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push title to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:collapsedTitleGravity
+     * @attr name com.webfills.schoolapp:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
@@ -14660,7 +14660,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:collapsedTitleTextAppearance
+     * @attr name com.webfills.schoolapp:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
@@ -14673,7 +14673,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:contentScrim
+     * @attr name com.webfills.schoolapp:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
@@ -14699,7 +14699,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push title to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:expandedTitleGravity
+     * @attr name com.webfills.schoolapp:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
@@ -14714,7 +14714,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:expandedTitleMargin
+     * @attr name com.webfills.schoolapp:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
@@ -14729,7 +14729,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:expandedTitleMarginBottom
+     * @attr name com.webfills.schoolapp:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
@@ -14744,7 +14744,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:expandedTitleMarginEnd
+     * @attr name com.webfills.schoolapp:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
@@ -14759,7 +14759,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:expandedTitleMarginStart
+     * @attr name com.webfills.schoolapp:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
@@ -14774,7 +14774,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:expandedTitleMarginTop
+     * @attr name com.webfills.schoolapp:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
@@ -14788,7 +14788,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:expandedTitleTextAppearance
+     * @attr name com.webfills.schoolapp:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
@@ -14798,7 +14798,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:scrimAnimationDuration
+     * @attr name com.webfills.schoolapp:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
@@ -14813,7 +14813,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:scrimVisibleHeightTrigger
+     * @attr name com.webfills.schoolapp:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
@@ -14827,7 +14827,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:statusBarScrim
+     * @attr name com.webfills.schoolapp:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
@@ -14838,7 +14838,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:title
+     * @attr name com.webfills.schoolapp:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
@@ -14849,7 +14849,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:titleEnabled
+     * @attr name com.webfills.schoolapp:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
@@ -14864,7 +14864,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:toolbarId
+     * @attr name com.webfills.schoolapp:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -14874,8 +14874,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.webfills.schoolgoa:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.webfills.schoolgoa:layout_collapseParallaxMultiplier}</code></td><td>The multiplier used when layout_collapseMode is set to 'parallax'.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.webfills.schoolapp:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.webfills.schoolapp:layout_collapseParallaxMultiplier}</code></td><td>The multiplier used when layout_collapseMode is set to 'parallax'.</td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -14884,7 +14884,7 @@ public final class R {
       0x7f03017a, 0x7f03017b
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14899,7 +14899,7 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td>The view will pin in place.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_collapseMode
+     * @attr name com.webfills.schoolapp:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
@@ -14910,7 +14910,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_collapseParallaxMultiplier
+     * @attr name com.webfills.schoolapp:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -14922,7 +14922,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.webfills.schoolgoa:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.webfills.schoolapp:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -14959,7 +14959,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:alpha
+     * @attr name com.webfills.schoolapp:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -14970,9 +14970,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonCompat com.webfills.schoolgoa:buttonCompat}</code></td><td>Compat attr to load backported drawable types</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.webfills.schoolgoa:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.webfills.schoolgoa:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonCompat com.webfills.schoolapp:buttonCompat}</code></td><td>Compat attr to load backported drawable types</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.webfills.schoolapp:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.webfills.schoolapp:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonCompat
@@ -15004,7 +15004,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:buttonCompat
+     * @attr name com.webfills.schoolapp:buttonCompat
      */
     public static final int CompoundButton_buttonCompat=1;
     /**
@@ -15016,7 +15016,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:buttonTint
+     * @attr name com.webfills.schoolapp:buttonTint
      */
     public static final int CompoundButton_buttonTint=2;
     /**
@@ -15043,7 +15043,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:buttonTintMode
+     * @attr name com.webfills.schoolapp:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=3;
     /**
@@ -15058,61 +15058,61 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.webfills.schoolgoa:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.webfills.schoolgoa:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.webfills.schoolgoa:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.webfills.schoolgoa:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.webfills.schoolgoa:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.webfills.schoolgoa:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.webfills.schoolgoa:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.webfills.schoolgoa:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.webfills.schoolgoa:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.webfills.schoolgoa:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.webfills.schoolgoa:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.webfills.schoolgoa:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.webfills.schoolgoa:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.webfills.schoolgoa:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.webfills.schoolgoa:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.webfills.schoolgoa:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.webfills.schoolgoa:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.webfills.schoolgoa:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.webfills.schoolgoa:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.webfills.schoolgoa:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.webfills.schoolgoa:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.webfills.schoolgoa:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.webfills.schoolgoa:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.webfills.schoolgoa:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.webfills.schoolgoa:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.webfills.schoolgoa:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.webfills.schoolgoa:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.webfills.schoolgoa:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.webfills.schoolgoa:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.webfills.schoolgoa:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.webfills.schoolgoa:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.webfills.schoolgoa:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.webfills.schoolgoa:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.webfills.schoolgoa:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.webfills.schoolgoa:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.webfills.schoolgoa:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.webfills.schoolgoa:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.webfills.schoolgoa:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.webfills.schoolgoa:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.webfills.schoolgoa:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.webfills.schoolgoa:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.webfills.schoolgoa:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.webfills.schoolgoa:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.webfills.schoolgoa:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.webfills.schoolgoa:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.webfills.schoolgoa:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.webfills.schoolgoa:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.webfills.schoolgoa:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.webfills.schoolgoa:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.webfills.schoolgoa:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.webfills.schoolgoa:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.webfills.schoolgoa:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.webfills.schoolgoa:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.webfills.schoolgoa:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.webfills.schoolgoa:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.webfills.schoolapp:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.webfills.schoolapp:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.webfills.schoolapp:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.webfills.schoolapp:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.webfills.schoolapp:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.webfills.schoolapp:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.webfills.schoolapp:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.webfills.schoolapp:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.webfills.schoolapp:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.webfills.schoolapp:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.webfills.schoolapp:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.webfills.schoolapp:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.webfills.schoolapp:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.webfills.schoolapp:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.webfills.schoolapp:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.webfills.schoolapp:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.webfills.schoolapp:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.webfills.schoolapp:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.webfills.schoolapp:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.webfills.schoolapp:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.webfills.schoolapp:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.webfills.schoolapp:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.webfills.schoolapp:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.webfills.schoolapp:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.webfills.schoolapp:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.webfills.schoolapp:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.webfills.schoolapp:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.webfills.schoolapp:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.webfills.schoolapp:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.webfills.schoolapp:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.webfills.schoolapp:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.webfills.schoolapp:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.webfills.schoolapp:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.webfills.schoolapp:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.webfills.schoolapp:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.webfills.schoolapp:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.webfills.schoolapp:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.webfills.schoolapp:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.webfills.schoolapp:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.webfills.schoolapp:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.webfills.schoolapp:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.webfills.schoolapp:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.webfills.schoolapp:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.webfills.schoolapp:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.webfills.schoolapp:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.webfills.schoolapp:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.webfills.schoolapp:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.webfills.schoolapp:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.webfills.schoolapp:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.webfills.schoolapp:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.webfills.schoolapp:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.webfills.schoolapp:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.webfills.schoolapp:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.webfills.schoolapp:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.webfills.schoolapp:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -15262,17 +15262,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_minHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:barrierAllowsGoneWidgets
+     * @attr name com.webfills.schoolapp:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15289,21 +15289,21 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:barrierDirection
+     * @attr name com.webfills.schoolapp:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:chainUseRtl
+     * @attr name com.webfills.schoolapp:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15311,50 +15311,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:constraintSet
+     * @attr name com.webfills.schoolapp:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:constraint_referenced_ids
+     * @attr name com.webfills.schoolapp:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constrainedHeight
+     * @attr name com.webfills.schoolapp:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constrainedWidth
+     * @attr name com.webfills.schoolapp:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintBaseline_creator
+     * @attr name com.webfills.schoolapp:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15370,20 +15370,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintBaseline_toBaselineOf
+     * @attr name com.webfills.schoolapp:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintBottom_creator
+     * @attr name com.webfills.schoolapp:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15399,11 +15399,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintBottom_toBottomOf
+     * @attr name com.webfills.schoolapp:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15419,11 +15419,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintBottom_toTopOf
+     * @attr name com.webfills.schoolapp:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15431,20 +15431,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintCircle
+     * @attr name com.webfills.schoolapp:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintCircleAngle
+     * @attr name com.webfills.schoolapp:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15453,21 +15453,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintCircleRadius
+     * @attr name com.webfills.schoolapp:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintDimensionRatio
+     * @attr name com.webfills.schoolapp:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15483,11 +15483,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintEnd_toEndOf
+     * @attr name com.webfills.schoolapp:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15503,11 +15503,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintEnd_toStartOf
+     * @attr name com.webfills.schoolapp:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15516,11 +15516,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintGuide_begin
+     * @attr name com.webfills.schoolapp:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15529,20 +15529,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintGuide_end
+     * @attr name com.webfills.schoolapp:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintGuide_percent
+     * @attr name com.webfills.schoolapp:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15556,11 +15556,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHeight_default
+     * @attr name com.webfills.schoolapp:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15577,11 +15577,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHeight_max
+     * @attr name com.webfills.schoolapp:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15598,29 +15598,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHeight_min
+     * @attr name com.webfills.schoolapp:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHeight_percent
+     * @attr name com.webfills.schoolapp:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHorizontal_bias
+     * @attr name com.webfills.schoolapp:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15634,29 +15634,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHorizontal_chainStyle
+     * @attr name com.webfills.schoolapp:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHorizontal_weight
+     * @attr name com.webfills.schoolapp:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintLeft_creator
+     * @attr name com.webfills.schoolapp:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15672,11 +15672,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintLeft_toLeftOf
+     * @attr name com.webfills.schoolapp:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15692,20 +15692,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintLeft_toRightOf
+     * @attr name com.webfills.schoolapp:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintRight_creator
+     * @attr name com.webfills.schoolapp:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15721,11 +15721,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintRight_toLeftOf
+     * @attr name com.webfills.schoolapp:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15741,11 +15741,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintRight_toRightOf
+     * @attr name com.webfills.schoolapp:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15761,11 +15761,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintStart_toEndOf
+     * @attr name com.webfills.schoolapp:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15781,20 +15781,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintStart_toStartOf
+     * @attr name com.webfills.schoolapp:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintTop_creator
+     * @attr name com.webfills.schoolapp:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15810,11 +15810,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintTop_toBottomOf
+     * @attr name com.webfills.schoolapp:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15830,20 +15830,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintTop_toTopOf
+     * @attr name com.webfills.schoolapp:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintVertical_bias
+     * @attr name com.webfills.schoolapp:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15857,20 +15857,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintVertical_chainStyle
+     * @attr name com.webfills.schoolapp:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintVertical_weight
+     * @attr name com.webfills.schoolapp:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15884,11 +15884,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintWidth_default
+     * @attr name com.webfills.schoolapp:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15905,11 +15905,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintWidth_max
+     * @attr name com.webfills.schoolapp:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15926,20 +15926,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintWidth_min
+     * @attr name com.webfills.schoolapp:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintWidth_percent
+     * @attr name com.webfills.schoolapp:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15948,11 +15948,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_editor_absoluteX
+     * @attr name com.webfills.schoolapp:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15961,11 +15961,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_editor_absoluteY
+     * @attr name com.webfills.schoolapp:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15974,11 +15974,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_goneMarginBottom
+     * @attr name com.webfills.schoolapp:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15987,11 +15987,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_goneMarginEnd
+     * @attr name com.webfills.schoolapp:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16000,11 +16000,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_goneMarginLeft
+     * @attr name com.webfills.schoolapp:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16013,11 +16013,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_goneMarginRight
+     * @attr name com.webfills.schoolapp:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16026,11 +16026,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_goneMarginStart
+     * @attr name com.webfills.schoolapp:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16039,11 +16039,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_goneMarginTop
+     * @attr name com.webfills.schoolapp:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -16061,7 +16061,7 @@ public final class R {
      * <tr><td>standard</td><td>7</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_optimizationLevel
+     * @attr name com.webfills.schoolapp:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=59;
     /**
@@ -16071,8 +16071,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.webfills.schoolgoa:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.webfills.schoolgoa:emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.webfills.schoolapp:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.webfills.schoolapp:emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_emptyVisibility
@@ -16081,7 +16081,7 @@ public final class R {
       0x7f0300b9, 0x7f0300fc
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#content}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16089,11 +16089,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:content
+     * @attr name com.webfills.schoolapp:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16106,7 +16106,7 @@ public final class R {
      * <tr><td>invisible</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:emptyVisibility
+     * @attr name com.webfills.schoolapp:emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_emptyVisibility=1;
     /**
@@ -16143,59 +16143,59 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.webfills.schoolgoa:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.webfills.schoolgoa:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.webfills.schoolgoa:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.webfills.schoolgoa:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.webfills.schoolgoa:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.webfills.schoolgoa:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.webfills.schoolgoa:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.webfills.schoolgoa:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.webfills.schoolgoa:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.webfills.schoolgoa:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.webfills.schoolgoa:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.webfills.schoolgoa:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.webfills.schoolgoa:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.webfills.schoolgoa:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.webfills.schoolgoa:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.webfills.schoolgoa:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.webfills.schoolgoa:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.webfills.schoolgoa:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.webfills.schoolgoa:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.webfills.schoolgoa:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.webfills.schoolgoa:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.webfills.schoolgoa:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.webfills.schoolgoa:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.webfills.schoolgoa:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.webfills.schoolgoa:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.webfills.schoolgoa:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.webfills.schoolgoa:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.webfills.schoolgoa:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.webfills.schoolgoa:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.webfills.schoolgoa:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.webfills.schoolgoa:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.webfills.schoolgoa:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.webfills.schoolgoa:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.webfills.schoolgoa:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.webfills.schoolgoa:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.webfills.schoolgoa:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.webfills.schoolgoa:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.webfills.schoolgoa:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.webfills.schoolgoa:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.webfills.schoolgoa:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.webfills.schoolgoa:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.webfills.schoolgoa:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.webfills.schoolgoa:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.webfills.schoolgoa:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.webfills.schoolgoa:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.webfills.schoolgoa:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.webfills.schoolgoa:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.webfills.schoolgoa:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.webfills.schoolgoa:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.webfills.schoolgoa:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.webfills.schoolgoa:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.webfills.schoolgoa:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.webfills.schoolgoa:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.webfills.schoolapp:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.webfills.schoolapp:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.webfills.schoolapp:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.webfills.schoolapp:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.webfills.schoolapp:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.webfills.schoolapp:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.webfills.schoolapp:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.webfills.schoolapp:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.webfills.schoolapp:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.webfills.schoolapp:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.webfills.schoolapp:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.webfills.schoolapp:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.webfills.schoolapp:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.webfills.schoolapp:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.webfills.schoolapp:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.webfills.schoolapp:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.webfills.schoolapp:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.webfills.schoolapp:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.webfills.schoolapp:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.webfills.schoolapp:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.webfills.schoolapp:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.webfills.schoolapp:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.webfills.schoolapp:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.webfills.schoolapp:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.webfills.schoolapp:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.webfills.schoolapp:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.webfills.schoolapp:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.webfills.schoolapp:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.webfills.schoolapp:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.webfills.schoolapp:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.webfills.schoolapp:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.webfills.schoolapp:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.webfills.schoolapp:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.webfills.schoolapp:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.webfills.schoolapp:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.webfills.schoolapp:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.webfills.schoolapp:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.webfills.schoolapp:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.webfills.schoolapp:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.webfills.schoolapp:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.webfills.schoolapp:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.webfills.schoolapp:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.webfills.schoolapp:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.webfills.schoolapp:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.webfills.schoolapp:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.webfills.schoolapp:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.webfills.schoolapp:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.webfills.schoolapp:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.webfills.schoolapp:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.webfills.schoolapp:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.webfills.schoolapp:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.webfills.schoolapp:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.webfills.schoolapp:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -16656,17 +16656,17 @@ public final class R {
      */
     public static final int ConstraintSet_android_elevation=26;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:barrierAllowsGoneWidgets
+     * @attr name com.webfills.schoolapp:barrierAllowsGoneWidgets
      */
     public static final int ConstraintSet_barrierAllowsGoneWidgets=27;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16683,60 +16683,60 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:barrierDirection
+     * @attr name com.webfills.schoolapp:barrierDirection
      */
     public static final int ConstraintSet_barrierDirection=28;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:chainUseRtl
+     * @attr name com.webfills.schoolapp:chainUseRtl
      */
     public static final int ConstraintSet_chainUseRtl=29;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:constraint_referenced_ids
+     * @attr name com.webfills.schoolapp:constraint_referenced_ids
      */
     public static final int ConstraintSet_constraint_referenced_ids=30;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constrainedHeight
+     * @attr name com.webfills.schoolapp:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=31;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constrainedWidth
+     * @attr name com.webfills.schoolapp:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=32;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintBaseline_creator
+     * @attr name com.webfills.schoolapp:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16752,20 +16752,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintBaseline_toBaselineOf
+     * @attr name com.webfills.schoolapp:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintBottom_creator
+     * @attr name com.webfills.schoolapp:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=35;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16781,11 +16781,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintBottom_toBottomOf
+     * @attr name com.webfills.schoolapp:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=36;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16801,11 +16801,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintBottom_toTopOf
+     * @attr name com.webfills.schoolapp:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16813,20 +16813,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintCircle
+     * @attr name com.webfills.schoolapp:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintCircleAngle
+     * @attr name com.webfills.schoolapp:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16835,21 +16835,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintCircleRadius
+     * @attr name com.webfills.schoolapp:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=40;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintDimensionRatio
+     * @attr name com.webfills.schoolapp:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=41;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16865,11 +16865,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintEnd_toEndOf
+     * @attr name com.webfills.schoolapp:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16885,11 +16885,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintEnd_toStartOf
+     * @attr name com.webfills.schoolapp:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16898,11 +16898,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintGuide_begin
+     * @attr name com.webfills.schoolapp:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=44;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16911,20 +16911,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintGuide_end
+     * @attr name com.webfills.schoolapp:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=45;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintGuide_percent
+     * @attr name com.webfills.schoolapp:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=46;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16938,11 +16938,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHeight_default
+     * @attr name com.webfills.schoolapp:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16959,11 +16959,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHeight_max
+     * @attr name com.webfills.schoolapp:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16980,29 +16980,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHeight_min
+     * @attr name com.webfills.schoolapp:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHeight_percent
+     * @attr name com.webfills.schoolapp:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHorizontal_bias
+     * @attr name com.webfills.schoolapp:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=51;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17016,29 +17016,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHorizontal_chainStyle
+     * @attr name com.webfills.schoolapp:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=52;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintHorizontal_weight
+     * @attr name com.webfills.schoolapp:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=53;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintLeft_creator
+     * @attr name com.webfills.schoolapp:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17054,11 +17054,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintLeft_toLeftOf
+     * @attr name com.webfills.schoolapp:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=55;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17074,20 +17074,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintLeft_toRightOf
+     * @attr name com.webfills.schoolapp:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=56;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintRight_creator
+     * @attr name com.webfills.schoolapp:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=57;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17103,11 +17103,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintRight_toLeftOf
+     * @attr name com.webfills.schoolapp:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=58;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17123,11 +17123,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintRight_toRightOf
+     * @attr name com.webfills.schoolapp:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=59;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17143,11 +17143,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintStart_toEndOf
+     * @attr name com.webfills.schoolapp:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=60;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17163,20 +17163,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintStart_toStartOf
+     * @attr name com.webfills.schoolapp:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=61;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintTop_creator
+     * @attr name com.webfills.schoolapp:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=62;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17192,11 +17192,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintTop_toBottomOf
+     * @attr name com.webfills.schoolapp:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=63;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17212,20 +17212,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintTop_toTopOf
+     * @attr name com.webfills.schoolapp:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=64;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintVertical_bias
+     * @attr name com.webfills.schoolapp:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=65;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17239,20 +17239,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintVertical_chainStyle
+     * @attr name com.webfills.schoolapp:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintVertical_weight
+     * @attr name com.webfills.schoolapp:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=67;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17266,11 +17266,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintWidth_default
+     * @attr name com.webfills.schoolapp:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=68;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17287,11 +17287,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintWidth_max
+     * @attr name com.webfills.schoolapp:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=69;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17308,20 +17308,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintWidth_min
+     * @attr name com.webfills.schoolapp:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=70;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_constraintWidth_percent
+     * @attr name com.webfills.schoolapp:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=71;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17330,11 +17330,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_editor_absoluteX
+     * @attr name com.webfills.schoolapp:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=72;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17343,11 +17343,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_editor_absoluteY
+     * @attr name com.webfills.schoolapp:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=73;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17356,11 +17356,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_goneMarginBottom
+     * @attr name com.webfills.schoolapp:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=74;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17369,11 +17369,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_goneMarginEnd
+     * @attr name com.webfills.schoolapp:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=75;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17382,11 +17382,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_goneMarginLeft
+     * @attr name com.webfills.schoolapp:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17395,11 +17395,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_goneMarginRight
+     * @attr name com.webfills.schoolapp:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=77;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17408,11 +17408,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_goneMarginStart
+     * @attr name com.webfills.schoolapp:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=78;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17421,7 +17421,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:layout_goneMarginTop
+     * @attr name com.webfills.schoolapp:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=79;
     /**
@@ -17431,9 +17431,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.webfills.schoolgoa:keylines}</code></td><td>A reference to an array of integers representing the
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.webfills.schoolapp:keylines}</code></td><td>A reference to an array of integers representing the
      * locations of horizontal keylines in dp from the starting edge.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.webfills.schoolgoa:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.webfills.schoolapp:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -17455,7 +17455,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:keylines
+     * @attr name com.webfills.schoolapp:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
@@ -17471,7 +17471,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:statusBarBackground
+     * @attr name com.webfills.schoolapp:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -17482,15 +17482,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.webfills.schoolgoa:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.webfills.schoolgoa:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.webfills.schoolapp:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.webfills.schoolapp:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.webfills.schoolgoa:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.webfills.schoolapp:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
      * for this child view.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.webfills.schoolgoa:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.webfills.schoolgoa:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.webfills.schoolapp:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.webfills.schoolapp:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.webfills.schoolgoa:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.webfills.schoolapp:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -17543,7 +17543,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_anchor
+     * @attr name com.webfills.schoolapp:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
@@ -17580,7 +17580,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_anchorGravity
+     * @attr name com.webfills.schoolapp:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
@@ -17592,7 +17592,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:layout_behavior
+     * @attr name com.webfills.schoolapp:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
@@ -17616,7 +17616,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Dodge the top inset edge.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_dodgeInsetEdges
+     * @attr name com.webfills.schoolapp:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
@@ -17640,7 +17640,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Inset the top edge.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:layout_insetEdge
+     * @attr name com.webfills.schoolapp:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
@@ -17652,7 +17652,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:layout_keyline
+     * @attr name com.webfills.schoolapp:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -17662,10 +17662,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DateState_state_date_disabled com.webfills.schoolgoa:state_date_disabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DateState_state_date_prev_next_month com.webfills.schoolgoa:state_date_prev_next_month}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DateState_state_date_selected com.webfills.schoolgoa:state_date_selected}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DateState_state_date_today com.webfills.schoolgoa:state_date_today}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DateState_state_date_disabled com.webfills.schoolapp:state_date_disabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DateState_state_date_prev_next_month com.webfills.schoolapp:state_date_prev_next_month}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DateState_state_date_selected com.webfills.schoolapp:state_date_selected}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DateState_state_date_today com.webfills.schoolapp:state_date_today}</code></td><td></td></tr>
      * </table>
      * @see #DateState_state_date_disabled
      * @see #DateState_state_date_prev_next_month
@@ -17676,43 +17676,43 @@ public final class R {
       0x7f030246, 0x7f030247, 0x7f030248, 0x7f030249
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#state_date_disabled}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#state_date_disabled}
      * attribute's value can be found in the {@link #DateState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:state_date_disabled
+     * @attr name com.webfills.schoolapp:state_date_disabled
      */
     public static final int DateState_state_date_disabled=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#state_date_prev_next_month}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#state_date_prev_next_month}
      * attribute's value can be found in the {@link #DateState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:state_date_prev_next_month
+     * @attr name com.webfills.schoolapp:state_date_prev_next_month
      */
     public static final int DateState_state_date_prev_next_month=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#state_date_selected}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#state_date_selected}
      * attribute's value can be found in the {@link #DateState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:state_date_selected
+     * @attr name com.webfills.schoolapp:state_date_selected
      */
     public static final int DateState_state_date_selected=2;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#state_date_today}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#state_date_today}
      * attribute's value can be found in the {@link #DateState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:state_date_today
+     * @attr name com.webfills.schoolapp:state_date_today
      */
     public static final int DateState_state_date_today=3;
     /**
@@ -17722,14 +17722,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.webfills.schoolgoa:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.webfills.schoolgoa:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.webfills.schoolgoa:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.webfills.schoolgoa:color}</code></td><td>The drawing color for the bars</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.webfills.schoolgoa:drawableSize}</code></td><td>The total size of the drawable</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.webfills.schoolgoa:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.webfills.schoolgoa:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.webfills.schoolgoa:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.webfills.schoolapp:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.webfills.schoolapp:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.webfills.schoolapp:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.webfills.schoolapp:color}</code></td><td>The drawing color for the bars</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.webfills.schoolapp:drawableSize}</code></td><td>The total size of the drawable</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.webfills.schoolapp:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.webfills.schoolapp:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.webfills.schoolapp:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -17755,7 +17755,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:arrowHeadLength
+     * @attr name com.webfills.schoolapp:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
@@ -17769,7 +17769,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:arrowShaftLength
+     * @attr name com.webfills.schoolapp:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
@@ -17783,7 +17783,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:barLength
+     * @attr name com.webfills.schoolapp:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
@@ -17795,7 +17795,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:color
+     * @attr name com.webfills.schoolapp:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
@@ -17809,7 +17809,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:drawableSize
+     * @attr name com.webfills.schoolapp:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
@@ -17823,7 +17823,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:gapBetweenBars
+     * @attr name com.webfills.schoolapp:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
@@ -17834,7 +17834,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:spinBars
+     * @attr name com.webfills.schoolapp:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
@@ -17848,7 +17848,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:thickness
+     * @attr name com.webfills.schoolapp:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -17858,11 +17858,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_elevation com.webfills.schoolgoa:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_extendMotionSpec com.webfills.schoolgoa:extendMotionSpec}</code></td><td>Motion spec for extend animation.</td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_hideMotionSpec com.webfills.schoolgoa:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_showMotionSpec com.webfills.schoolgoa:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_shrinkMotionSpec com.webfills.schoolgoa:shrinkMotionSpec}</code></td><td>Motion spec for shrink animation.</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_elevation com.webfills.schoolapp:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_extendMotionSpec com.webfills.schoolapp:extendMotionSpec}</code></td><td>Motion spec for extend animation.</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_hideMotionSpec com.webfills.schoolapp:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_showMotionSpec com.webfills.schoolapp:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_shrinkMotionSpec com.webfills.schoolapp:shrinkMotionSpec}</code></td><td>Motion spec for shrink animation.</td></tr>
      * </table>
      * @see #ExtendedFloatingActionButton_elevation
      * @see #ExtendedFloatingActionButton_extendMotionSpec
@@ -17885,7 +17885,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:elevation
+     * @attr name com.webfills.schoolapp:elevation
      */
     public static final int ExtendedFloatingActionButton_elevation=0;
     /**
@@ -17898,7 +17898,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:extendMotionSpec
+     * @attr name com.webfills.schoolapp:extendMotionSpec
      */
     public static final int ExtendedFloatingActionButton_extendMotionSpec=1;
     /**
@@ -17911,7 +17911,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:hideMotionSpec
+     * @attr name com.webfills.schoolapp:hideMotionSpec
      */
     public static final int ExtendedFloatingActionButton_hideMotionSpec=2;
     /**
@@ -17924,7 +17924,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:showMotionSpec
+     * @attr name com.webfills.schoolapp:showMotionSpec
      */
     public static final int ExtendedFloatingActionButton_showMotionSpec=3;
     /**
@@ -17937,7 +17937,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shrinkMotionSpec
+     * @attr name com.webfills.schoolapp:shrinkMotionSpec
      */
     public static final int ExtendedFloatingActionButton_shrinkMotionSpec=4;
     /**
@@ -17947,8 +17947,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide com.webfills.schoolgoa:behavior_autoHide}</code></td><td>Whether the FAB should automatically hide when there is no space for it.</td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink com.webfills.schoolgoa:behavior_autoShrink}</code></td><td>Whether the extended FAB should automatically shrink when there is no space for it.</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide com.webfills.schoolapp:behavior_autoHide}</code></td><td>Whether the FAB should automatically hide when there is no space for it.</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink com.webfills.schoolapp:behavior_autoShrink}</code></td><td>Whether the extended FAB should automatically shrink when there is no space for it.</td></tr>
      * </table>
      * @see #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide
      * @see #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink
@@ -17964,7 +17964,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:behavior_autoHide
+     * @attr name com.webfills.schoolapp:behavior_autoHide
      */
     public static final int ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -17975,7 +17975,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:behavior_autoShrink
+     * @attr name com.webfills.schoolapp:behavior_autoShrink
      */
     public static final int ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink=1;
     /**
@@ -17985,7 +17985,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Fade_fadingMode com.webfills.schoolgoa:fadingMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Fade_fadingMode com.webfills.schoolapp:fadingMode}</code></td><td></td></tr>
      * </table>
      * @see #Fade_fadingMode
      */
@@ -17993,7 +17993,7 @@ public final class R {
       0x7f030121
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#fadingMode}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#fadingMode}
      * attribute's value can be found in the {@link #Fade} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18007,7 +18007,7 @@ public final class R {
      * <tr><td>fade_out</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:fadingMode
+     * @attr name com.webfills.schoolapp:fadingMode
      */
     public static final int Fade_fadingMode=0;
     /**
@@ -18017,22 +18017,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.webfills.schoolgoa:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.webfills.schoolgoa:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.webfills.schoolgoa:borderWidth}</code></td><td>The width of the border around the FAB.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation com.webfills.schoolgoa:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_ensureMinTouchTargetSize com.webfills.schoolgoa:ensureMinTouchTargetSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.webfills.schoolgoa:fabCustomSize}</code></td><td>Custom size for the FAB.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize com.webfills.schoolgoa:fabSize}</code></td><td>Size for the FAB.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.webfills.schoolgoa:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.webfills.schoolgoa:hoveredFocusedTranslationZ}</code></td><td>TranslationZ value for the FAB when hovered, focused, or hovered and focused.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.webfills.schoolgoa:maxImageSize}</code></td><td>Maximum icon image size.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.webfills.schoolgoa:pressedTranslationZ}</code></td><td>TranslationZ value for the FAB when pressed</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.webfills.schoolgoa:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_shapeAppearance com.webfills.schoolgoa:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_shapeAppearanceOverlay com.webfills.schoolgoa:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.webfills.schoolgoa:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.webfills.schoolgoa:useCompatPadding}</code></td><td>Enable compat padding.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.webfills.schoolapp:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.webfills.schoolapp:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.webfills.schoolapp:borderWidth}</code></td><td>The width of the border around the FAB.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.webfills.schoolapp:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_ensureMinTouchTargetSize com.webfills.schoolapp:ensureMinTouchTargetSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.webfills.schoolapp:fabCustomSize}</code></td><td>Custom size for the FAB.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.webfills.schoolapp:fabSize}</code></td><td>Size for the FAB.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.webfills.schoolapp:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.webfills.schoolapp:hoveredFocusedTranslationZ}</code></td><td>TranslationZ value for the FAB when hovered, focused, or hovered and focused.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.webfills.schoolapp:maxImageSize}</code></td><td>Maximum icon image size.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.webfills.schoolapp:pressedTranslationZ}</code></td><td>TranslationZ value for the FAB when pressed</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.webfills.schoolapp:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_shapeAppearance com.webfills.schoolapp:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_shapeAppearanceOverlay com.webfills.schoolapp:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.webfills.schoolapp:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.webfills.schoolapp:useCompatPadding}</code></td><td>Enable compat padding.</td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -18066,7 +18066,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:backgroundTint
+     * @attr name com.webfills.schoolapp:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
@@ -18093,7 +18093,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:backgroundTintMode
+     * @attr name com.webfills.schoolapp:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
@@ -18107,7 +18107,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:borderWidth
+     * @attr name com.webfills.schoolapp:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
@@ -18121,7 +18121,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:elevation
+     * @attr name com.webfills.schoolapp:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
@@ -18133,7 +18133,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:ensureMinTouchTargetSize
+     * @attr name com.webfills.schoolapp:ensureMinTouchTargetSize
      */
     public static final int FloatingActionButton_ensureMinTouchTargetSize=4;
     /**
@@ -18147,7 +18147,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:fabCustomSize
+     * @attr name com.webfills.schoolapp:fabCustomSize
      */
     public static final int FloatingActionButton_fabCustomSize=5;
     /**
@@ -18166,7 +18166,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td>The normal sized button.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:fabSize
+     * @attr name com.webfills.schoolapp:fabSize
      */
     public static final int FloatingActionButton_fabSize=6;
     /**
@@ -18179,7 +18179,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:hideMotionSpec
+     * @attr name com.webfills.schoolapp:hideMotionSpec
      */
     public static final int FloatingActionButton_hideMotionSpec=7;
     /**
@@ -18193,7 +18193,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:hoveredFocusedTranslationZ
+     * @attr name com.webfills.schoolapp:hoveredFocusedTranslationZ
      */
     public static final int FloatingActionButton_hoveredFocusedTranslationZ=8;
     /**
@@ -18207,7 +18207,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:maxImageSize
+     * @attr name com.webfills.schoolapp:maxImageSize
      */
     public static final int FloatingActionButton_maxImageSize=9;
     /**
@@ -18221,7 +18221,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:pressedTranslationZ
+     * @attr name com.webfills.schoolapp:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=10;
     /**
@@ -18233,7 +18233,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:rippleColor
+     * @attr name com.webfills.schoolapp:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=11;
     /**
@@ -18247,7 +18247,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearance
+     * @attr name com.webfills.schoolapp:shapeAppearance
      */
     public static final int FloatingActionButton_shapeAppearance=12;
     /**
@@ -18260,7 +18260,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearanceOverlay
+     * @attr name com.webfills.schoolapp:shapeAppearanceOverlay
      */
     public static final int FloatingActionButton_shapeAppearanceOverlay=13;
     /**
@@ -18273,7 +18273,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:showMotionSpec
+     * @attr name com.webfills.schoolapp:showMotionSpec
      */
     public static final int FloatingActionButton_showMotionSpec=14;
     /**
@@ -18284,7 +18284,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:useCompatPadding
+     * @attr name com.webfills.schoolapp:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=15;
     /**
@@ -18294,7 +18294,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.webfills.schoolgoa:behavior_autoHide}</code></td><td>Whether the FAB should automatically hide when there is no space for it.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.webfills.schoolapp:behavior_autoHide}</code></td><td>Whether the FAB should automatically hide when there is no space for it.</td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -18309,7 +18309,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:behavior_autoHide
+     * @attr name com.webfills.schoolapp:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -18319,8 +18319,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FlowLayout_itemSpacing com.webfills.schoolgoa:itemSpacing}</code></td><td>Horizontal spacing between two items being laid out.</td></tr>
-     * <tr><td><code>{@link #FlowLayout_lineSpacing com.webfills.schoolgoa:lineSpacing}</code></td><td>Vertical Spacing between two lines of items being laid out.</td></tr>
+     * <tr><td><code>{@link #FlowLayout_itemSpacing com.webfills.schoolapp:itemSpacing}</code></td><td>Horizontal spacing between two items being laid out.</td></tr>
+     * <tr><td><code>{@link #FlowLayout_lineSpacing com.webfills.schoolapp:lineSpacing}</code></td><td>Vertical Spacing between two lines of items being laid out.</td></tr>
      * </table>
      * @see #FlowLayout_itemSpacing
      * @see #FlowLayout_lineSpacing
@@ -18339,7 +18339,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:itemSpacing
+     * @attr name com.webfills.schoolapp:itemSpacing
      */
     public static final int FlowLayout_itemSpacing=0;
     /**
@@ -18353,7 +18353,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:lineSpacing
+     * @attr name com.webfills.schoolapp:lineSpacing
      */
     public static final int FlowLayout_lineSpacing=1;
     /**
@@ -18363,12 +18363,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.webfills.schoolgoa:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.webfills.schoolgoa:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.webfills.schoolgoa:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.webfills.schoolgoa:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.webfills.schoolgoa:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.webfills.schoolgoa:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.webfills.schoolapp:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.webfills.schoolapp:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.webfills.schoolapp:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.webfills.schoolapp:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.webfills.schoolapp:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.webfills.schoolapp:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -18389,7 +18389,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:fontProviderAuthority
+     * @attr name com.webfills.schoolapp:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
@@ -18406,7 +18406,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:fontProviderCerts
+     * @attr name com.webfills.schoolapp:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
@@ -18438,7 +18438,7 @@ public final class R {
      * default typeface will be used instead.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:fontProviderFetchStrategy
+     * @attr name com.webfills.schoolapp:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
@@ -18457,7 +18457,7 @@ public final class R {
      * timeout and wait until a reply is received from the font provider.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:fontProviderFetchTimeout
+     * @attr name com.webfills.schoolapp:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
@@ -18469,7 +18469,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:fontProviderPackage
+     * @attr name com.webfills.schoolapp:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
@@ -18481,7 +18481,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:fontProviderQuery
+     * @attr name com.webfills.schoolapp:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -18496,11 +18496,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.webfills.schoolgoa:font}</code></td><td>The reference to the font file to be used.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.webfills.schoolgoa:fontStyle}</code></td><td>The style of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.webfills.schoolgoa:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.webfills.schoolgoa:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.webfills.schoolgoa:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.webfills.schoolapp:font}</code></td><td>The reference to the font file to be used.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.webfills.schoolapp:fontStyle}</code></td><td>The style of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.webfills.schoolapp:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.webfills.schoolapp:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.webfills.schoolapp:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -18587,7 +18587,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:font
+     * @attr name com.webfills.schoolapp:font
      */
     public static final int FontFamilyFont_font=5;
     /**
@@ -18607,7 +18607,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:fontStyle
+     * @attr name com.webfills.schoolapp:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
@@ -18621,7 +18621,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:fontVariationSettings
+     * @attr name com.webfills.schoolapp:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
@@ -18635,7 +18635,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:fontWeight
+     * @attr name com.webfills.schoolapp:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
@@ -18646,7 +18646,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:ttcIndex
+     * @attr name com.webfills.schoolapp:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
@@ -18658,7 +18658,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.webfills.schoolgoa:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.webfills.schoolapp:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -18710,13 +18710,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:foregroundInsidePadding
+     * @attr name com.webfills.schoolapp:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -19005,11 +19005,11 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.webfills.schoolgoa:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.webfills.schoolgoa:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.webfills.schoolgoa:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.webfills.schoolapp:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.webfills.schoolapp:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.webfills.schoolapp:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
      * the minimum size of the largest child.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.webfills.schoolgoa:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.webfills.schoolapp:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -19124,7 +19124,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:divider
+     * @attr name com.webfills.schoolapp:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
@@ -19138,7 +19138,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:dividerPadding
+     * @attr name com.webfills.schoolapp:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
@@ -19151,7 +19151,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:measureWithLargestChild
+     * @attr name com.webfills.schoolapp:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
@@ -19171,7 +19171,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:showDividers
+     * @attr name com.webfills.schoolapp:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -19329,9 +19329,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LoadingImageView_circleCrop com.webfills.schoolgoa:circleCrop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.webfills.schoolgoa:imageAspectRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.webfills.schoolgoa:imageAspectRatioAdjust}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_circleCrop com.webfills.schoolapp:circleCrop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.webfills.schoolapp:imageAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.webfills.schoolapp:imageAspectRatioAdjust}</code></td><td></td></tr>
      * </table>
      * @see #LoadingImageView_circleCrop
      * @see #LoadingImageView_imageAspectRatio
@@ -19341,26 +19341,26 @@ public final class R {
       0x7f030092, 0x7f030151, 0x7f030152
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#circleCrop}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#circleCrop}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:circleCrop
+     * @attr name com.webfills.schoolapp:circleCrop
      */
     public static final int LoadingImageView_circleCrop=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#imageAspectRatio}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#imageAspectRatio}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:imageAspectRatio
+     * @attr name com.webfills.schoolapp:imageAspectRatio
      */
     public static final int LoadingImageView_imageAspectRatio=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#imageAspectRatioAdjust}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#imageAspectRatioAdjust}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19374,7 +19374,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:imageAspectRatioAdjust
+     * @attr name com.webfills.schoolapp:imageAspectRatioAdjust
      */
     public static final int LoadingImageView_imageAspectRatioAdjust=2;
     /**
@@ -19384,10 +19384,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetBottom com.webfills.schoolgoa:backgroundInsetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetEnd com.webfills.schoolgoa:backgroundInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetStart com.webfills.schoolgoa:backgroundInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetTop com.webfills.schoolgoa:backgroundInsetTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetBottom com.webfills.schoolapp:backgroundInsetBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetEnd com.webfills.schoolapp:backgroundInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetStart com.webfills.schoolapp:backgroundInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetTop com.webfills.schoolapp:backgroundInsetTop}</code></td><td></td></tr>
      * </table>
      * @see #MaterialAlertDialog_backgroundInsetBottom
      * @see #MaterialAlertDialog_backgroundInsetEnd
@@ -19398,7 +19398,7 @@ public final class R {
       0x7f030036, 0x7f030037, 0x7f030038, 0x7f030039
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#backgroundInsetBottom}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#backgroundInsetBottom}
      * attribute's value can be found in the {@link #MaterialAlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19407,11 +19407,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:backgroundInsetBottom
+     * @attr name com.webfills.schoolapp:backgroundInsetBottom
      */
     public static final int MaterialAlertDialog_backgroundInsetBottom=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#backgroundInsetEnd}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#backgroundInsetEnd}
      * attribute's value can be found in the {@link #MaterialAlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19420,11 +19420,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:backgroundInsetEnd
+     * @attr name com.webfills.schoolapp:backgroundInsetEnd
      */
     public static final int MaterialAlertDialog_backgroundInsetEnd=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#backgroundInsetStart}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#backgroundInsetStart}
      * attribute's value can be found in the {@link #MaterialAlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19433,11 +19433,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:backgroundInsetStart
+     * @attr name com.webfills.schoolapp:backgroundInsetStart
      */
     public static final int MaterialAlertDialog_backgroundInsetStart=2;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#backgroundInsetTop}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#backgroundInsetTop}
      * attribute's value can be found in the {@link #MaterialAlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19446,7 +19446,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:backgroundInsetTop
+     * @attr name com.webfills.schoolapp:backgroundInsetTop
      */
     public static final int MaterialAlertDialog_backgroundInsetTop=3;
     /**
@@ -19456,11 +19456,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle com.webfills.schoolgoa:materialAlertDialogBodyTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTheme com.webfills.schoolgoa:materialAlertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle com.webfills.schoolgoa:materialAlertDialogTitleIconStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle com.webfills.schoolgoa:materialAlertDialogTitlePanelStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle com.webfills.schoolgoa:materialAlertDialogTitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle com.webfills.schoolapp:materialAlertDialogBodyTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTheme com.webfills.schoolapp:materialAlertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle com.webfills.schoolapp:materialAlertDialogTitleIconStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle com.webfills.schoolapp:materialAlertDialogTitlePanelStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle com.webfills.schoolapp:materialAlertDialogTitleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle
      * @see #MaterialAlertDialogTheme_materialAlertDialogTheme
@@ -19473,7 +19473,7 @@ public final class R {
       0x7f0301d7
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#materialAlertDialogBodyTextStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#materialAlertDialogBodyTextStyle}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19481,11 +19481,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:materialAlertDialogBodyTextStyle
+     * @attr name com.webfills.schoolapp:materialAlertDialogBodyTextStyle
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#materialAlertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#materialAlertDialogTheme}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19493,11 +19493,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:materialAlertDialogTheme
+     * @attr name com.webfills.schoolapp:materialAlertDialogTheme
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogTheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#materialAlertDialogTitleIconStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#materialAlertDialogTitleIconStyle}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19505,11 +19505,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:materialAlertDialogTitleIconStyle
+     * @attr name com.webfills.schoolapp:materialAlertDialogTitleIconStyle
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#materialAlertDialogTitlePanelStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#materialAlertDialogTitlePanelStyle}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19517,11 +19517,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:materialAlertDialogTitlePanelStyle
+     * @attr name com.webfills.schoolapp:materialAlertDialogTitlePanelStyle
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#materialAlertDialogTitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#materialAlertDialogTitleTextStyle}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19529,7 +19529,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:materialAlertDialogTitleTextStyle
+     * @attr name com.webfills.schoolapp:materialAlertDialogTitleTextStyle
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle=4;
     /**
@@ -19544,21 +19544,21 @@ public final class R {
      * <tr><td><code>{@link #MaterialButton_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetBottom android:insetBottom}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTint com.webfills.schoolgoa:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.webfills.schoolgoa:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_cornerRadius com.webfills.schoolgoa:cornerRadius}</code></td><td>Specifies the radius for the corners of the button.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_elevation com.webfills.schoolgoa:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #MaterialButton_icon com.webfills.schoolgoa:icon}</code></td><td>Icon drawable to display at the start of this view.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconGravity com.webfills.schoolgoa:iconGravity}</code></td><td>Specifies how the icon should be positioned on the X axis.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconPadding com.webfills.schoolgoa:iconPadding}</code></td><td>Padding between icon and button text.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconSize com.webfills.schoolgoa:iconSize}</code></td><td>Specifies the width and height to use for the icon drawable.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTint com.webfills.schoolgoa:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTintMode com.webfills.schoolgoa:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_rippleColor com.webfills.schoolgoa:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_shapeAppearance com.webfills.schoolgoa:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_shapeAppearanceOverlay com.webfills.schoolgoa:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeColor com.webfills.schoolgoa:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeWidth com.webfills.schoolgoa:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTint com.webfills.schoolapp:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.webfills.schoolapp:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_cornerRadius com.webfills.schoolapp:cornerRadius}</code></td><td>Specifies the radius for the corners of the button.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_elevation com.webfills.schoolapp:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #MaterialButton_icon com.webfills.schoolapp:icon}</code></td><td>Icon drawable to display at the start of this view.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconGravity com.webfills.schoolapp:iconGravity}</code></td><td>Specifies how the icon should be positioned on the X axis.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconPadding com.webfills.schoolapp:iconPadding}</code></td><td>Padding between icon and button text.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconSize com.webfills.schoolapp:iconSize}</code></td><td>Specifies the width and height to use for the icon drawable.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTint com.webfills.schoolapp:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTintMode com.webfills.schoolapp:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_rippleColor com.webfills.schoolapp:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_shapeAppearance com.webfills.schoolapp:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_shapeAppearanceOverlay com.webfills.schoolapp:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeColor com.webfills.schoolapp:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeWidth com.webfills.schoolapp:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButton_android_insetLeft
      * @see #MaterialButton_android_insetRight
@@ -19676,7 +19676,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:backgroundTint
+     * @attr name com.webfills.schoolapp:backgroundTint
      */
     public static final int MaterialButton_backgroundTint=5;
     /**
@@ -19703,7 +19703,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:backgroundTintMode
+     * @attr name com.webfills.schoolapp:backgroundTintMode
      */
     public static final int MaterialButton_backgroundTintMode=6;
     /**
@@ -19717,7 +19717,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:cornerRadius
+     * @attr name com.webfills.schoolapp:cornerRadius
      */
     public static final int MaterialButton_cornerRadius=7;
     /**
@@ -19731,7 +19731,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:elevation
+     * @attr name com.webfills.schoolapp:elevation
      */
     public static final int MaterialButton_elevation=8;
     /**
@@ -19744,7 +19744,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:icon
+     * @attr name com.webfills.schoolapp:icon
      */
     public static final int MaterialButton_icon=9;
     /**
@@ -19766,7 +19766,7 @@ public final class R {
      * {@link R.attr#iconPadding} from the text.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:iconGravity
+     * @attr name com.webfills.schoolapp:iconGravity
      */
     public static final int MaterialButton_iconGravity=10;
     /**
@@ -19780,7 +19780,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:iconPadding
+     * @attr name com.webfills.schoolapp:iconPadding
      */
     public static final int MaterialButton_iconPadding=11;
     /**
@@ -19794,7 +19794,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:iconSize
+     * @attr name com.webfills.schoolapp:iconSize
      */
     public static final int MaterialButton_iconSize=12;
     /**
@@ -19806,7 +19806,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:iconTint
+     * @attr name com.webfills.schoolapp:iconTint
      */
     public static final int MaterialButton_iconTint=13;
     /**
@@ -19833,7 +19833,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:iconTintMode
+     * @attr name com.webfills.schoolapp:iconTintMode
      */
     public static final int MaterialButton_iconTintMode=14;
     /**
@@ -19846,7 +19846,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:rippleColor
+     * @attr name com.webfills.schoolapp:rippleColor
      */
     public static final int MaterialButton_rippleColor=15;
     /**
@@ -19860,7 +19860,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearance
+     * @attr name com.webfills.schoolapp:shapeAppearance
      */
     public static final int MaterialButton_shapeAppearance=16;
     /**
@@ -19874,7 +19874,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearanceOverlay
+     * @attr name com.webfills.schoolapp:shapeAppearanceOverlay
      */
     public static final int MaterialButton_shapeAppearanceOverlay=17;
     /**
@@ -19887,7 +19887,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:strokeColor
+     * @attr name com.webfills.schoolapp:strokeColor
      */
     public static final int MaterialButton_strokeColor=18;
     /**
@@ -19902,7 +19902,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:strokeWidth
+     * @attr name com.webfills.schoolapp:strokeWidth
      */
     public static final int MaterialButton_strokeWidth=19;
     /**
@@ -19912,8 +19912,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialButtonToggleGroup_checkedButton com.webfills.schoolgoa:checkedButton}</code></td><td>The id of the child button that should be checked by default within this button group.</td></tr>
-     * <tr><td><code>{@link #MaterialButtonToggleGroup_singleSelection com.webfills.schoolgoa:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButtonToggleGroup_checkedButton com.webfills.schoolapp:checkedButton}</code></td><td>The id of the child button that should be checked by default within this button group.</td></tr>
+     * <tr><td><code>{@link #MaterialButtonToggleGroup_singleSelection com.webfills.schoolapp:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButtonToggleGroup_checkedButton
      * @see #MaterialButtonToggleGroup_singleSelection
@@ -19931,7 +19931,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:checkedButton
+     * @attr name com.webfills.schoolapp:checkedButton
      */
     public static final int MaterialButtonToggleGroup_checkedButton=0;
     /**
@@ -19944,7 +19944,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:singleSelection
+     * @attr name com.webfills.schoolapp:singleSelection
      */
     public static final int MaterialButtonToggleGroup_singleSelection=1;
     /**
@@ -19955,14 +19955,14 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #MaterialCalendar_android_windowFullscreen android:windowFullscreen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_dayInvalidStyle com.webfills.schoolgoa:dayInvalidStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_daySelectedStyle com.webfills.schoolgoa:daySelectedStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_dayStyle com.webfills.schoolgoa:dayStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_dayTodayStyle com.webfills.schoolgoa:dayTodayStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_rangeFillColor com.webfills.schoolgoa:rangeFillColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_yearSelectedStyle com.webfills.schoolgoa:yearSelectedStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_yearStyle com.webfills.schoolgoa:yearStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_yearTodayStyle com.webfills.schoolgoa:yearTodayStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_dayInvalidStyle com.webfills.schoolapp:dayInvalidStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_daySelectedStyle com.webfills.schoolapp:daySelectedStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_dayStyle com.webfills.schoolapp:dayStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_dayTodayStyle com.webfills.schoolapp:dayTodayStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_rangeFillColor com.webfills.schoolapp:rangeFillColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_yearSelectedStyle com.webfills.schoolapp:yearSelectedStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_yearStyle com.webfills.schoolapp:yearStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_yearTodayStyle com.webfills.schoolapp:yearTodayStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCalendar_android_windowFullscreen
      * @see #MaterialCalendar_dayInvalidStyle
@@ -19990,7 +19990,7 @@ public final class R {
      */
     public static final int MaterialCalendar_android_windowFullscreen=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#dayInvalidStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#dayInvalidStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19998,11 +19998,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:dayInvalidStyle
+     * @attr name com.webfills.schoolapp:dayInvalidStyle
      */
     public static final int MaterialCalendar_dayInvalidStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#daySelectedStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#daySelectedStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20010,11 +20010,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:daySelectedStyle
+     * @attr name com.webfills.schoolapp:daySelectedStyle
      */
     public static final int MaterialCalendar_daySelectedStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#dayStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#dayStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20022,11 +20022,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:dayStyle
+     * @attr name com.webfills.schoolapp:dayStyle
      */
     public static final int MaterialCalendar_dayStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#dayTodayStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#dayTodayStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20034,22 +20034,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:dayTodayStyle
+     * @attr name com.webfills.schoolapp:dayTodayStyle
      */
     public static final int MaterialCalendar_dayTodayStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#rangeFillColor}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#rangeFillColor}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:rangeFillColor
+     * @attr name com.webfills.schoolapp:rangeFillColor
      */
     public static final int MaterialCalendar_rangeFillColor=5;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#yearSelectedStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#yearSelectedStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20057,11 +20057,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:yearSelectedStyle
+     * @attr name com.webfills.schoolapp:yearSelectedStyle
      */
     public static final int MaterialCalendar_yearSelectedStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#yearStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#yearStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20069,11 +20069,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:yearStyle
+     * @attr name com.webfills.schoolapp:yearStyle
      */
     public static final int MaterialCalendar_yearStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#yearTodayStyle}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#yearTodayStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20081,7 +20081,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:yearTodayStyle
+     * @attr name com.webfills.schoolapp:yearTodayStyle
      */
     public static final int MaterialCalendar_yearTodayStyle=8;
     /**
@@ -20095,12 +20095,12 @@ public final class R {
      * <tr><td><code>{@link #MaterialCalendarItem_android_insetRight android:insetRight}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialCalendarItem_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialCalendarItem_android_insetBottom android:insetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemFillColor com.webfills.schoolgoa:itemFillColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemShapeAppearance com.webfills.schoolgoa:itemShapeAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemShapeAppearanceOverlay com.webfills.schoolgoa:itemShapeAppearanceOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemStrokeColor com.webfills.schoolgoa:itemStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemStrokeWidth com.webfills.schoolgoa:itemStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemTextColor com.webfills.schoolgoa:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemFillColor com.webfills.schoolapp:itemFillColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemShapeAppearance com.webfills.schoolapp:itemShapeAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemShapeAppearanceOverlay com.webfills.schoolapp:itemShapeAppearanceOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemStrokeColor com.webfills.schoolapp:itemStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemStrokeWidth com.webfills.schoolapp:itemStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemTextColor com.webfills.schoolapp:itemTextColor}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCalendarItem_android_insetLeft
      * @see #MaterialCalendarItem_android_insetRight
@@ -20187,18 +20187,18 @@ public final class R {
      */
     public static final int MaterialCalendarItem_android_insetBottom=3;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#itemFillColor}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#itemFillColor}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemFillColor
+     * @attr name com.webfills.schoolapp:itemFillColor
      */
     public static final int MaterialCalendarItem_itemFillColor=4;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#itemShapeAppearance}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#itemShapeAppearance}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20206,11 +20206,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemShapeAppearance
+     * @attr name com.webfills.schoolapp:itemShapeAppearance
      */
     public static final int MaterialCalendarItem_itemShapeAppearance=5;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#itemShapeAppearanceOverlay}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#itemShapeAppearanceOverlay}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20218,22 +20218,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemShapeAppearanceOverlay
+     * @attr name com.webfills.schoolapp:itemShapeAppearanceOverlay
      */
     public static final int MaterialCalendarItem_itemShapeAppearanceOverlay=6;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#itemStrokeColor}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#itemStrokeColor}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemStrokeColor
+     * @attr name com.webfills.schoolapp:itemStrokeColor
      */
     public static final int MaterialCalendarItem_itemStrokeColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#itemStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#itemStrokeWidth}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20242,18 +20242,18 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:itemStrokeWidth
+     * @attr name com.webfills.schoolapp:itemStrokeWidth
      */
     public static final int MaterialCalendarItem_itemStrokeWidth=8;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemTextColor
+     * @attr name com.webfills.schoolapp:itemTextColor
      */
     public static final int MaterialCalendarItem_itemTextColor=9;
     /**
@@ -20264,15 +20264,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #MaterialCardView_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_cardForegroundColor com.webfills.schoolgoa:cardForegroundColor}</code></td><td>Foreground color for CardView.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_checkedIcon com.webfills.schoolgoa:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_checkedIconTint com.webfills.schoolgoa:checkedIconTint}</code></td><td>Tint color for the checked icon.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_rippleColor com.webfills.schoolgoa:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_shapeAppearance com.webfills.schoolgoa:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_shapeAppearanceOverlay com.webfills.schoolgoa:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_state_dragged com.webfills.schoolgoa:state_dragged}</code></td><td>State when a Card is being dragged.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeColor com.webfills.schoolgoa:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.webfills.schoolgoa:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_cardForegroundColor com.webfills.schoolapp:cardForegroundColor}</code></td><td>Foreground color for CardView.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_checkedIcon com.webfills.schoolapp:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_checkedIconTint com.webfills.schoolapp:checkedIconTint}</code></td><td>Tint color for the checked icon.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_rippleColor com.webfills.schoolapp:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_shapeAppearance com.webfills.schoolapp:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_shapeAppearanceOverlay com.webfills.schoolapp:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_state_dragged com.webfills.schoolapp:state_dragged}</code></td><td>State when a Card is being dragged.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeColor com.webfills.schoolapp:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.webfills.schoolapp:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCardView_android_checkable
      * @see #MaterialCardView_cardForegroundColor
@@ -20310,7 +20310,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:cardForegroundColor
+     * @attr name com.webfills.schoolapp:cardForegroundColor
      */
     public static final int MaterialCardView_cardForegroundColor=1;
     /**
@@ -20323,7 +20323,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:checkedIcon
+     * @attr name com.webfills.schoolapp:checkedIcon
      */
     public static final int MaterialCardView_checkedIcon=2;
     /**
@@ -20335,7 +20335,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:checkedIconTint
+     * @attr name com.webfills.schoolapp:checkedIconTint
      */
     public static final int MaterialCardView_checkedIconTint=3;
     /**
@@ -20347,7 +20347,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:rippleColor
+     * @attr name com.webfills.schoolapp:rippleColor
      */
     public static final int MaterialCardView_rippleColor=4;
     /**
@@ -20361,7 +20361,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearance
+     * @attr name com.webfills.schoolapp:shapeAppearance
      */
     public static final int MaterialCardView_shapeAppearance=5;
     /**
@@ -20375,7 +20375,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearanceOverlay
+     * @attr name com.webfills.schoolapp:shapeAppearanceOverlay
      */
     public static final int MaterialCardView_shapeAppearanceOverlay=6;
     /**
@@ -20386,7 +20386,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:state_dragged
+     * @attr name com.webfills.schoolapp:state_dragged
      */
     public static final int MaterialCardView_state_dragged=7;
     /**
@@ -20399,7 +20399,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:strokeColor
+     * @attr name com.webfills.schoolapp:strokeColor
      */
     public static final int MaterialCardView_strokeColor=8;
     /**
@@ -20414,7 +20414,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:strokeWidth
+     * @attr name com.webfills.schoolapp:strokeWidth
      */
     public static final int MaterialCardView_strokeWidth=9;
     /**
@@ -20424,8 +20424,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialCheckBox_buttonTint com.webfills.schoolgoa:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #MaterialCheckBox_useMaterialThemeColors com.webfills.schoolgoa:useMaterialThemeColors}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCheckBox_buttonTint com.webfills.schoolapp:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #MaterialCheckBox_useMaterialThemeColors com.webfills.schoolapp:useMaterialThemeColors}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCheckBox_buttonTint
      * @see #MaterialCheckBox_useMaterialThemeColors
@@ -20442,7 +20442,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:buttonTint
+     * @attr name com.webfills.schoolapp:buttonTint
      */
     public static final int MaterialCheckBox_buttonTint=0;
     /**
@@ -20456,7 +20456,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:useMaterialThemeColors
+     * @attr name com.webfills.schoolapp:useMaterialThemeColors
      */
     public static final int MaterialCheckBox_useMaterialThemeColors=1;
     /**
@@ -20466,7 +20466,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialRadioButton_useMaterialThemeColors com.webfills.schoolgoa:useMaterialThemeColors}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialRadioButton_useMaterialThemeColors com.webfills.schoolapp:useMaterialThemeColors}</code></td><td></td></tr>
      * </table>
      * @see #MaterialRadioButton_useMaterialThemeColors
      */
@@ -20484,7 +20484,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:useMaterialThemeColors
+     * @attr name com.webfills.schoolapp:useMaterialThemeColors
      */
     public static final int MaterialRadioButton_useMaterialThemeColors=0;
     /**
@@ -20494,8 +20494,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialShape_shapeAppearance com.webfills.schoolgoa:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #MaterialShape_shapeAppearanceOverlay com.webfills.schoolgoa:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #MaterialShape_shapeAppearance com.webfills.schoolapp:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #MaterialShape_shapeAppearanceOverlay com.webfills.schoolapp:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
      * </table>
      * @see #MaterialShape_shapeAppearance
      * @see #MaterialShape_shapeAppearanceOverlay
@@ -20513,7 +20513,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearance
+     * @attr name com.webfills.schoolapp:shapeAppearance
      */
     public static final int MaterialShape_shapeAppearance=0;
     /**
@@ -20526,7 +20526,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearanceOverlay
+     * @attr name com.webfills.schoolapp:shapeAppearanceOverlay
      */
     public static final int MaterialShape_shapeAppearanceOverlay=1;
     /**
@@ -20537,7 +20537,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #MaterialTextAppearance_android_lineHeight android:lineHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialTextAppearance_lineHeight com.webfills.schoolgoa:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #MaterialTextAppearance_lineHeight com.webfills.schoolapp:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
      * </table>
      * @see #MaterialTextAppearance_android_lineHeight
      * @see #MaterialTextAppearance_lineHeight
@@ -20572,7 +20572,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:lineHeight
+     * @attr name com.webfills.schoolapp:lineHeight
      */
     public static final int MaterialTextAppearance_lineHeight=1;
     /**
@@ -20584,7 +20584,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #MaterialTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialTextView_android_lineHeight android:lineHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialTextView_lineHeight com.webfills.schoolgoa:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #MaterialTextView_lineHeight com.webfills.schoolapp:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
      * </table>
      * @see #MaterialTextView_android_textAppearance
      * @see #MaterialTextView_android_lineHeight
@@ -20630,7 +20630,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:lineHeight
+     * @attr name com.webfills.schoolapp:lineHeight
      */
     public static final int MaterialTextView_lineHeight=2;
     /**
@@ -20764,18 +20764,18 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.webfills.schoolgoa:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.webfills.schoolgoa:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
+     * <tr><td><code>{@link #MenuItem_actionLayout com.webfills.schoolapp:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.webfills.schoolapp:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.webfills.schoolgoa:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.webfills.schoolapp:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
      * action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.webfills.schoolgoa:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.webfills.schoolgoa:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.webfills.schoolgoa:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.webfills.schoolgoa:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.webfills.schoolgoa:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.webfills.schoolgoa:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.webfills.schoolgoa:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.webfills.schoolapp:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.webfills.schoolapp:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.webfills.schoolapp:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.webfills.schoolapp:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.webfills.schoolapp:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.webfills.schoolapp:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.webfills.schoolapp:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -20984,7 +20984,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:actionLayout
+     * @attr name com.webfills.schoolapp:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
@@ -20998,7 +20998,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:actionProviderClass
+     * @attr name com.webfills.schoolapp:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
@@ -21011,7 +21011,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:actionViewClass
+     * @attr name com.webfills.schoolapp:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -21034,7 +21034,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:alphabeticModifiers
+     * @attr name com.webfills.schoolapp:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -21045,7 +21045,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:contentDescription
+     * @attr name com.webfills.schoolapp:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
@@ -21057,7 +21057,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:iconTint
+     * @attr name com.webfills.schoolapp:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
@@ -21084,7 +21084,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:iconTintMode
+     * @attr name com.webfills.schoolapp:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
@@ -21107,7 +21107,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:numericModifiers
+     * @attr name com.webfills.schoolapp:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
@@ -21137,7 +21137,7 @@ public final class R {
      * label with it even if it has an icon representation.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:showAsAction
+     * @attr name com.webfills.schoolapp:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
@@ -21148,7 +21148,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:tooltipText
+     * @attr name com.webfills.schoolapp:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -21165,8 +21165,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.webfills.schoolgoa:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.webfills.schoolgoa:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.webfills.schoolapp:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.webfills.schoolapp:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -21285,7 +21285,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:preserveIconSpacing
+     * @attr name com.webfills.schoolapp:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -21298,7 +21298,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:subMenuArrow
+     * @attr name com.webfills.schoolapp:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -21311,24 +21311,24 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation com.webfills.schoolgoa:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout com.webfills.schoolgoa:headerLayout}</code></td><td>Layout resource to inflate as the header</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground com.webfills.schoolgoa:itemBackground}</code></td><td>A background drawable to use for navigation items.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.webfills.schoolgoa:itemHorizontalPadding}</code></td><td>Horizontal padding (left and right) of navigation items, around the icon & text</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconPadding com.webfills.schoolgoa:itemIconPadding}</code></td><td>Padding between the icon and the text for navigation items that display an icon</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconSize com.webfills.schoolgoa:itemIconSize}</code></td><td>The size of the icon navigation items that display an icon</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint com.webfills.schoolgoa:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemMaxLines com.webfills.schoolgoa:itemMaxLines}</code></td><td>Makes the TextView of the item text be at most this many lines tall.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeAppearance com.webfills.schoolgoa:itemShapeAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeAppearanceOverlay com.webfills.schoolgoa:itemShapeAppearanceOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeFillColor com.webfills.schoolgoa:itemShapeFillColor}</code></td><td>Fill color for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeInsetBottom com.webfills.schoolgoa:itemShapeInsetBottom}</code></td><td>Inset bottom margin for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeInsetEnd com.webfills.schoolgoa:itemShapeInsetEnd}</code></td><td>Inset end margin for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeInsetStart com.webfills.schoolgoa:itemShapeInsetStart}</code></td><td>Inset start margin for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeInsetTop com.webfills.schoolgoa:itemShapeInsetTop}</code></td><td>Inset top margin for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.webfills.schoolgoa:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor com.webfills.schoolgoa:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu com.webfills.schoolgoa:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.webfills.schoolapp:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.webfills.schoolapp:headerLayout}</code></td><td>Layout resource to inflate as the header</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.webfills.schoolapp:itemBackground}</code></td><td>A background drawable to use for navigation items.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.webfills.schoolapp:itemHorizontalPadding}</code></td><td>Horizontal padding (left and right) of navigation items, around the icon & text</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconPadding com.webfills.schoolapp:itemIconPadding}</code></td><td>Padding between the icon and the text for navigation items that display an icon</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconSize com.webfills.schoolapp:itemIconSize}</code></td><td>The size of the icon navigation items that display an icon</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.webfills.schoolapp:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemMaxLines com.webfills.schoolapp:itemMaxLines}</code></td><td>Makes the TextView of the item text be at most this many lines tall.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeAppearance com.webfills.schoolapp:itemShapeAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeAppearanceOverlay com.webfills.schoolapp:itemShapeAppearanceOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeFillColor com.webfills.schoolapp:itemShapeFillColor}</code></td><td>Fill color for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeInsetBottom com.webfills.schoolapp:itemShapeInsetBottom}</code></td><td>Inset bottom margin for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeInsetEnd com.webfills.schoolapp:itemShapeInsetEnd}</code></td><td>Inset end margin for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeInsetStart com.webfills.schoolapp:itemShapeInsetStart}</code></td><td>Inset start margin for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeInsetTop com.webfills.schoolapp:itemShapeInsetTop}</code></td><td>Inset top margin for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.webfills.schoolapp:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.webfills.schoolapp:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.webfills.schoolapp:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -21409,7 +21409,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:elevation
+     * @attr name com.webfills.schoolapp:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
@@ -21422,7 +21422,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:headerLayout
+     * @attr name com.webfills.schoolapp:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
@@ -21436,7 +21436,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemBackground
+     * @attr name com.webfills.schoolapp:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
@@ -21450,7 +21450,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:itemHorizontalPadding
+     * @attr name com.webfills.schoolapp:itemHorizontalPadding
      */
     public static final int NavigationView_itemHorizontalPadding=6;
     /**
@@ -21464,7 +21464,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:itemIconPadding
+     * @attr name com.webfills.schoolapp:itemIconPadding
      */
     public static final int NavigationView_itemIconPadding=7;
     /**
@@ -21478,18 +21478,18 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:itemIconSize
+     * @attr name com.webfills.schoolapp:itemIconSize
      */
     public static final int NavigationView_itemIconSize=8;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemIconTint
+     * @attr name com.webfills.schoolapp:itemIconTint
      */
     public static final int NavigationView_itemIconTint=9;
     /**
@@ -21499,7 +21499,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:itemMaxLines
+     * @attr name com.webfills.schoolapp:itemMaxLines
      */
     public static final int NavigationView_itemMaxLines=10;
     /**
@@ -21514,7 +21514,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemShapeAppearance
+     * @attr name com.webfills.schoolapp:itemShapeAppearance
      */
     public static final int NavigationView_itemShapeAppearance=11;
     /**
@@ -21530,7 +21530,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemShapeAppearanceOverlay
+     * @attr name com.webfills.schoolapp:itemShapeAppearanceOverlay
      */
     public static final int NavigationView_itemShapeAppearanceOverlay=12;
     /**
@@ -21543,7 +21543,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemShapeFillColor
+     * @attr name com.webfills.schoolapp:itemShapeFillColor
      */
     public static final int NavigationView_itemShapeFillColor=13;
     /**
@@ -21558,7 +21558,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:itemShapeInsetBottom
+     * @attr name com.webfills.schoolapp:itemShapeInsetBottom
      */
     public static final int NavigationView_itemShapeInsetBottom=14;
     /**
@@ -21573,7 +21573,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:itemShapeInsetEnd
+     * @attr name com.webfills.schoolapp:itemShapeInsetEnd
      */
     public static final int NavigationView_itemShapeInsetEnd=15;
     /**
@@ -21588,7 +21588,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:itemShapeInsetStart
+     * @attr name com.webfills.schoolapp:itemShapeInsetStart
      */
     public static final int NavigationView_itemShapeInsetStart=16;
     /**
@@ -21603,11 +21603,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:itemShapeInsetTop
+     * @attr name com.webfills.schoolapp:itemShapeInsetTop
      */
     public static final int NavigationView_itemShapeInsetTop=17;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21615,18 +21615,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemTextAppearance
+     * @attr name com.webfills.schoolapp:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:itemTextColor
+     * @attr name com.webfills.schoolapp:itemTextColor
      */
     public static final int NavigationView_itemTextColor=19;
     /**
@@ -21639,7 +21639,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:menu
+     * @attr name com.webfills.schoolapp:menu
      */
     public static final int NavigationView_menu=20;
     /**
@@ -21649,7 +21649,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PatternPathMotion_patternPathData com.webfills.schoolgoa:patternPathData}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PatternPathMotion_patternPathData com.webfills.schoolapp:patternPathData}</code></td><td></td></tr>
      * </table>
      * @see #PatternPathMotion_patternPathData
      */
@@ -21657,13 +21657,13 @@ public final class R {
       0x7f030205
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#patternPathData}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#patternPathData}
      * attribute's value can be found in the {@link #PatternPathMotion} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:patternPathData
+     * @attr name com.webfills.schoolapp:patternPathData
      */
     public static final int PatternPathMotion_patternPathData=0;
     /**
@@ -21675,7 +21675,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.webfills.schoolgoa:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.webfills.schoolapp:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -21719,7 +21719,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:overlapAnchor
+     * @attr name com.webfills.schoolapp:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -21729,7 +21729,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.webfills.schoolgoa:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.webfills.schoolapp:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -21744,7 +21744,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:state_above_anchor
+     * @attr name com.webfills.schoolapp:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -21754,8 +21754,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.webfills.schoolgoa:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.webfills.schoolgoa:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.webfills.schoolapp:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.webfills.schoolapp:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -21774,7 +21774,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:paddingBottomNoButtons
+     * @attr name com.webfills.schoolapp:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
@@ -21788,7 +21788,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:paddingTopNoTitle
+     * @attr name com.webfills.schoolapp:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -21801,15 +21801,15 @@ public final class R {
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_clipToPadding android:clipToPadding}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.webfills.schoolgoa:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.webfills.schoolgoa:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.webfills.schoolgoa:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.webfills.schoolgoa:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.webfills.schoolgoa:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.webfills.schoolgoa:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.webfills.schoolgoa:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.webfills.schoolgoa:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.webfills.schoolgoa:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.webfills.schoolapp:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.webfills.schoolapp:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.webfills.schoolapp:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.webfills.schoolapp:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.webfills.schoolapp:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.webfills.schoolapp:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.webfills.schoolapp:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.webfills.schoolapp:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.webfills.schoolapp:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_clipToPadding
@@ -21875,17 +21875,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=2;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:fastScrollEnabled
+     * @attr name com.webfills.schoolapp:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=3;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21893,11 +21893,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:fastScrollHorizontalThumbDrawable
+     * @attr name com.webfills.schoolapp:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21905,11 +21905,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:fastScrollHorizontalTrackDrawable
+     * @attr name com.webfills.schoolapp:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21917,11 +21917,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:fastScrollVerticalThumbDrawable
+     * @attr name com.webfills.schoolapp:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=6;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21929,7 +21929,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:fastScrollVerticalTrackDrawable
+     * @attr name com.webfills.schoolapp:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=7;
     /**
@@ -21948,36 +21948,36 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:layoutManager
+     * @attr name com.webfills.schoolapp:layoutManager
      */
     public static final int RecyclerView_layoutManager=8;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:reverseLayout
+     * @attr name com.webfills.schoolapp:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:spanCount
+     * @attr name com.webfills.schoolapp:spanCount
      */
     public static final int RecyclerView_spanCount=10;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:stackFromEnd
+     * @attr name com.webfills.schoolapp:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=11;
     /**
@@ -21987,7 +21987,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Scale_disappearedScale com.webfills.schoolgoa:disappearedScale}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Scale_disappearedScale com.webfills.schoolapp:disappearedScale}</code></td><td></td></tr>
      * </table>
      * @see #Scale_disappearedScale
      */
@@ -21995,12 +21995,12 @@ public final class R {
       0x7f0300e3
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#disappearedScale}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#disappearedScale}
      * attribute's value can be found in the {@link #Scale} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:disappearedScale
+     * @attr name com.webfills.schoolapp:disappearedScale
      */
     public static final int Scale_disappearedScale=0;
     /**
@@ -22010,7 +22010,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.webfills.schoolgoa:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.webfills.schoolapp:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -22018,7 +22018,7 @@ public final class R {
       0x7f030156
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22029,7 +22029,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:insetForeground
+     * @attr name com.webfills.schoolapp:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -22039,7 +22039,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.webfills.schoolgoa:behavior_overlapTop}</code></td><td>The amount that the scrolling view should overlap the bottom of any AppBarLayout</td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.webfills.schoolapp:behavior_overlapTop}</code></td><td>The amount that the scrolling view should overlap the bottom of any AppBarLayout</td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -22057,7 +22057,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:behavior_overlapTop
+     * @attr name com.webfills.schoolapp:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -22071,20 +22071,20 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.webfills.schoolgoa:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.webfills.schoolgoa:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.webfills.schoolgoa:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
+     * <tr><td><code>{@link #SearchView_closeIcon com.webfills.schoolapp:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.webfills.schoolapp:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.webfills.schoolapp:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
      * the search view's {@code SearchableInfo} does not provide a hint.</td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.webfills.schoolgoa:goIcon}</code></td><td>Go button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.webfills.schoolgoa:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.webfills.schoolgoa:layout}</code></td><td>The layout to use for the search view.</td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.webfills.schoolgoa:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.webfills.schoolgoa:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.webfills.schoolgoa:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.webfills.schoolgoa:searchIcon}</code></td><td>Search icon</td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.webfills.schoolgoa:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.webfills.schoolgoa:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.webfills.schoolgoa:voiceIcon}</code></td><td>Voice button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.webfills.schoolapp:goIcon}</code></td><td>Go button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.webfills.schoolapp:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.webfills.schoolapp:layout}</code></td><td>The layout to use for the search view.</td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.webfills.schoolapp:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.webfills.schoolapp:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.webfills.schoolapp:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.webfills.schoolapp:searchIcon}</code></td><td>Search icon</td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.webfills.schoolapp:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.webfills.schoolapp:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.webfills.schoolapp:voiceIcon}</code></td><td>Voice button icon</td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -22234,7 +22234,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:closeIcon
+     * @attr name com.webfills.schoolapp:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
@@ -22247,7 +22247,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:commitIcon
+     * @attr name com.webfills.schoolapp:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
@@ -22259,7 +22259,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:defaultQueryHint
+     * @attr name com.webfills.schoolapp:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
@@ -22272,7 +22272,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:goIcon
+     * @attr name com.webfills.schoolapp:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
@@ -22284,7 +22284,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:iconifiedByDefault
+     * @attr name com.webfills.schoolapp:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
@@ -22297,7 +22297,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:layout
+     * @attr name com.webfills.schoolapp:layout
      */
     public static final int SearchView_layout=9;
     /**
@@ -22310,7 +22310,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:queryBackground
+     * @attr name com.webfills.schoolapp:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
@@ -22321,7 +22321,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:queryHint
+     * @attr name com.webfills.schoolapp:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
@@ -22334,7 +22334,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:searchHintIcon
+     * @attr name com.webfills.schoolapp:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
@@ -22347,7 +22347,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:searchIcon
+     * @attr name com.webfills.schoolapp:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
@@ -22360,7 +22360,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:submitBackground
+     * @attr name com.webfills.schoolapp:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
@@ -22373,7 +22373,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:suggestionRowLayout
+     * @attr name com.webfills.schoolapp:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
@@ -22386,7 +22386,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:voiceIcon
+     * @attr name com.webfills.schoolapp:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -22396,16 +22396,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamily com.webfills.schoolgoa:cornerFamily}</code></td><td>Corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyBottomLeft com.webfills.schoolgoa:cornerFamilyBottomLeft}</code></td><td>Bottom left corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyBottomRight com.webfills.schoolgoa:cornerFamilyBottomRight}</code></td><td>Bottom right corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyTopLeft com.webfills.schoolgoa:cornerFamilyTopLeft}</code></td><td>Top left corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyTopRight com.webfills.schoolgoa:cornerFamilyTopRight}</code></td><td>Top right corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSize com.webfills.schoolgoa:cornerSize}</code></td><td>Corner size to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSizeBottomLeft com.webfills.schoolgoa:cornerSizeBottomLeft}</code></td><td>Bottom left corner size to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSizeBottomRight com.webfills.schoolgoa:cornerSizeBottomRight}</code></td><td>Bottom right corner size to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSizeTopLeft com.webfills.schoolgoa:cornerSizeTopLeft}</code></td><td>Top left corner size to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSizeTopRight com.webfills.schoolgoa:cornerSizeTopRight}</code></td><td>Top right corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamily com.webfills.schoolapp:cornerFamily}</code></td><td>Corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyBottomLeft com.webfills.schoolapp:cornerFamilyBottomLeft}</code></td><td>Bottom left corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyBottomRight com.webfills.schoolapp:cornerFamilyBottomRight}</code></td><td>Bottom right corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyTopLeft com.webfills.schoolapp:cornerFamilyTopLeft}</code></td><td>Top left corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyTopRight com.webfills.schoolapp:cornerFamilyTopRight}</code></td><td>Top right corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSize com.webfills.schoolapp:cornerSize}</code></td><td>Corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSizeBottomLeft com.webfills.schoolapp:cornerSizeBottomLeft}</code></td><td>Bottom left corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSizeBottomRight com.webfills.schoolapp:cornerSizeBottomRight}</code></td><td>Bottom right corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSizeTopLeft com.webfills.schoolapp:cornerSizeTopLeft}</code></td><td>Top left corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSizeTopRight com.webfills.schoolapp:cornerSizeTopRight}</code></td><td>Top right corner size to be used in the ShapeAppearance.</td></tr>
      * </table>
      * @see #ShapeAppearance_cornerFamily
      * @see #ShapeAppearance_cornerFamilyBottomLeft
@@ -22438,7 +22438,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:cornerFamily
+     * @attr name com.webfills.schoolapp:cornerFamily
      */
     public static final int ShapeAppearance_cornerFamily=0;
     /**
@@ -22456,7 +22456,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:cornerFamilyBottomLeft
+     * @attr name com.webfills.schoolapp:cornerFamilyBottomLeft
      */
     public static final int ShapeAppearance_cornerFamilyBottomLeft=1;
     /**
@@ -22474,7 +22474,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:cornerFamilyBottomRight
+     * @attr name com.webfills.schoolapp:cornerFamilyBottomRight
      */
     public static final int ShapeAppearance_cornerFamilyBottomRight=2;
     /**
@@ -22492,7 +22492,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:cornerFamilyTopLeft
+     * @attr name com.webfills.schoolapp:cornerFamilyTopLeft
      */
     public static final int ShapeAppearance_cornerFamilyTopLeft=3;
     /**
@@ -22510,7 +22510,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:cornerFamilyTopRight
+     * @attr name com.webfills.schoolapp:cornerFamilyTopRight
      */
     public static final int ShapeAppearance_cornerFamilyTopRight=4;
     /**
@@ -22528,7 +22528,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.webfills.schoolgoa:cornerSize
+     * @attr name com.webfills.schoolapp:cornerSize
      */
     public static final int ShapeAppearance_cornerSize=5;
     /**
@@ -22546,7 +22546,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.webfills.schoolgoa:cornerSizeBottomLeft
+     * @attr name com.webfills.schoolapp:cornerSizeBottomLeft
      */
     public static final int ShapeAppearance_cornerSizeBottomLeft=6;
     /**
@@ -22564,7 +22564,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.webfills.schoolgoa:cornerSizeBottomRight
+     * @attr name com.webfills.schoolapp:cornerSizeBottomRight
      */
     public static final int ShapeAppearance_cornerSizeBottomRight=7;
     /**
@@ -22582,7 +22582,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.webfills.schoolgoa:cornerSizeTopLeft
+     * @attr name com.webfills.schoolapp:cornerSizeTopLeft
      */
     public static final int ShapeAppearance_cornerSizeTopLeft=8;
     /**
@@ -22600,7 +22600,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.webfills.schoolgoa:cornerSizeTopRight
+     * @attr name com.webfills.schoolapp:cornerSizeTopRight
      */
     public static final int ShapeAppearance_cornerSizeTopRight=9;
     /**
@@ -22610,9 +22610,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SignInButton_buttonSize com.webfills.schoolgoa:buttonSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_colorScheme com.webfills.schoolgoa:colorScheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_scopeUris com.webfills.schoolgoa:scopeUris}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_buttonSize com.webfills.schoolapp:buttonSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_colorScheme com.webfills.schoolapp:colorScheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_scopeUris com.webfills.schoolapp:scopeUris}</code></td><td></td></tr>
      * </table>
      * @see #SignInButton_buttonSize
      * @see #SignInButton_colorScheme
@@ -22622,7 +22622,7 @@ public final class R {
       0x7f030068, 0x7f0300b1, 0x7f03021b
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#buttonSize}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#buttonSize}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22640,11 +22640,11 @@ public final class R {
      * <tr><td>wide</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:buttonSize
+     * @attr name com.webfills.schoolapp:buttonSize
      */
     public static final int SignInButton_buttonSize=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#colorScheme}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#colorScheme}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22662,11 +22662,11 @@ public final class R {
      * <tr><td>light</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:colorScheme
+     * @attr name com.webfills.schoolapp:colorScheme
      */
     public static final int SignInButton_colorScheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#scopeUris}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#scopeUris}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22676,7 +22676,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:scopeUris
+     * @attr name com.webfills.schoolapp:scopeUris
      */
     public static final int SignInButton_scopeUris=2;
     /**
@@ -22686,7 +22686,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Slide_slideEdge com.webfills.schoolgoa:slideEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Slide_slideEdge com.webfills.schoolapp:slideEdge}</code></td><td></td></tr>
      * </table>
      * @see #Slide_slideEdge
      */
@@ -22694,7 +22694,7 @@ public final class R {
       0x7f030233
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#slideEdge}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#slideEdge}
      * attribute's value can be found in the {@link #Slide} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -22709,7 +22709,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:slideEdge
+     * @attr name com.webfills.schoolapp:slideEdge
      */
     public static final int Slide_slideEdge=0;
     /**
@@ -22719,8 +22719,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.webfills.schoolgoa:snackbarButtonStyle}</code></td><td>Style to use for action button within a Snackbar in this theme.</td></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarStyle com.webfills.schoolgoa:snackbarStyle}</code></td><td>Style to use for Snackbars in this theme.</td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.webfills.schoolapp:snackbarButtonStyle}</code></td><td>Style to use for action button within a Snackbar in this theme.</td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarStyle com.webfills.schoolapp:snackbarStyle}</code></td><td>Style to use for Snackbars in this theme.</td></tr>
      * </table>
      * @see #Snackbar_snackbarButtonStyle
      * @see #Snackbar_snackbarStyle
@@ -22738,7 +22738,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:snackbarButtonStyle
+     * @attr name com.webfills.schoolapp:snackbarButtonStyle
      */
     public static final int Snackbar_snackbarButtonStyle=0;
     /**
@@ -22751,7 +22751,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:snackbarStyle
+     * @attr name com.webfills.schoolapp:snackbarStyle
      */
     public static final int Snackbar_snackbarStyle=1;
     /**
@@ -22762,12 +22762,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_actionTextColorAlpha com.webfills.schoolgoa:actionTextColorAlpha}</code></td><td>Alpha level for the action button text, to allow for adjusting the lightness or darkness of
+     * <tr><td><code>{@link #SnackbarLayout_actionTextColorAlpha com.webfills.schoolapp:actionTextColorAlpha}</code></td><td>Alpha level for the action button text, to allow for adjusting the lightness or darkness of
      * the theme color used for Snackbar text buttons (e.g., colorPrimary).</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_animationMode com.webfills.schoolgoa:animationMode}</code></td><td>Sets the enter and exit animations for a Snackbar.</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_backgroundOverlayColorAlpha com.webfills.schoolgoa:backgroundOverlayColorAlpha}</code></td><td>Alpha level for the color that is overlaid on top of the background color.</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation com.webfills.schoolgoa:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.webfills.schoolgoa:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_animationMode com.webfills.schoolapp:animationMode}</code></td><td>Sets the enter and exit animations for a Snackbar.</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_backgroundOverlayColorAlpha com.webfills.schoolapp:backgroundOverlayColorAlpha}</code></td><td>Alpha level for the color that is overlaid on top of the background color.</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.webfills.schoolapp:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.webfills.schoolapp:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_actionTextColorAlpha
@@ -22801,7 +22801,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:actionTextColorAlpha
+     * @attr name com.webfills.schoolapp:actionTextColorAlpha
      */
     public static final int SnackbarLayout_actionTextColorAlpha=1;
     /**
@@ -22819,7 +22819,7 @@ public final class R {
      * <tr><td>slide</td><td>0</td><td>Mode that corresponds to the slide in and out animations.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:animationMode
+     * @attr name com.webfills.schoolapp:animationMode
      */
     public static final int SnackbarLayout_animationMode=2;
     /**
@@ -22829,7 +22829,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:backgroundOverlayColorAlpha
+     * @attr name com.webfills.schoolapp:backgroundOverlayColorAlpha
      */
     public static final int SnackbarLayout_backgroundOverlayColorAlpha=3;
     /**
@@ -22843,11 +22843,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:elevation
+     * @attr name com.webfills.schoolapp:elevation
      */
     public static final int SnackbarLayout_elevation=4;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -22856,7 +22856,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:maxActionInlineWidth
+     * @attr name com.webfills.schoolapp:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=5;
     /**
@@ -22870,7 +22870,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.webfills.schoolgoa:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Spinner_popupTheme com.webfills.schoolapp:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
      * </table>
      * @see #Spinner_android_entries
@@ -22959,7 +22959,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:popupTheme
+     * @attr name com.webfills.schoolapp:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -23099,17 +23099,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.webfills.schoolgoa:showText}</code></td><td>Whether to draw on/off text.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.webfills.schoolgoa:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.webfills.schoolgoa:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.webfills.schoolgoa:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.webfills.schoolgoa:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.webfills.schoolgoa:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.webfills.schoolgoa:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.webfills.schoolgoa:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.webfills.schoolgoa:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.webfills.schoolgoa:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.webfills.schoolgoa:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.webfills.schoolapp:showText}</code></td><td>Whether to draw on/off text.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.webfills.schoolapp:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.webfills.schoolapp:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.webfills.schoolapp:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.webfills.schoolapp:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.webfills.schoolapp:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.webfills.schoolapp:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.webfills.schoolapp:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.webfills.schoolapp:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.webfills.schoolapp:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.webfills.schoolapp:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -23175,7 +23175,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:showText
+     * @attr name com.webfills.schoolapp:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
@@ -23186,7 +23186,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:splitTrack
+     * @attr name com.webfills.schoolapp:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
@@ -23200,7 +23200,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:switchMinWidth
+     * @attr name com.webfills.schoolapp:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
@@ -23214,7 +23214,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:switchPadding
+     * @attr name com.webfills.schoolapp:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
@@ -23227,7 +23227,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:switchTextAppearance
+     * @attr name com.webfills.schoolapp:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
@@ -23241,7 +23241,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:thumbTextPadding
+     * @attr name com.webfills.schoolapp:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
@@ -23253,7 +23253,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:thumbTint
+     * @attr name com.webfills.schoolapp:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
@@ -23280,7 +23280,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:thumbTintMode
+     * @attr name com.webfills.schoolapp:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
@@ -23293,7 +23293,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:track
+     * @attr name com.webfills.schoolapp:track
      */
     public static final int SwitchCompat_track=11;
     /**
@@ -23305,7 +23305,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:trackTint
+     * @attr name com.webfills.schoolapp:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
@@ -23332,7 +23332,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:trackTintMode
+     * @attr name com.webfills.schoolapp:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -23342,7 +23342,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SwitchMaterial_useMaterialThemeColors com.webfills.schoolgoa:useMaterialThemeColors}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchMaterial_useMaterialThemeColors com.webfills.schoolapp:useMaterialThemeColors}</code></td><td></td></tr>
      * </table>
      * @see #SwitchMaterial_useMaterialThemeColors
      */
@@ -23360,7 +23360,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:useMaterialThemeColors
+     * @attr name com.webfills.schoolapp:useMaterialThemeColors
      */
     public static final int SwitchMaterial_useMaterialThemeColors=0;
     /**
@@ -23425,35 +23425,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground com.webfills.schoolgoa:tabBackground}</code></td><td>Reference to a background to be applied to tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart com.webfills.schoolgoa:tabContentStart}</code></td><td>Position in the Y axis from the starting edge that tabs should be positioned from.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity com.webfills.schoolgoa:tabGravity}</code></td><td>Gravity constant for tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTint com.webfills.schoolgoa:tabIconTint}</code></td><td>Tint to apply to tab icons, if present.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.webfills.schoolgoa:tabIconTintMode}</code></td><td>Blending mode to apply to tab icons.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicator com.webfills.schoolgoa:tabIndicator}</code></td><td>Reference to a drawable to use as selection indicator for tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.webfills.schoolgoa:tabIndicatorAnimationDuration}</code></td><td>Duration in milliseconds for the animation of the selection indicator from one tab item
+     * <tr><td><code>{@link #TabLayout_tabBackground com.webfills.schoolapp:tabBackground}</code></td><td>Reference to a background to be applied to tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.webfills.schoolapp:tabContentStart}</code></td><td>Position in the Y axis from the starting edge that tabs should be positioned from.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.webfills.schoolapp:tabGravity}</code></td><td>Gravity constant for tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTint com.webfills.schoolapp:tabIconTint}</code></td><td>Tint to apply to tab icons, if present.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.webfills.schoolapp:tabIconTintMode}</code></td><td>Blending mode to apply to tab icons.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicator com.webfills.schoolapp:tabIndicator}</code></td><td>Reference to a drawable to use as selection indicator for tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.webfills.schoolapp:tabIndicatorAnimationDuration}</code></td><td>Duration in milliseconds for the animation of the selection indicator from one tab item
      * to another.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.webfills.schoolgoa:tabIndicatorColor}</code></td><td>Color of the indicator used to show the currently selected tab.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.webfills.schoolgoa:tabIndicatorFullWidth}</code></td><td>Whether the selection indicator width should fill the full width of the tab item,
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.webfills.schoolapp:tabIndicatorColor}</code></td><td>Color of the indicator used to show the currently selected tab.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.webfills.schoolapp:tabIndicatorFullWidth}</code></td><td>Whether the selection indicator width should fill the full width of the tab item,
      * or if it should be fitted to the content of the tab text label.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.webfills.schoolgoa:tabIndicatorGravity}</code></td><td>Gravity constant for tab selection indicator.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.webfills.schoolgoa:tabIndicatorHeight}</code></td><td>{@deprecated Instead, set the intrinsic size of the custom drawable provided to the
+     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.webfills.schoolapp:tabIndicatorGravity}</code></td><td>Gravity constant for tab selection indicator.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.webfills.schoolapp:tabIndicatorHeight}</code></td><td>{@deprecated Instead, set the intrinsic size of the custom drawable provided to the
      * tabIndicator attribute in order to change the indicator height.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.webfills.schoolgoa:tabInlineLabel}</code></td><td>Whether to display tab labels horizontally inline with icons, or underneath icons.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.webfills.schoolgoa:tabMaxWidth}</code></td><td>The maximum width for tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth com.webfills.schoolgoa:tabMinWidth}</code></td><td>The minimum width for tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode com.webfills.schoolgoa:tabMode}</code></td><td>The behavior mode for the Tabs in this layout</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding com.webfills.schoolgoa:tabPadding}</code></td><td>The preferred padding along all edges of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.webfills.schoolgoa:tabPaddingBottom}</code></td><td>The preferred padding along the bottom edge of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.webfills.schoolgoa:tabPaddingEnd}</code></td><td>The preferred padding along the end edge of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.webfills.schoolgoa:tabPaddingStart}</code></td><td>The preferred padding along the start edge of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.webfills.schoolgoa:tabPaddingTop}</code></td><td>The preferred padding along the top edge of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabRippleColor com.webfills.schoolgoa:tabRippleColor}</code></td><td>Ripple color for the tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.webfills.schoolgoa:tabSelectedTextColor}</code></td><td>{@deprecated Instead, provide a ColorStateList to the tabTextColor attribute with a
+     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.webfills.schoolapp:tabInlineLabel}</code></td><td>Whether to display tab labels horizontally inline with icons, or underneath icons.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.webfills.schoolapp:tabMaxWidth}</code></td><td>The maximum width for tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.webfills.schoolapp:tabMinWidth}</code></td><td>The minimum width for tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.webfills.schoolapp:tabMode}</code></td><td>The behavior mode for the Tabs in this layout</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.webfills.schoolapp:tabPadding}</code></td><td>The preferred padding along all edges of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.webfills.schoolapp:tabPaddingBottom}</code></td><td>The preferred padding along the bottom edge of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.webfills.schoolapp:tabPaddingEnd}</code></td><td>The preferred padding along the end edge of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.webfills.schoolapp:tabPaddingStart}</code></td><td>The preferred padding along the start edge of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.webfills.schoolapp:tabPaddingTop}</code></td><td>The preferred padding along the top edge of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabRippleColor com.webfills.schoolapp:tabRippleColor}</code></td><td>Ripple color for the tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.webfills.schoolapp:tabSelectedTextColor}</code></td><td>{@deprecated Instead, provide a ColorStateList to the tabTextColor attribute with a
      * selected color set.}</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.webfills.schoolgoa:tabTextAppearance}</code></td><td>A reference to a TextAppearance style to be applied to tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor com.webfills.schoolgoa:tabTextColor}</code></td><td>The default text color to be applied to tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.webfills.schoolgoa:tabUnboundedRipple}</code></td><td>Whether to use unbounded ripple effect for tabs, or if ripple should instead be bound to
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.webfills.schoolapp:tabTextAppearance}</code></td><td>A reference to a TextAppearance style to be applied to tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.webfills.schoolapp:tabTextColor}</code></td><td>The default text color to be applied to tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.webfills.schoolapp:tabUnboundedRipple}</code></td><td>Whether to use unbounded ripple effect for tabs, or if ripple should instead be bound to
      * tab item bounds.</td></tr>
      * </table>
      * @see #TabLayout_tabBackground
@@ -23502,7 +23502,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:tabBackground
+     * @attr name com.webfills.schoolapp:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
@@ -23516,7 +23516,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:tabContentStart
+     * @attr name com.webfills.schoolapp:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
@@ -23534,7 +23534,7 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:tabGravity
+     * @attr name com.webfills.schoolapp:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
@@ -23546,7 +23546,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:tabIconTint
+     * @attr name com.webfills.schoolapp:tabIconTint
      */
     public static final int TabLayout_tabIconTint=3;
     /**
@@ -23568,7 +23568,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:tabIconTintMode
+     * @attr name com.webfills.schoolapp:tabIconTintMode
      */
     public static final int TabLayout_tabIconTintMode=4;
     /**
@@ -23582,7 +23582,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:tabIndicator
+     * @attr name com.webfills.schoolapp:tabIndicator
      */
     public static final int TabLayout_tabIndicator=5;
     /**
@@ -23593,7 +23593,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:tabIndicatorAnimationDuration
+     * @attr name com.webfills.schoolapp:tabIndicatorAnimationDuration
      */
     public static final int TabLayout_tabIndicatorAnimationDuration=6;
     /**
@@ -23605,7 +23605,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:tabIndicatorColor
+     * @attr name com.webfills.schoolapp:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=7;
     /**
@@ -23618,7 +23618,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:tabIndicatorFullWidth
+     * @attr name com.webfills.schoolapp:tabIndicatorFullWidth
      */
     public static final int TabLayout_tabIndicatorFullWidth=8;
     /**
@@ -23638,7 +23638,7 @@ public final class R {
      * <tr><td>top</td><td>2</td><td>Align indicator to the top of this tab layout.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:tabIndicatorGravity
+     * @attr name com.webfills.schoolapp:tabIndicatorGravity
      */
     public static final int TabLayout_tabIndicatorGravity=9;
     /**
@@ -23654,7 +23654,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:tabIndicatorHeight
+     * @attr name com.webfills.schoolapp:tabIndicatorHeight
      */
     @Deprecated
     public static final int TabLayout_tabIndicatorHeight=10;
@@ -23666,7 +23666,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:tabInlineLabel
+     * @attr name com.webfills.schoolapp:tabInlineLabel
      */
     public static final int TabLayout_tabInlineLabel=11;
     /**
@@ -23680,7 +23680,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:tabMaxWidth
+     * @attr name com.webfills.schoolapp:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=12;
     /**
@@ -23694,7 +23694,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:tabMinWidth
+     * @attr name com.webfills.schoolapp:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=13;
     /**
@@ -23713,7 +23713,7 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:tabMode
+     * @attr name com.webfills.schoolapp:tabMode
      */
     public static final int TabLayout_tabMode=14;
     /**
@@ -23727,7 +23727,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:tabPadding
+     * @attr name com.webfills.schoolapp:tabPadding
      */
     public static final int TabLayout_tabPadding=15;
     /**
@@ -23741,7 +23741,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:tabPaddingBottom
+     * @attr name com.webfills.schoolapp:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=16;
     /**
@@ -23755,7 +23755,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:tabPaddingEnd
+     * @attr name com.webfills.schoolapp:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=17;
     /**
@@ -23769,7 +23769,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:tabPaddingStart
+     * @attr name com.webfills.schoolapp:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=18;
     /**
@@ -23783,7 +23783,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:tabPaddingTop
+     * @attr name com.webfills.schoolapp:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=19;
     /**
@@ -23796,7 +23796,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:tabRippleColor
+     * @attr name com.webfills.schoolapp:tabRippleColor
      */
     public static final int TabLayout_tabRippleColor=20;
     /**
@@ -23809,7 +23809,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:tabSelectedTextColor
+     * @attr name com.webfills.schoolapp:tabSelectedTextColor
      */
     @Deprecated
     public static final int TabLayout_tabSelectedTextColor=21;
@@ -23823,7 +23823,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:tabTextAppearance
+     * @attr name com.webfills.schoolapp:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=22;
     /**
@@ -23835,7 +23835,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:tabTextColor
+     * @attr name com.webfills.schoolapp:tabTextColor
      */
     public static final int TabLayout_tabTextColor=23;
     /**
@@ -23847,7 +23847,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:tabUnboundedRipple
+     * @attr name com.webfills.schoolapp:tabUnboundedRipple
      */
     public static final int TabLayout_tabUnboundedRipple=24;
     /**
@@ -23869,10 +23869,10 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_textFontWeight android:textFontWeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.webfills.schoolgoa:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontVariationSettings com.webfills.schoolgoa:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.webfills.schoolgoa:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textLocale com.webfills.schoolgoa:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.webfills.schoolapp:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontVariationSettings com.webfills.schoolapp:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.webfills.schoolapp:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textLocale com.webfills.schoolapp:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
      * for example "ja-JP,zh-CN".</td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
@@ -24058,7 +24058,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:fontFamily
+     * @attr name com.webfills.schoolapp:fontFamily
      */
     public static final int TextAppearance_fontFamily=12;
     /**
@@ -24069,7 +24069,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:fontVariationSettings
+     * @attr name com.webfills.schoolapp:fontVariationSettings
      */
     public static final int TextAppearance_fontVariationSettings=13;
     /**
@@ -24084,7 +24084,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:textAllCaps
+     * @attr name com.webfills.schoolapp:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=14;
     /**
@@ -24099,7 +24099,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:textLocale
+     * @attr name com.webfills.schoolapp:textLocale
      */
     public static final int TextAppearance_textLocale=15;
     /**
@@ -24111,57 +24111,57 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.webfills.schoolgoa:boxBackgroundColor}</code></td><td>The color to use for the box's background color when in filled box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.webfills.schoolgoa:boxBackgroundMode}</code></td><td>Whether the text input area should be drawn as a filled box, an outline box, or not as a box.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.webfills.schoolgoa:boxCollapsedPaddingTop}</code></td><td>Value to use for the EditText's collapsed top padding in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.webfills.schoolgoa:boxCornerRadiusBottomEnd}</code></td><td>The value to use for the box's bottom end corner radius when in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.webfills.schoolgoa:boxCornerRadiusBottomStart}</code></td><td>The value to use for the box's bottom start corner radius when in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.webfills.schoolgoa:boxCornerRadiusTopEnd}</code></td><td>The value to use for the box's top end corner radius when in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.webfills.schoolgoa:boxCornerRadiusTopStart}</code></td><td>The value to use for the box's top start corner radius when in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.webfills.schoolgoa:boxStrokeColor}</code></td><td>The color to use for the box's stroke when in outline box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.webfills.schoolgoa:boxStrokeWidth}</code></td><td>The value to use for the box's stroke when in outline box mode, or for the underline stroke
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.webfills.schoolapp:boxBackgroundColor}</code></td><td>The color to use for the box's background color when in filled box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.webfills.schoolapp:boxBackgroundMode}</code></td><td>Whether the text input area should be drawn as a filled box, an outline box, or not as a box.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.webfills.schoolapp:boxCollapsedPaddingTop}</code></td><td>Value to use for the EditText's collapsed top padding in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.webfills.schoolapp:boxCornerRadiusBottomEnd}</code></td><td>The value to use for the box's bottom end corner radius when in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.webfills.schoolapp:boxCornerRadiusBottomStart}</code></td><td>The value to use for the box's bottom start corner radius when in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.webfills.schoolapp:boxCornerRadiusTopEnd}</code></td><td>The value to use for the box's top end corner radius when in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.webfills.schoolapp:boxCornerRadiusTopStart}</code></td><td>The value to use for the box's top start corner radius when in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.webfills.schoolapp:boxStrokeColor}</code></td><td>The color to use for the box's stroke when in outline box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.webfills.schoolapp:boxStrokeWidth}</code></td><td>The value to use for the box's stroke when in outline box mode, or for the underline stroke
      * in filled mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidthFocused com.webfills.schoolgoa:boxStrokeWidthFocused}</code></td><td>The value to use for the focused box's stroke when in outline box mode, or for the focused
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidthFocused com.webfills.schoolapp:boxStrokeWidthFocused}</code></td><td>The value to use for the focused box's stroke when in outline box mode, or for the focused
      * underline stroke in filled mode..</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.webfills.schoolgoa:counterEnabled}</code></td><td>Whether the layout is laid out as if the character counter will be displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.webfills.schoolgoa:counterMaxLength}</code></td><td>The max length to display in the character counter.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.webfills.schoolgoa:counterOverflowTextAppearance}</code></td><td>TextAppearance of the character counter when the text is longer than the max.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextColor com.webfills.schoolgoa:counterOverflowTextColor}</code></td><td>Text color of the character counter when the text is longer than the max.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.webfills.schoolgoa:counterTextAppearance}</code></td><td>TextAppearance of the character counter.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextColor com.webfills.schoolgoa:counterTextColor}</code></td><td>Text color of the character counter.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconCheckable com.webfills.schoolgoa:endIconCheckable}</code></td><td>Whether the end icon is checkable.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconContentDescription com.webfills.schoolgoa:endIconContentDescription}</code></td><td>Text to set as the content description for the end icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconDrawable com.webfills.schoolgoa:endIconDrawable}</code></td><td>Drawable to use for the end icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconMode com.webfills.schoolgoa:endIconMode}</code></td><td>The end icon mode of the TextInputLayout.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconTint com.webfills.schoolgoa:endIconTint}</code></td><td>Tint color to use for the end icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconTintMode com.webfills.schoolgoa:endIconTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.webfills.schoolgoa:errorEnabled}</code></td><td>Whether the layout is laid out as if an error will be displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorIconDrawable com.webfills.schoolgoa:errorIconDrawable}</code></td><td>End icon to be shown when an error is displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorIconTint com.webfills.schoolgoa:errorIconTint}</code></td><td>Tint color to use for the error icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorIconTintMode com.webfills.schoolgoa:errorIconTintMode}</code></td><td>Blending mode used to apply the error icon tint.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.webfills.schoolgoa:errorTextAppearance}</code></td><td>TextAppearance of any error message displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextColor com.webfills.schoolgoa:errorTextColor}</code></td><td>Text color for any error message displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperText com.webfills.schoolgoa:helperText}</code></td><td>The text to display as helper text underneath the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.webfills.schoolgoa:helperTextEnabled}</code></td><td>Whether the layout's helper text functionality is enabled.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.webfills.schoolgoa:helperTextTextAppearance}</code></td><td>TextAppearance of the helper text displayed underneath the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextColor com.webfills.schoolgoa:helperTextTextColor}</code></td><td>Text color of the helper text displayed underneath the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.webfills.schoolgoa:hintAnimationEnabled}</code></td><td>Whether to animate hint state changes.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.webfills.schoolgoa:hintEnabled}</code></td><td>Whether the layout's floating label functionality is enabled.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.webfills.schoolgoa:hintTextAppearance}</code></td><td>TextAppearance of the hint in the collapsed floating label.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextColor com.webfills.schoolgoa:hintTextColor}</code></td><td>Text color of the hint in the collapsed floating label.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.webfills.schoolgoa:passwordToggleContentDescription}</code></td><td>Text to set as the content description for the password input visibility toggle.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.webfills.schoolgoa:passwordToggleDrawable}</code></td><td>Drawable to use as the password input visibility toggle icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.webfills.schoolgoa:passwordToggleEnabled}</code></td><td>Whether the view will display a toggle when the EditText has a password.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.webfills.schoolgoa:passwordToggleTint}</code></td><td>Icon to use for the password input visibility toggle
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.webfills.schoolapp:counterEnabled}</code></td><td>Whether the layout is laid out as if the character counter will be displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.webfills.schoolapp:counterMaxLength}</code></td><td>The max length to display in the character counter.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.webfills.schoolapp:counterOverflowTextAppearance}</code></td><td>TextAppearance of the character counter when the text is longer than the max.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextColor com.webfills.schoolapp:counterOverflowTextColor}</code></td><td>Text color of the character counter when the text is longer than the max.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.webfills.schoolapp:counterTextAppearance}</code></td><td>TextAppearance of the character counter.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextColor com.webfills.schoolapp:counterTextColor}</code></td><td>Text color of the character counter.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconCheckable com.webfills.schoolapp:endIconCheckable}</code></td><td>Whether the end icon is checkable.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconContentDescription com.webfills.schoolapp:endIconContentDescription}</code></td><td>Text to set as the content description for the end icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconDrawable com.webfills.schoolapp:endIconDrawable}</code></td><td>Drawable to use for the end icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconMode com.webfills.schoolapp:endIconMode}</code></td><td>The end icon mode of the TextInputLayout.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconTint com.webfills.schoolapp:endIconTint}</code></td><td>Tint color to use for the end icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconTintMode com.webfills.schoolapp:endIconTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.webfills.schoolapp:errorEnabled}</code></td><td>Whether the layout is laid out as if an error will be displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorIconDrawable com.webfills.schoolapp:errorIconDrawable}</code></td><td>End icon to be shown when an error is displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorIconTint com.webfills.schoolapp:errorIconTint}</code></td><td>Tint color to use for the error icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorIconTintMode com.webfills.schoolapp:errorIconTintMode}</code></td><td>Blending mode used to apply the error icon tint.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.webfills.schoolapp:errorTextAppearance}</code></td><td>TextAppearance of any error message displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextColor com.webfills.schoolapp:errorTextColor}</code></td><td>Text color for any error message displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperText com.webfills.schoolapp:helperText}</code></td><td>The text to display as helper text underneath the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.webfills.schoolapp:helperTextEnabled}</code></td><td>Whether the layout's helper text functionality is enabled.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.webfills.schoolapp:helperTextTextAppearance}</code></td><td>TextAppearance of the helper text displayed underneath the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextColor com.webfills.schoolapp:helperTextTextColor}</code></td><td>Text color of the helper text displayed underneath the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.webfills.schoolapp:hintAnimationEnabled}</code></td><td>Whether to animate hint state changes.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.webfills.schoolapp:hintEnabled}</code></td><td>Whether the layout's floating label functionality is enabled.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.webfills.schoolapp:hintTextAppearance}</code></td><td>TextAppearance of the hint in the collapsed floating label.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextColor com.webfills.schoolapp:hintTextColor}</code></td><td>Text color of the hint in the collapsed floating label.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.webfills.schoolapp:passwordToggleContentDescription}</code></td><td>Text to set as the content description for the password input visibility toggle.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.webfills.schoolapp:passwordToggleDrawable}</code></td><td>Drawable to use as the password input visibility toggle icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.webfills.schoolapp:passwordToggleEnabled}</code></td><td>Whether the view will display a toggle when the EditText has a password.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.webfills.schoolapp:passwordToggleTint}</code></td><td>Icon to use for the password input visibility toggle
      * Deprecated.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.webfills.schoolgoa:passwordToggleTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_shapeAppearance com.webfills.schoolgoa:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_shapeAppearanceOverlay com.webfills.schoolgoa:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconCheckable com.webfills.schoolgoa:startIconCheckable}</code></td><td>Whether the start icon is checkable.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconContentDescription com.webfills.schoolgoa:startIconContentDescription}</code></td><td>Text to set as the content description for the start icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconDrawable com.webfills.schoolgoa:startIconDrawable}</code></td><td>Drawable to use for the start icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconTint com.webfills.schoolgoa:startIconTint}</code></td><td>Tint color to use for the start icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconTintMode com.webfills.schoolgoa:startIconTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.webfills.schoolapp:passwordToggleTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_shapeAppearance com.webfills.schoolapp:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_shapeAppearanceOverlay com.webfills.schoolapp:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconCheckable com.webfills.schoolapp:startIconCheckable}</code></td><td>Whether the start icon is checkable.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconContentDescription com.webfills.schoolapp:startIconContentDescription}</code></td><td>Text to set as the content description for the start icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconDrawable com.webfills.schoolapp:startIconDrawable}</code></td><td>Drawable to use for the start icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconTint com.webfills.schoolapp:startIconTint}</code></td><td>Tint color to use for the start icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconTintMode com.webfills.schoolapp:startIconTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -24265,7 +24265,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:boxBackgroundColor
+     * @attr name com.webfills.schoolapp:boxBackgroundColor
      */
     public static final int TextInputLayout_boxBackgroundColor=2;
     /**
@@ -24284,7 +24284,7 @@ public final class R {
      * <tr><td>outline</td><td>2</td><td>Outline box mode for the text input box.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:boxBackgroundMode
+     * @attr name com.webfills.schoolapp:boxBackgroundMode
      */
     public static final int TextInputLayout_boxBackgroundMode=3;
     /**
@@ -24298,7 +24298,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:boxCollapsedPaddingTop
+     * @attr name com.webfills.schoolapp:boxCollapsedPaddingTop
      */
     public static final int TextInputLayout_boxCollapsedPaddingTop=4;
     /**
@@ -24312,7 +24312,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:boxCornerRadiusBottomEnd
+     * @attr name com.webfills.schoolapp:boxCornerRadiusBottomEnd
      */
     public static final int TextInputLayout_boxCornerRadiusBottomEnd=5;
     /**
@@ -24326,7 +24326,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:boxCornerRadiusBottomStart
+     * @attr name com.webfills.schoolapp:boxCornerRadiusBottomStart
      */
     public static final int TextInputLayout_boxCornerRadiusBottomStart=6;
     /**
@@ -24340,7 +24340,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:boxCornerRadiusTopEnd
+     * @attr name com.webfills.schoolapp:boxCornerRadiusTopEnd
      */
     public static final int TextInputLayout_boxCornerRadiusTopEnd=7;
     /**
@@ -24354,7 +24354,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:boxCornerRadiusTopStart
+     * @attr name com.webfills.schoolapp:boxCornerRadiusTopStart
      */
     public static final int TextInputLayout_boxCornerRadiusTopStart=8;
     /**
@@ -24366,7 +24366,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:boxStrokeColor
+     * @attr name com.webfills.schoolapp:boxStrokeColor
      */
     public static final int TextInputLayout_boxStrokeColor=9;
     /**
@@ -24381,7 +24381,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:boxStrokeWidth
+     * @attr name com.webfills.schoolapp:boxStrokeWidth
      */
     public static final int TextInputLayout_boxStrokeWidth=10;
     /**
@@ -24396,7 +24396,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:boxStrokeWidthFocused
+     * @attr name com.webfills.schoolapp:boxStrokeWidthFocused
      */
     public static final int TextInputLayout_boxStrokeWidthFocused=11;
     /**
@@ -24407,7 +24407,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:counterEnabled
+     * @attr name com.webfills.schoolapp:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=12;
     /**
@@ -24417,7 +24417,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:counterMaxLength
+     * @attr name com.webfills.schoolapp:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=13;
     /**
@@ -24430,7 +24430,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:counterOverflowTextAppearance
+     * @attr name com.webfills.schoolapp:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=14;
     /**
@@ -24444,7 +24444,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:counterOverflowTextColor
+     * @attr name com.webfills.schoolapp:counterOverflowTextColor
      */
     public static final int TextInputLayout_counterOverflowTextColor=15;
     /**
@@ -24457,7 +24457,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:counterTextAppearance
+     * @attr name com.webfills.schoolapp:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=16;
     /**
@@ -24471,7 +24471,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:counterTextColor
+     * @attr name com.webfills.schoolapp:counterTextColor
      */
     public static final int TextInputLayout_counterTextColor=17;
     /**
@@ -24482,7 +24482,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:endIconCheckable
+     * @attr name com.webfills.schoolapp:endIconCheckable
      */
     public static final int TextInputLayout_endIconCheckable=18;
     /**
@@ -24493,7 +24493,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:endIconContentDescription
+     * @attr name com.webfills.schoolapp:endIconContentDescription
      */
     public static final int TextInputLayout_endIconContentDescription=19;
     /**
@@ -24506,7 +24506,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:endIconDrawable
+     * @attr name com.webfills.schoolapp:endIconDrawable
      */
     public static final int TextInputLayout_endIconDrawable=20;
     /**
@@ -24528,7 +24528,7 @@ public final class R {
      * <tr><td>password_toggle</td><td>1</td><td>The view will display a toggle when the EditText has a password.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:endIconMode
+     * @attr name com.webfills.schoolapp:endIconMode
      */
     public static final int TextInputLayout_endIconMode=21;
     /**
@@ -24540,7 +24540,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:endIconTint
+     * @attr name com.webfills.schoolapp:endIconTint
      */
     public static final int TextInputLayout_endIconTint=22;
     /**
@@ -24565,7 +24565,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:endIconTintMode
+     * @attr name com.webfills.schoolapp:endIconTintMode
      */
     public static final int TextInputLayout_endIconTintMode=23;
     /**
@@ -24576,7 +24576,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:errorEnabled
+     * @attr name com.webfills.schoolapp:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=24;
     /**
@@ -24589,7 +24589,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:errorIconDrawable
+     * @attr name com.webfills.schoolapp:errorIconDrawable
      */
     public static final int TextInputLayout_errorIconDrawable=25;
     /**
@@ -24602,7 +24602,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:errorIconTint
+     * @attr name com.webfills.schoolapp:errorIconTint
      */
     public static final int TextInputLayout_errorIconTint=26;
     /**
@@ -24627,7 +24627,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:errorIconTintMode
+     * @attr name com.webfills.schoolapp:errorIconTintMode
      */
     public static final int TextInputLayout_errorIconTintMode=27;
     /**
@@ -24640,7 +24640,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:errorTextAppearance
+     * @attr name com.webfills.schoolapp:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=28;
     /**
@@ -24653,7 +24653,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:errorTextColor
+     * @attr name com.webfills.schoolapp:errorTextColor
      */
     public static final int TextInputLayout_errorTextColor=29;
     /**
@@ -24664,7 +24664,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:helperText
+     * @attr name com.webfills.schoolapp:helperText
      */
     public static final int TextInputLayout_helperText=30;
     /**
@@ -24675,7 +24675,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:helperTextEnabled
+     * @attr name com.webfills.schoolapp:helperTextEnabled
      */
     public static final int TextInputLayout_helperTextEnabled=31;
     /**
@@ -24688,7 +24688,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:helperTextTextAppearance
+     * @attr name com.webfills.schoolapp:helperTextTextAppearance
      */
     public static final int TextInputLayout_helperTextTextAppearance=32;
     /**
@@ -24701,7 +24701,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:helperTextTextColor
+     * @attr name com.webfills.schoolapp:helperTextTextColor
      */
     public static final int TextInputLayout_helperTextTextColor=33;
     /**
@@ -24712,7 +24712,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:hintAnimationEnabled
+     * @attr name com.webfills.schoolapp:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=34;
     /**
@@ -24723,7 +24723,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:hintEnabled
+     * @attr name com.webfills.schoolapp:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=35;
     /**
@@ -24736,7 +24736,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:hintTextAppearance
+     * @attr name com.webfills.schoolapp:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=36;
     /**
@@ -24749,7 +24749,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:hintTextColor
+     * @attr name com.webfills.schoolapp:hintTextColor
      */
     public static final int TextInputLayout_hintTextColor=37;
     /**
@@ -24761,7 +24761,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:passwordToggleContentDescription
+     * @attr name com.webfills.schoolapp:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=38;
     /**
@@ -24775,7 +24775,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:passwordToggleDrawable
+     * @attr name com.webfills.schoolapp:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=39;
     /**
@@ -24787,7 +24787,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:passwordToggleEnabled
+     * @attr name com.webfills.schoolapp:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=40;
     /**
@@ -24800,7 +24800,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:passwordToggleTint
+     * @attr name com.webfills.schoolapp:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=41;
     /**
@@ -24826,7 +24826,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:passwordToggleTintMode
+     * @attr name com.webfills.schoolapp:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=42;
     /**
@@ -24840,7 +24840,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearance
+     * @attr name com.webfills.schoolapp:shapeAppearance
      */
     public static final int TextInputLayout_shapeAppearance=43;
     /**
@@ -24855,7 +24855,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:shapeAppearanceOverlay
+     * @attr name com.webfills.schoolapp:shapeAppearanceOverlay
      */
     public static final int TextInputLayout_shapeAppearanceOverlay=44;
     /**
@@ -24866,7 +24866,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:startIconCheckable
+     * @attr name com.webfills.schoolapp:startIconCheckable
      */
     public static final int TextInputLayout_startIconCheckable=45;
     /**
@@ -24877,7 +24877,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:startIconContentDescription
+     * @attr name com.webfills.schoolapp:startIconContentDescription
      */
     public static final int TextInputLayout_startIconContentDescription=46;
     /**
@@ -24890,7 +24890,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:startIconDrawable
+     * @attr name com.webfills.schoolapp:startIconDrawable
      */
     public static final int TextInputLayout_startIconDrawable=47;
     /**
@@ -24902,7 +24902,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:startIconTint
+     * @attr name com.webfills.schoolapp:startIconTint
      */
     public static final int TextInputLayout_startIconTint=48;
     /**
@@ -24927,7 +24927,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:startIconTintMode
+     * @attr name com.webfills.schoolapp:startIconTintMode
      */
     public static final int TextInputLayout_startIconTintMode=49;
     /**
@@ -24938,10 +24938,10 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ThemeEnforcement_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.webfills.schoolgoa:enforceMaterialTheme}</code></td><td>Internal flag used to denote that a style uses new attributes defined by
+     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.webfills.schoolapp:enforceMaterialTheme}</code></td><td>Internal flag used to denote that a style uses new attributes defined by
      * Theme.MaterialComponents, and that the component should check via ThemeEnforcement that the
      * client's app theme inherits from Theme.MaterialComponents.</td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.webfills.schoolgoa:enforceTextAppearance}</code></td><td>Internal flag used to denote that a style requires that the textAppearance attribute is
+     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.webfills.schoolapp:enforceTextAppearance}</code></td><td>Internal flag used to denote that a style requires that the textAppearance attribute is
      * specified and evaluates to a valid text appearance.</td></tr>
      * </table>
      * @see #ThemeEnforcement_android_textAppearance
@@ -24978,7 +24978,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:enforceMaterialTheme
+     * @attr name com.webfills.schoolapp:enforceMaterialTheme
      */
     public static final int ThemeEnforcement_enforceMaterialTheme=1;
     /**
@@ -24990,7 +24990,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:enforceTextAppearance
+     * @attr name com.webfills.schoolapp:enforceTextAppearance
      */
     public static final int ThemeEnforcement_enforceTextAppearance=2;
     /**
@@ -25002,41 +25002,41 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.webfills.schoolgoa:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.webfills.schoolgoa:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.webfills.schoolgoa:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.webfills.schoolgoa:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.webfills.schoolgoa:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.webfills.schoolapp:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.webfills.schoolapp:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.webfills.schoolapp:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.webfills.schoolapp:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.webfills.schoolapp:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.webfills.schoolgoa:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.webfills.schoolgoa:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.webfills.schoolgoa:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.webfills.schoolgoa:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.webfills.schoolapp:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.webfills.schoolapp:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.webfills.schoolapp:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.webfills.schoolapp:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.webfills.schoolgoa:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.webfills.schoolgoa:logoDescription}</code></td><td>A content description string to describe the appearance of the
+     * <tr><td><code>{@link #Toolbar_logo com.webfills.schoolapp:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.webfills.schoolapp:logoDescription}</code></td><td>A content description string to describe the appearance of the
      * associated logo image.</td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.webfills.schoolgoa:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_menu com.webfills.schoolgoa:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.webfills.schoolgoa:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.webfills.schoolapp:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_menu com.webfills.schoolapp:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.webfills.schoolapp:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
      * located at the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.webfills.schoolgoa:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.webfills.schoolapp:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
      * the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.webfills.schoolgoa:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Toolbar_popupTheme com.webfills.schoolapp:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.webfills.schoolgoa:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.webfills.schoolgoa:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.webfills.schoolgoa:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.webfills.schoolgoa:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.webfills.schoolgoa:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
+     * <tr><td><code>{@link #Toolbar_subtitle com.webfills.schoolapp:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.webfills.schoolapp:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.webfills.schoolapp:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.webfills.schoolapp:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.webfills.schoolapp:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
      * of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.webfills.schoolgoa:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.webfills.schoolgoa:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.webfills.schoolgoa:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.webfills.schoolgoa:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.webfills.schoolgoa:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.webfills.schoolgoa:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.webfills.schoolgoa:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.webfills.schoolapp:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.webfills.schoolapp:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.webfills.schoolapp:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.webfills.schoolapp:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.webfills.schoolapp:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.webfills.schoolapp:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.webfills.schoolapp:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -25123,7 +25123,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -25137,7 +25137,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:buttonGravity
+     * @attr name com.webfills.schoolapp:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
@@ -25148,7 +25148,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:collapseContentDescription
+     * @attr name com.webfills.schoolapp:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
@@ -25161,7 +25161,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:collapseIcon
+     * @attr name com.webfills.schoolapp:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
@@ -25176,7 +25176,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentInsetEnd
+     * @attr name com.webfills.schoolapp:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
@@ -25191,7 +25191,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentInsetEndWithActions
+     * @attr name com.webfills.schoolapp:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
@@ -25206,7 +25206,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentInsetLeft
+     * @attr name com.webfills.schoolapp:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
@@ -25221,7 +25221,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentInsetRight
+     * @attr name com.webfills.schoolapp:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
@@ -25236,7 +25236,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentInsetStart
+     * @attr name com.webfills.schoolapp:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
@@ -25251,7 +25251,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:contentInsetStartWithNavigation
+     * @attr name com.webfills.schoolapp:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
@@ -25265,7 +25265,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:logo
+     * @attr name com.webfills.schoolapp:logo
      */
     public static final int Toolbar_logo=11;
     /**
@@ -25277,11 +25277,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:logoDescription
+     * @attr name com.webfills.schoolapp:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25290,7 +25290,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:maxButtonHeight
+     * @attr name com.webfills.schoolapp:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
@@ -25303,7 +25303,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:menu
+     * @attr name com.webfills.schoolapp:menu
      */
     public static final int Toolbar_menu=14;
     /**
@@ -25315,7 +25315,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:navigationContentDescription
+     * @attr name com.webfills.schoolapp:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=15;
     /**
@@ -25329,7 +25329,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:navigationIcon
+     * @attr name com.webfills.schoolapp:navigationIcon
      */
     public static final int Toolbar_navigationIcon=16;
     /**
@@ -25343,7 +25343,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:popupTheme
+     * @attr name com.webfills.schoolapp:popupTheme
      */
     public static final int Toolbar_popupTheme=17;
     /**
@@ -25354,11 +25354,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:subtitle
+     * @attr name com.webfills.schoolapp:subtitle
      */
     public static final int Toolbar_subtitle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25366,7 +25366,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:subtitleTextAppearance
+     * @attr name com.webfills.schoolapp:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=19;
     /**
@@ -25378,17 +25378,17 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:subtitleTextColor
+     * @attr name com.webfills.schoolapp:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=20;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:title
+     * @attr name com.webfills.schoolapp:title
      */
     public static final int Toolbar_title=21;
     /**
@@ -25403,7 +25403,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:titleMargin
+     * @attr name com.webfills.schoolapp:titleMargin
      */
     public static final int Toolbar_titleMargin=22;
     /**
@@ -25419,7 +25419,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:titleMarginBottom
+     * @attr name com.webfills.schoolapp:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=23;
     /**
@@ -25435,7 +25435,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:titleMarginEnd
+     * @attr name com.webfills.schoolapp:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=24;
     /**
@@ -25451,7 +25451,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:titleMarginStart
+     * @attr name com.webfills.schoolapp:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=25;
     /**
@@ -25467,7 +25467,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:titleMarginTop
+     * @attr name com.webfills.schoolapp:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=26;
     /**
@@ -25481,12 +25481,12 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:titleMargins
+     * @attr name com.webfills.schoolapp:titleMargins
      */
     @Deprecated
     public static final int Toolbar_titleMargins=27;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25494,7 +25494,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:titleTextAppearance
+     * @attr name com.webfills.schoolapp:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=28;
     /**
@@ -25506,7 +25506,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:titleTextColor
+     * @attr name com.webfills.schoolapp:titleTextColor
      */
     public static final int Toolbar_titleTextColor=29;
     /**
@@ -25518,10 +25518,10 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Transition_android_interpolator android:interpolator}</code></td><td></td></tr>
      * <tr><td><code>{@link #Transition_android_duration android:duration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_duration com.webfills.schoolgoa:duration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_interpolator com.webfills.schoolgoa:interpolator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_matchOrder com.webfills.schoolgoa:matchOrder}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_startDelay com.webfills.schoolgoa:startDelay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_duration com.webfills.schoolapp:duration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_interpolator com.webfills.schoolapp:interpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_matchOrder com.webfills.schoolapp:matchOrder}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_startDelay com.webfills.schoolapp:startDelay}</code></td><td></td></tr>
      * </table>
      * @see #Transition_android_interpolator
      * @see #Transition_android_duration
@@ -25556,16 +25556,16 @@ public final class R {
      */
     public static final int Transition_android_duration=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#duration}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#duration}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:duration
+     * @attr name com.webfills.schoolapp:duration
      */
     public static final int Transition_duration=2;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#interpolator}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#interpolator}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25573,26 +25573,26 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:interpolator
+     * @attr name com.webfills.schoolapp:interpolator
      */
     public static final int Transition_interpolator=3;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#matchOrder}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#matchOrder}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:matchOrder
+     * @attr name com.webfills.schoolapp:matchOrder
      */
     public static final int Transition_matchOrder=4;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#startDelay}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#startDelay}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:startDelay
+     * @attr name com.webfills.schoolapp:startDelay
      */
     public static final int Transition_startDelay=5;
     /**
@@ -25602,9 +25602,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TransitionManager_fromScene com.webfills.schoolgoa:fromScene}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionManager_toScene com.webfills.schoolgoa:toScene}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionManager_transition com.webfills.schoolgoa:transition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionManager_fromScene com.webfills.schoolapp:fromScene}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionManager_toScene com.webfills.schoolapp:toScene}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionManager_transition com.webfills.schoolapp:transition}</code></td><td></td></tr>
      * </table>
      * @see #TransitionManager_fromScene
      * @see #TransitionManager_toScene
@@ -25614,7 +25614,7 @@ public final class R {
       0x7f030135, 0x7f0302b5, 0x7f0302bf
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#fromScene}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#fromScene}
      * attribute's value can be found in the {@link #TransitionManager} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25622,11 +25622,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:fromScene
+     * @attr name com.webfills.schoolapp:fromScene
      */
     public static final int TransitionManager_fromScene=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#toScene}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#toScene}
      * attribute's value can be found in the {@link #TransitionManager} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25634,11 +25634,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:toScene
+     * @attr name com.webfills.schoolapp:toScene
      */
     public static final int TransitionManager_toScene=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#transition}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#transition}
      * attribute's value can be found in the {@link #TransitionManager} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25646,7 +25646,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:transition
+     * @attr name com.webfills.schoolapp:transition
      */
     public static final int TransitionManager_transition=2;
     /**
@@ -25656,7 +25656,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TransitionSet_transitionOrdering com.webfills.schoolgoa:transitionOrdering}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionSet_transitionOrdering com.webfills.schoolapp:transitionOrdering}</code></td><td></td></tr>
      * </table>
      * @see #TransitionSet_transitionOrdering
      */
@@ -25664,7 +25664,7 @@ public final class R {
       0x7f0302c0
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#transitionOrdering}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#transitionOrdering}
      * attribute's value can be found in the {@link #TransitionSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -25677,7 +25677,7 @@ public final class R {
      * <tr><td>together</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:transitionOrdering
+     * @attr name com.webfills.schoolapp:transitionOrdering
      */
     public static final int TransitionSet_transitionOrdering=0;
     /**
@@ -25687,12 +25687,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TransitionTarget_excludeClass com.webfills.schoolgoa:excludeClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionTarget_excludeId com.webfills.schoolgoa:excludeId}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionTarget_excludeName com.webfills.schoolgoa:excludeName}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionTarget_targetClass com.webfills.schoolgoa:targetClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionTarget_targetId com.webfills.schoolgoa:targetId}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionTarget_targetName com.webfills.schoolgoa:targetName}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionTarget_excludeClass com.webfills.schoolapp:excludeClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionTarget_excludeId com.webfills.schoolapp:excludeId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionTarget_excludeName com.webfills.schoolapp:excludeName}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionTarget_targetClass com.webfills.schoolapp:targetClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionTarget_targetId com.webfills.schoolapp:targetId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionTarget_targetName com.webfills.schoolapp:targetName}</code></td><td></td></tr>
      * </table>
      * @see #TransitionTarget_excludeClass
      * @see #TransitionTarget_excludeId
@@ -25706,17 +25706,17 @@ public final class R {
       0x7f030280, 0x7f030281
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#excludeClass}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#excludeClass}
      * attribute's value can be found in the {@link #TransitionTarget} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:excludeClass
+     * @attr name com.webfills.schoolapp:excludeClass
      */
     public static final int TransitionTarget_excludeClass=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#excludeId}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#excludeId}
      * attribute's value can be found in the {@link #TransitionTarget} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25724,31 +25724,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:excludeId
+     * @attr name com.webfills.schoolapp:excludeId
      */
     public static final int TransitionTarget_excludeId=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#excludeName}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#excludeName}
      * attribute's value can be found in the {@link #TransitionTarget} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:excludeName
+     * @attr name com.webfills.schoolapp:excludeName
      */
     public static final int TransitionTarget_excludeName=2;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#targetClass}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#targetClass}
      * attribute's value can be found in the {@link #TransitionTarget} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:targetClass
+     * @attr name com.webfills.schoolapp:targetClass
      */
     public static final int TransitionTarget_targetClass=3;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#targetId}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#targetId}
      * attribute's value can be found in the {@link #TransitionTarget} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25756,17 +25756,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:targetId
+     * @attr name com.webfills.schoolapp:targetId
      */
     public static final int TransitionTarget_targetId=4;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#targetName}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#targetName}
      * attribute's value can be found in the {@link #TransitionTarget} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.webfills.schoolgoa:targetName
+     * @attr name com.webfills.schoolapp:targetName
      */
     public static final int TransitionTarget_targetName=5;
     /**
@@ -25778,9 +25778,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.webfills.schoolgoa:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.webfills.schoolgoa:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_theme com.webfills.schoolgoa:theme}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.webfills.schoolapp:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.webfills.schoolapp:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_theme com.webfills.schoolapp:theme}</code></td><td>Deprecated.</td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -25842,7 +25842,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:paddingEnd
+     * @attr name com.webfills.schoolapp:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
@@ -25856,7 +25856,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:paddingStart
+     * @attr name com.webfills.schoolapp:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
@@ -25869,7 +25869,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:theme
+     * @attr name com.webfills.schoolapp:theme
      */
     public static final int View_theme=4;
     /**
@@ -25880,8 +25880,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.webfills.schoolgoa:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.webfills.schoolgoa:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.webfills.schoolapp:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.webfills.schoolapp:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -25914,7 +25914,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:backgroundTint
+     * @attr name com.webfills.schoolapp:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
@@ -25941,7 +25941,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:backgroundTintMode
+     * @attr name com.webfills.schoolapp:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
@@ -26040,7 +26040,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #VisibilityTransition_transitionVisibilityMode com.webfills.schoolgoa:transitionVisibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #VisibilityTransition_transitionVisibilityMode com.webfills.schoolapp:transitionVisibilityMode}</code></td><td></td></tr>
      * </table>
      * @see #VisibilityTransition_transitionVisibilityMode
      */
@@ -26048,7 +26048,7 @@ public final class R {
       0x7f0302c1
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#transitionVisibilityMode}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#transitionVisibilityMode}
      * attribute's value can be found in the {@link #VisibilityTransition} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -26061,7 +26061,7 @@ public final class R {
      * <tr><td>mode_out</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.webfills.schoolgoa:transitionVisibilityMode
+     * @attr name com.webfills.schoolapp:transitionVisibilityMode
      */
     public static final int VisibilityTransition_transitionVisibilityMode=0;
     /**
@@ -26071,16 +26071,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_barColor com.webfills.schoolgoa:matProg_barColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_barSpinCycleTime com.webfills.schoolgoa:matProg_barSpinCycleTime}</code></td><td></td></tr>
-     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_barWidth com.webfills.schoolgoa:matProg_barWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_circleRadius com.webfills.schoolgoa:matProg_circleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_fillRadius com.webfills.schoolgoa:matProg_fillRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_linearProgress com.webfills.schoolgoa:matProg_linearProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_progressIndeterminate com.webfills.schoolgoa:matProg_progressIndeterminate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_rimColor com.webfills.schoolgoa:matProg_rimColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_rimWidth com.webfills.schoolgoa:matProg_rimWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_spinSpeed com.webfills.schoolgoa:matProg_spinSpeed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_barColor com.webfills.schoolapp:matProg_barColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_barSpinCycleTime com.webfills.schoolapp:matProg_barSpinCycleTime}</code></td><td></td></tr>
+     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_barWidth com.webfills.schoolapp:matProg_barWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_circleRadius com.webfills.schoolapp:matProg_circleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_fillRadius com.webfills.schoolapp:matProg_fillRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_linearProgress com.webfills.schoolapp:matProg_linearProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_progressIndeterminate com.webfills.schoolapp:matProg_progressIndeterminate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_rimColor com.webfills.schoolapp:matProg_rimColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_rimWidth com.webfills.schoolapp:matProg_rimWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #imagepicker_ProgressWheel_matProg_spinSpeed com.webfills.schoolapp:matProg_spinSpeed}</code></td><td></td></tr>
      * </table>
      * @see #imagepicker_ProgressWheel_matProg_barColor
      * @see #imagepicker_ProgressWheel_matProg_barSpinCycleTime
@@ -26099,27 +26099,27 @@ public final class R {
       0x7f0301d0, 0x7f0301d1
     };
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#matProg_barColor}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#matProg_barColor}
      * attribute's value can be found in the {@link #imagepicker_ProgressWheel} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:matProg_barColor
+     * @attr name com.webfills.schoolapp:matProg_barColor
      */
     public static final int imagepicker_ProgressWheel_matProg_barColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#matProg_barSpinCycleTime}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#matProg_barSpinCycleTime}
      * attribute's value can be found in the {@link #imagepicker_ProgressWheel} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.webfills.schoolgoa:matProg_barSpinCycleTime
+     * @attr name com.webfills.schoolapp:matProg_barSpinCycleTime
      */
     public static final int imagepicker_ProgressWheel_matProg_barSpinCycleTime=1;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#matProg_barWidth}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#matProg_barWidth}
      * attribute's value can be found in the {@link #imagepicker_ProgressWheel} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -26128,11 +26128,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:matProg_barWidth
+     * @attr name com.webfills.schoolapp:matProg_barWidth
      */
     public static final int imagepicker_ProgressWheel_matProg_barWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#matProg_circleRadius}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#matProg_circleRadius}
      * attribute's value can be found in the {@link #imagepicker_ProgressWheel} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -26141,52 +26141,52 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:matProg_circleRadius
+     * @attr name com.webfills.schoolapp:matProg_circleRadius
      */
     public static final int imagepicker_ProgressWheel_matProg_circleRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#matProg_fillRadius}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#matProg_fillRadius}
      * attribute's value can be found in the {@link #imagepicker_ProgressWheel} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:matProg_fillRadius
+     * @attr name com.webfills.schoolapp:matProg_fillRadius
      */
     public static final int imagepicker_ProgressWheel_matProg_fillRadius=4;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#matProg_linearProgress}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#matProg_linearProgress}
      * attribute's value can be found in the {@link #imagepicker_ProgressWheel} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:matProg_linearProgress
+     * @attr name com.webfills.schoolapp:matProg_linearProgress
      */
     public static final int imagepicker_ProgressWheel_matProg_linearProgress=5;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#matProg_progressIndeterminate}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#matProg_progressIndeterminate}
      * attribute's value can be found in the {@link #imagepicker_ProgressWheel} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.webfills.schoolgoa:matProg_progressIndeterminate
+     * @attr name com.webfills.schoolapp:matProg_progressIndeterminate
      */
     public static final int imagepicker_ProgressWheel_matProg_progressIndeterminate=6;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#matProg_rimColor}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#matProg_rimColor}
      * attribute's value can be found in the {@link #imagepicker_ProgressWheel} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.webfills.schoolgoa:matProg_rimColor
+     * @attr name com.webfills.schoolapp:matProg_rimColor
      */
     public static final int imagepicker_ProgressWheel_matProg_rimColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#matProg_rimWidth}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#matProg_rimWidth}
      * attribute's value can be found in the {@link #imagepicker_ProgressWheel} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -26195,16 +26195,16 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.webfills.schoolgoa:matProg_rimWidth
+     * @attr name com.webfills.schoolapp:matProg_rimWidth
      */
     public static final int imagepicker_ProgressWheel_matProg_rimWidth=8;
     /**
-     * <p>This symbol is the offset where the {@link com.webfills.schoolgoa.R.attr#matProg_spinSpeed}
+     * <p>This symbol is the offset where the {@link com.webfills.schoolapp.R.attr#matProg_spinSpeed}
      * attribute's value can be found in the {@link #imagepicker_ProgressWheel} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.webfills.schoolgoa:matProg_spinSpeed
+     * @attr name com.webfills.schoolapp:matProg_spinSpeed
      */
     public static final int imagepicker_ProgressWheel_matProg_spinSpeed=9;
   }

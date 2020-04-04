@@ -139,8 +139,8 @@ public class LoginActivity extends AppCompatActivity {
 
     private void createUserAdmin() {
         User user = new User();
-        user.setUserName("Vishal");
-        user.setPassword("2193");
+        user.setUserName("Harpreet");
+        user.setPassword("1234");
         user.setUserType("Admin");
         SessionData.I().isEditable = true;
         FireBaseRepo.getInstance.createAdmin(user);

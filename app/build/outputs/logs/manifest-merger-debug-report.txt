@@ -174,7 +174,7 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\USER\.gradle\c
 	android:theme
 		ADDED from E:\AndroidProjects\schoolGoa\app\src\main\AndroidManifest.xml:15:9-40
 activity#com.webfills.schoolapp.activity.ImageActivity
-ADDED from E:\AndroidProjects\schoolGoa\app\src\main\AndroidManifest.xml:17:9-69
+ADDED from E:\AndroidProjects\schoolGoa\app\src\main\AndroidManifest.xml:17:9-59
 	android:name
 		ADDED from E:\AndroidProjects\schoolGoa\app\src\main\AndroidManifest.xml:17:19-57
 activity#com.webfills.schoolapp.activity.CreateNoticeActivity

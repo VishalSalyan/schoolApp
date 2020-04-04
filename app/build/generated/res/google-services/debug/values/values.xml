@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">496240528734-0nigonmsc3gcfvn7l4177m85egg6hu7l.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://schoolgoa-75974.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">496240528734</string>
-    <string name="google_api_key" translatable="false">AIzaSyCxpZadI-d8B5OAzrSXIP8Dfiq_0-4W2ew</string>
-    <string name="google_app_id" translatable="false">1:496240528734:android:8e4f0a65b90c4b912193cf</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCxpZadI-d8B5OAzrSXIP8Dfiq_0-4W2ew</string>
-    <string name="google_storage_bucket" translatable="false">schoolgoa-75974.appspot.com</string>
-    <string name="project_id" translatable="false">schoolgoa-75974</string>
+    <string name="default_web_client_id" translatable="false">220868681613-15ofnfgjepnu5dsni4md9cohb3h8ojpp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://schoolapp-d1fd6.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">220868681613</string>
+    <string name="google_api_key" translatable="false">AIzaSyAEl_8RcIkLf7WvKfc55yQeLuy8erJ432A</string>
+    <string name="google_app_id" translatable="false">1:220868681613:android:0cbe3207f5cf41e47927c4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAEl_8RcIkLf7WvKfc55yQeLuy8erJ432A</string>
+    <string name="google_storage_bucket" translatable="false">schoolapp-d1fd6.appspot.com</string>
+    <string name="project_id" translatable="false">schoolapp-d1fd6</string>
 </resources>

@@ -1,10 +1,8 @@
 package com.webfills.schoolapp.repositories;
 
-import android.app.DownloadManager;
 import android.content.Context;
 import android.net.Uri;
 import android.os.Environment;
-import android.util.Log;
 
 import androidx.annotation.NonNull;
 
@@ -22,7 +20,6 @@ import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.OnProgressListener;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
-import com.webfills.schoolapp.R;
 import com.webfills.schoolapp.adapters.ExamRoutineData;
 import com.webfills.schoolapp.data.AssignmentData;
 import com.webfills.schoolapp.data.EventsData;
@@ -36,11 +33,9 @@ import com.webfills.schoolapp.data.TeacherData;
 import com.webfills.schoolapp.data.User;
 import com.webfills.schoolapp.utils.Constants;
 
-import java.io.Console;
 import java.io.File;
 import java.util.ArrayList;
 
-import static android.content.Context.DOWNLOAD_SERVICE;
 import static com.webfills.schoolapp.utils.Utils.utils;
 
 public class FireBaseRepo {

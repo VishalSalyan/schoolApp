@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.webfills.schoolgoa"
+    package="com.webfills.schoolapp"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -92,7 +92,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.webfills.schoolgoa.fileprovider"
+            android:authorities="com.webfills.schoolapp.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -120,7 +120,7 @@
 
         <provider
             android:name="com.squareup.picasso.PicassoProvider"
-            android:authorities="com.webfills.schoolgoa.com.squareup.picasso"
+            android:authorities="com.webfills.schoolapp.com.squareup.picasso"
             android:exported="false" />
 
         <receiver
@@ -164,7 +164,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.webfills.schoolgoa.firebaseinitprovider"
+            android:authorities="com.webfills.schoolapp.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
